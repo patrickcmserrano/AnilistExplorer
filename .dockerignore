@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+scraper/venv/
+scraper/__pycache__/
+*.pyc
+__pycache__/
+
+# Build outputs
+dist/
+.astro/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Documentation (not needed in container)
+*.md
+!README.md
+
+# CI/CD
+.github/
+
+# Cache
+.cache/
+.npm/
+
+# Scripts
+*.sh
+!build-release.sh
+
+# SSL (não necessário no Render)
+ssl/
+
+# Docker
+docker-compose.yml
+render.yaml
+
+# Static (já em public/)
+static/

@@ -1,0 +1,139 @@
+---
+const { images = [] } = Astro.props;
+---
+
+{images && images.length > 0 && (
+  <div class="gallery-container">
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+      {images.map((src: string, index: number) => (
+        <button 
+          type="button" 
+          class="gallery-thumb block overflow-hidden rounded-lg bg-gray-800/40 hover:bg-gray-700/40 transition cursor-pointer"
+          data-image={src}
+          data-index={String(index)}
+        >
+          <img 
+            src={src} 
+            alt={`Imagem ${index + 1}`}
+            class="w-full h-36 object-cover transition-transform transform hover:scale-105"
+            loading="lazy"
+          />
+        </button>
+      ))}
+    </div>
+
+    <!-- Modal -->
+    <div id="gallery-modal" class="hidden fixed inset-0 z-50 flex items-center justify-center bg-black/90 p-4" role="dialog" aria-modal="true">
+      <button 
+        id="gallery-close" 
+        class="absolute top-4 right-4 text-white text-3xl hover:text-gray-300 transition z-10"
+        aria-label="Fechar galeria"
+      >
+        ✕
+      </button>
+      
+      <button 
+        id="gallery-prev" 
+        class="absolute left-4 text-white text-4xl hover:text-gray-300 transition z-10"
+        aria-label="Imagem anterior"
+      >
+        ‹
+      </button>
+      
+      <button 
+        id="gallery-next" 
+        class="absolute right-4 text-white text-4xl hover:text-gray-300 transition z-10"
+        aria-label="Próxima imagem"
+      >
+        ›
+      </button>
+      
+      <img 
+        id="gallery-img" 
+        src="" 
+        alt="" 
+        class="max-w-full max-h-full rounded-lg shadow-2xl"
+      />
+      
+      <div id="gallery-counter" class="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-white text-sm bg-black/50 px-4 py-2 rounded-full">
+      </div>
+    </div>
+
+    <script>
+      (() => {
+        const modal = document.getElementById('gallery-modal');
+        const modalImg = document.getElementById('gallery-img');
+        const closeBtn = document.getElementById('gallery-close');
+        const prevBtn = document.getElementById('gallery-prev');
+        const nextBtn = document.getElementById('gallery-next');
+        const counter = document.getElementById('gallery-counter');
+        const thumbs = Array.from(document.querySelectorAll('.gallery-thumb'));
+        
+        let currentIndex = 0;
+        let images: string[] = [];
+
+        function updateCounter() {
+          if (counter) {
+            counter.textContent = `${currentIndex + 1} / ${images.length}`;
+          }
+        }
+
+        function showImage(index: number) {
+          if (index < 0) index = images.length - 1;
+          if (index >= images.length) index = 0;
+          
+          currentIndex = index;
+          if (modalImg) (modalImg as HTMLImageElement).src = images[currentIndex];
+          updateCounter();
+        }
+
+        function openGallery(index: number) {
+          images = thumbs.map(thumb => thumb.getAttribute('data-image') || '');
+          console.log('Opening gallery with images:', images);
+          showImage(index);
+          if (modal) {
+            modal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+          }
+        }
+
+        function closeGallery() {
+          if (modal) {
+            modal.classList.add('hidden');
+            document.body.style.overflow = '';
+          }
+          if (modalImg) (modalImg as HTMLImageElement).src = '';
+        }
+
+        // Event listeners
+        thumbs.forEach((thumb, index) => {
+          thumb.addEventListener('click', (e) => {
+            e.preventDefault();
+            console.log('Clicked thumbnail:', index);
+            openGallery(index);
+          });
+        });
+
+        if (closeBtn) closeBtn.addEventListener('click', closeGallery);
+        if (prevBtn) prevBtn.addEventListener('click', () => showImage(currentIndex - 1));
+        if (nextBtn) nextBtn.addEventListener('click', () => showImage(currentIndex + 1));
+
+        if (modal) {
+          modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeGallery();
+          });
+        }
+
+        document.addEventListener('keydown', (e) => {
+          if (modal && !modal.classList.contains('hidden')) {
+            if (e.key === 'Escape') closeGallery();
+            if (e.key === 'ArrowLeft') showImage(currentIndex - 1);
+            if (e.key === 'ArrowRight') showImage(currentIndex + 1);
+          }
+        });
+
+        console.log('Gallery initialized with', thumbs.length, 'thumbnails');
+      })();
+    </script>
+  </div>
+)}

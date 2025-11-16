@@ -1,0 +1,29 @@
+---
+interface Props {
+  anime: any;
+}
+
+const { anime } = Astro.props;
+---
+
+<!-- Genres -->
+{anime.genres && anime.genres.length > 0 && (
+  <div class="mb-8">
+    <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-3">Gêneros</h3>
+    <div class="flex flex-wrap gap-2">
+      {anime.genres.map((genre: string) => (
+        <span class="px-3 py-1.5 bg-blue-600/30 text-blue-300 rounded-lg text-sm border border-blue-500/50 hover:bg-blue-600/40 transition">
+          {genre}
+        </span>
+      ))}
+    </div>
+  </div>
+)}
+
+<!-- Description -->
+{anime.description && (
+  <div class="mb-8">
+    <h3 class="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-3">Sinopse</h3>
+    <p class="text-gray-300 leading-relaxed">{anime.description}</p>
+  </div>
+)}

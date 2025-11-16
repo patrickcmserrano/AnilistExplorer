@@ -1,0 +1,30 @@
+---
+interface Anime {
+  id: number | string;
+  base_title: string;
+  cover_image: string;
+  count?: number;
+}
+
+interface Props {
+  animes: Anime[];
+}
+
+const { animes } = Astro.props;
+---
+
+<section class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+  {animes.map((anime: Anime) => (
+    <a href={`/anime/${anime.id}`} class="group block">
+      <article class="relative aspect-[2/3] rounded-lg overflow-hidden shadow-lg">
+        <img src={anime.cover_image} alt={anime.base_title} class="w-full h-full object-cover group-hover:scale-105 transition" loading="lazy" />
+        <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
+          <div class="absolute bottom-0 p-3">
+            <h3 class="text-white font-semibold text-sm line-clamp-2">{anime.base_title}</h3>
+            <p class="text-gray-300 text-xs mt-1">{anime.count || 0} releases</p>
+          </div>
+        </div>
+      </article>
+    </a>
+  ))}
+</section>

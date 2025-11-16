@@ -1,0 +1,37 @@
+---
+import '../styles/global.css';
+
+const { title = 'Anime Explorer - Descubra e Explore Animes do AniList' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Explorador moderno de animes com dados do AniList. Descubra animes populares, veja avaliações, gêneros, personagens e links para streaming legal." />
+    <meta name="keywords" content="anime, anilist, explorer, descobrir animes, avaliações, personagens, streaming legal, crunchyroll, netflix" />
+    <meta name="author" content="Anime Explorer" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://seu-dominio.com/" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content="Explorador de animes com dados completos do AniList" />
+    <meta property="og:image" content="https://seu-dominio.com/og-image.png" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://seu-dominio.com/" />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content="Explorador de animes com dados completos do AniList" />
+    <meta property="twitter:image" content="https://seu-dominio.com/og-image.png" />
+    
+    <title>{title}</title>
+    <link rel="icon" href="/favicon.ico" />
+  </head>
+  <body class="bg-neutral-900 text-white min-h-screen">
+    <slot />
+  </body>
+</html>

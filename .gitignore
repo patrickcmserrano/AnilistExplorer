@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Astro
+.astro/
+dist/
+.cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Scraper cache & outputs
+scraper/__pycache__/
+scraper/.venv/
+scraper/anime_cache.json
+scraper/*.txt
+scraper/anilist_episodes_*.json
+scraper/anilist_enriched_data.json
+scraper/anilist_enriched_report.txt
+
+# Build & Release
+build/
+release/
+*.tar.gz
+*.zip
+
+# Data & Logs
+/data/
+logs/
+ssl/
+static/
+
+# Keep src/data/anime.json (important for app)
+!src/data/
+!src/data/anime.json
+
+# Environment
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Keep examples
+!.env.example
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

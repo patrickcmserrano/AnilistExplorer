@@ -1,0 +1,74 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SearchBar from '../components/SearchBar';
+import InfiniteAnimeGrid from '../components/InfiniteAnimeGrid';
+import CoverCarousel from '../components/CoverCarousel';
+import animeData from '../data/anime.json';
+
+export const prerender = true;
+
+// Handle both old format (array/object keyed by title) and new format (object with metadata + anime array)
+let animeArray: any[] = [];
+if (Array.isArray(animeData)) {
+  animeArray = animeData;
+} else if (animeData?.anime && Array.isArray(animeData.anime)) {
+  // New format from anilist_scraper.py
+  animeArray = animeData.anime;
+} else {
+  // Old format (object keyed by title)
+  animeArray = Object.values(animeData || {});
+}
+
+console.log('📊 Anime data loaded:', {
+  total: animeArray.length,
+  format: animeData?.metadata ? 'AniList API' : 'Legacy',
+  source: animeData?.metadata?.source || 'Unknown'
+});
+
+const totalAnime = animeArray.length;
+const totalReleases = animeArray.reduce((sum, a) => sum + (a.count || a.episodes || 0), 0);
+
+// Sort animes by popularity for carousel (most popular first)
+const sortedByPopularity = [...animeArray].sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
+---
+
+<Layout title="Anime Explorer - AniList Browser">
+  <main class="container mx-auto px-4 py-6">
+    {/* Header */}
+    <header class="mb-8">
+      <div class="flex items-center gap-3 mb-2">
+        <h1 class="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+          🔍 Explorador de Animes
+        </h1>
+      </div>
+      <p class="text-gray-400 text-sm">{totalAnime} animes · {totalReleases} releases totais</p>
+    </header>
+
+    {/* Cover Carousel Section */}
+    <section class="mb-10">
+      <div class="mb-3">
+        <h2 class="text-lg font-semibold text-gray-300 flex items-center gap-2">
+          📺 Visualizador de Capas
+        </h2>
+        <p class="text-xs text-gray-500 mt-1">
+          ← → ou A/D: Trocar imagem • ↑ ↓ ou W/S: Trocar anime • Enter: Abrir • F: Tela cheia • I: Info
+        </p>
+        <p class="text-xs text-purple-400 mt-1">🔥 Ordenado por popularidade</p>
+      </div>
+      <CoverCarousel client:load animes={sortedByPopularity} />
+    </section>
+
+    {/* Main Content Section */}
+    <section id="app-container">
+      <div class="mb-6">
+        <h2 class="text-lg font-semibold text-gray-300 mb-4">Biblioteca de Animes</h2>
+      </div>
+      
+      {/* Search and Filters */}
+      <SearchBar client:load animes={animeArray} />
+      
+      {/* Infinite Scroll Grid */}
+      <InfiniteAnimeGrid client:load animes={animeArray} sortBy="popularity" />
+    </section>
+  </main>
+</Layout>

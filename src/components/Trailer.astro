@@ -1,0 +1,56 @@
+---
+const { trailer } = Astro.props;
+
+// Converte URL ou ID do YouTube para URL de embed
+const getEmbedUrl = (input: string) => {
+  if (!input) return null;
+  
+  try {
+    // Se for uma URL completa
+    const url = new URL(input);
+    
+    // youtube.com/watch?v=ID
+    if (url.hostname.includes('youtube.com') && url.searchParams.has('v')) {
+      return `https://www.youtube.com/embed/${url.searchParams.get('v')}`;
+    }
+    
+    // youtu.be/ID
+    if (url.hostname.includes('youtu.be')) {
+      return `https://www.youtube.com/embed${url.pathname}`;
+    }
+    
+    // Já está em formato embed
+    if (url.pathname.includes('/embed/')) {
+      return input;
+    }
+  } catch {
+    // Se não for URL válida, assume que é um ID direto
+    if (typeof input === 'string' && input.length >= 8 && input.length <= 20 && /^[a-zA-Z0-9_-]+$/.test(input)) {
+      return `https://www.youtube.com/embed/${input}`;
+    }
+  }
+  
+  return null;
+};
+
+const embedUrl = getEmbedUrl(trailer);
+---
+
+{embedUrl ? (
+  <div class="trailer-container">
+    <div class="relative w-full rounded-lg overflow-hidden border border-gray-700/50 shadow-lg" style="padding-bottom: 56.25%;">
+      <iframe
+        src={embedUrl}
+        title="Trailer do Anime"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+        class="absolute top-0 left-0 w-full h-full"
+      />
+    </div>
+  </div>
+) : trailer ? (
+  <div class="p-6 bg-gray-800/50 rounded-lg border border-gray-700/50 text-center">
+    <p class="text-gray-400">Formato de trailer não suportado</p>
+  </div>
+) : null}

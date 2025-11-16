@@ -1,0 +1,106 @@
+---
+interface Props {
+  anime: any;
+  prevId: string;
+  prevTitle: string;
+  nextId: string;
+  nextTitle: string;
+}
+
+const { anime, prevId, prevTitle, nextId, nextTitle } = Astro.props;
+
+const statusMap: Record<string, string> = {
+  'RELEASING': 'Em Lançamento',
+  'FINISHED': 'Finalizado',
+  'NOT_YET_RELEASED': 'Não Lançado',
+  'CANCELLED': 'Cancelado',
+};
+
+const getStatusColor = (status: string) => {
+  switch(status) {
+    case 'RELEASING': return 'bg-green-500/20 text-green-400 border-green-500/50';
+    case 'FINISHED': return 'bg-blue-500/20 text-blue-400 border-blue-500/50';
+    case 'NOT_YET_RELEASED': return 'bg-yellow-500/20 text-yellow-400 border-yellow-500/50';
+    case 'CANCELLED': return 'bg-red-500/20 text-red-400 border-red-500/50';
+    default: return 'bg-gray-500/20 text-gray-400 border-gray-500/50';
+  }
+};
+---
+
+<!-- Navigation Bar -->
+<div class="flex items-center justify-between mb-6">
+  <a href="/" class="inline-flex items-center gap-2 text-gray-400 hover:text-white transition">
+    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+    </svg>
+    Voltar
+  </a>
+
+  <div class="flex items-center gap-2">
+    <a 
+      href={`/anime/${prevId}/`}
+      title={`Anterior: ${prevTitle}`}
+      class="inline-flex items-center gap-2 px-4 py-2 bg-gray-800 hover:bg-gray-700 text-gray-300 hover:text-white rounded-lg transition border border-gray-700 text-sm font-medium"
+    >
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+      </svg>
+      Anterior
+    </a>
+    
+    <a 
+      href={`/anime/${nextId}/`}
+      title={`Próximo: ${nextTitle}`}
+      class="inline-flex items-center gap-2 px-4 py-2 bg-gray-800 hover:bg-gray-700 text-gray-300 hover:text-white rounded-lg transition border border-gray-700 text-sm font-medium"
+    >
+      Próximo
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+      </svg>
+    </a>
+  </div>
+</div>
+
+<!-- Title Section -->
+<div class="mb-6">
+  <h1 class="text-4xl font-bold text-white mb-3">{anime.base_title}</h1>
+  
+  {anime.title_en && anime.title_en !== anime.base_title && (
+    <p class="text-xl text-gray-300 mb-2">{anime.title_en}</p>
+  )}
+  
+  {anime.title_romaji && anime.title_romaji !== anime.base_title && anime.title_romaji !== anime.title_en && (
+    <p class="text-lg text-gray-400 mb-2">{anime.title_romaji}</p>
+  )}
+  
+  {anime.title_native && (
+    <p class="text-lg text-gray-500">{anime.title_native}</p>
+  )}
+</div>
+
+<!-- Tags Row -->
+<div class="flex flex-wrap gap-3 mb-8">
+  {anime.status && (
+    <span class={`px-4 py-2 rounded-full text-sm font-semibold border ${getStatusColor(anime.status)}`}>
+      {statusMap[anime.status] || anime.status}
+    </span>
+  )}
+  
+  {anime.format && (
+    <span class="px-4 py-2 rounded-full text-sm font-semibold bg-gray-700/50 text-gray-300 border border-gray-600">
+      {anime.format}
+    </span>
+  )}
+
+  {anime.season_year && (
+    <span class="px-4 py-2 rounded-full text-sm font-semibold bg-indigo-500/20 text-indigo-400 border border-indigo-500/50">
+      {anime.season_year}
+    </span>
+  )}
+
+  {anime.episodes && (
+    <span class="px-4 py-2 rounded-full text-sm font-semibold bg-purple-500/20 text-purple-400 border border-purple-500/50">
+      {anime.episodes} episódios
+    </span>
+  )}
+</div>
