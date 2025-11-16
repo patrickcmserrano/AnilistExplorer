@@ -28,6 +28,7 @@ scraper/__pycache__/
 scraper/.venv/
 scraper/anime_cache.json
 scraper/*.txt
+!scraper/requirements.txt
 scraper/anilist_episodes_*.json
 scraper/anilist_enriched_data.json
 scraper/anilist_enriched_report.txt
