@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-17T12:23:11.587887",
+    "updatedAt": "2025-11-17T18:19:48.057236",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -915,7 +915,7 @@
         "day": 3
       },
       "averageScore": 76,
-      "popularity": 775824,
+      "popularity": 776048,
       "favourites": 20654,
       "trailer": "AhqVltWDqFA",
       "studios": [
@@ -2551,7 +2551,7 @@
         "day": 26
       },
       "averageScore": 85,
-      "popularity": 627539,
+      "popularity": 627738,
       "favourites": 34353,
       "trailer": "k4xGqY5IDBE",
       "studios": [
@@ -3083,7 +3083,7 @@
         "day": 1
       },
       "averageScore": 79,
-      "popularity": 589755,
+      "popularity": 589895,
       "favourites": 8600,
       "trailer": "tEPneR3KFK8",
       "studios": [
@@ -3767,7 +3767,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 550999,
+      "popularity": 551153,
       "favourites": 28133,
       "trailer": "mV39saBlBLI",
       "studios": [
@@ -5288,7 +5288,7 @@
         "day": 12
       },
       "averageScore": 83,
-      "popularity": 513670,
+      "popularity": 513935,
       "favourites": 27625,
       "trailer": "v4yLeNt-kCU",
       "studios": [
@@ -6478,7 +6478,7 @@
         "day": 9
       },
       "averageScore": 83,
-      "popularity": 485301,
+      "popularity": 485461,
       "favourites": 22202,
       "trailer": "ofXigq9aIpo",
       "studios": [
@@ -6836,7 +6836,7 @@
         "day": 11
       },
       "averageScore": 85,
-      "popularity": 484010,
+      "popularity": 484145,
       "favourites": 30208,
       "trailer": "_grmduuECm4",
       "studios": [
@@ -10145,7 +10145,7 @@
         "day": 3
       },
       "averageScore": 86,
-      "popularity": 415864,
+      "popularity": 415972,
       "favourites": 25616,
       "trailer": "OhNwckCLzis",
       "studios": [
@@ -10442,7 +10442,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 412346,
+      "popularity": 412487,
       "favourites": 14313,
       "trailer": "XoJCOAU_72U",
       "studios": [
@@ -11962,7 +11962,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 387131,
+      "popularity": 387327,
       "favourites": 18341,
       "trailer": "O6qVieflwqs",
       "studios": [
@@ -12964,7 +12964,7 @@
         "day": 10
       },
       "averageScore": 86,
-      "popularity": 374170,
+      "popularity": 374287,
       "favourites": 12146,
       "trailer": "EIVVnLlhzr0",
       "studios": [
@@ -14311,7 +14311,7 @@
         "day": 24
       },
       "averageScore": 83,
-      "popularity": 355953,
+      "popularity": 356073,
       "favourites": 9659,
       "trailer": "2docezZl574",
       "studios": [
@@ -14665,7 +14665,7 @@
         "day": 29
       },
       "averageScore": 91,
-      "popularity": 353308,
+      "popularity": 353540,
       "favourites": 42583,
       "trailer": "qgQunxD0qCk",
       "studios": [
@@ -14990,7 +14990,7 @@
         "day": 7
       },
       "averageScore": 82,
-      "popularity": 348397,
+      "popularity": 348616,
       "favourites": 17055,
       "trailer": "HkIKAnwLZCw",
       "studios": [
@@ -15300,7 +15300,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 345242,
+      "popularity": 345376,
       "favourites": 15643,
       "trailer": "8oveGY6h6T8",
       "studios": [
@@ -15803,7 +15803,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 335829,
+      "popularity": 335907,
       "favourites": 7974,
       "trailer": "9jVxMt845AY",
       "studios": [
@@ -16618,7 +16618,7 @@
         "day": 8
       },
       "averageScore": 87,
-      "popularity": 329565,
+      "popularity": 329649,
       "favourites": 10655,
       "trailer": "kJfU5boNUIE",
       "studios": [
@@ -18435,7 +18435,7 @@
         "day": 4
       },
       "averageScore": 83,
-      "popularity": 311876,
+      "popularity": 311984,
       "favourites": 16142,
       "trailer": null,
       "studios": [
@@ -18454,6 +18454,182 @@
         {
           "type": "STREAMING",
           "url": "https://tubitv.com/series/2229/the_disastrous_life_of_saiki_k"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 145139,
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "native": "鬼滅の刃 刀鍛冶の里編"
+      },
+      "description": "Adaptation of the Swordsmith Village Arc.<br>\n<br>\nTanjiro’s journey leads him to the Swordsmith Village, where he reunites with two Hashira, members of the Demon Slayer Corps’ highest-ranking swordsmen - Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji. With the shadows of demons lurking near, a new battle begins for Tanjiro and his comrades.\n<br><br>\n<i>Notes:<br>\n• The first episode has a runtime of ~49 minutes, and received an early premiere in cinemas worldwide as part of a special screening alongside the final two episodes of Kimetsu no Yaiba: Yuukaku-hen.<br>\n• The final episode has a runtime of ~52 minutes. </i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
+          "character": "Tanjirou Kamado",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
+          "character": "Nezuko Kamado",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
+          "character": "Mitsuri Kanroji",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
+          "character": "Muichirou Tokitou",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137776-E0QuFD7y19OQ.jpg",
+          "character": "Genya Shinazugawa",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
+          "character": "Inosuke Hashibira",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
+          "character": "Zenitsu Agatsuma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png",
+          "character": "Kanao Tsuyuri",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
+          "character": "Akaza",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
+          "character": "Obanai Iguro",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png",
+          "character": "Sanemi Shinazugawa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129132-4nIZakUZ1o8W.jpg",
+          "character": "Muzan Kibutsuji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149220-OuBk7B3O6WD6.jpg",
+          "character": "Yoriichi Tsugikuni",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144591-v2yrXtHorZFS.png",
+          "character": "Douma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141918-Bfgq88XJFOPz.png",
+          "character": "Kokushibo",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1395/120927l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1702/120979l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1499/121027l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1297/133915l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1818/134058l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1765/135099l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1780/135985l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 11,
+      "season": "SPRING",
+      "seasonYear": 2023,
+      "startDate": {
+        "year": 2023,
+        "month": 4,
+        "day": 9
+      },
+      "averageScore": 81,
+      "popularity": 308441,
+      "favourites": 8537,
+      "trailer": "a9tq0aS5Zu8",
+      "studios": [
+        "ufotable"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://kimetsu.com/anime/katanakajinosatohen/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/GY5P48XEY/demon-slayer-kimetsu-no-yaiba"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/2e0tbmdwxqp"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/media/2079053/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81091393"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-a92c9b0f-1aa2-42f4-9b73-29d0d51e27ba"
         }
       ],
       "nextAiring": null
@@ -18624,182 +18800,6 @@
       "nextAiring": null
     },
     {
-      "id": 145139,
-      "title": {
-        "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-        "native": "鬼滅の刃 刀鍛冶の里編"
-      },
-      "description": "Adaptation of the Swordsmith Village Arc.<br>\n<br>\nTanjiro’s journey leads him to the Swordsmith Village, where he reunites with two Hashira, members of the Demon Slayer Corps’ highest-ranking swordsmen - Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji. With the shadows of demons lurking near, a new battle begins for Tanjiro and his comrades.\n<br><br>\n<i>Notes:<br>\n• The first episode has a runtime of ~49 minutes, and received an early premiere in cinemas worldwide as part of a special screening alongside the final two episodes of Kimetsu no Yaiba: Yuukaku-hen.<br>\n• The final episode has a runtime of ~52 minutes. </i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
-          "character": "Tanjirou Kamado",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
-          "character": "Nezuko Kamado",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
-          "character": "Mitsuri Kanroji",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
-          "character": "Muichirou Tokitou",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137776-E0QuFD7y19OQ.jpg",
-          "character": "Genya Shinazugawa",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
-          "character": "Inosuke Hashibira",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
-          "character": "Zenitsu Agatsuma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png",
-          "character": "Kanao Tsuyuri",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
-          "character": "Akaza",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
-          "character": "Obanai Iguro",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png",
-          "character": "Sanemi Shinazugawa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129132-4nIZakUZ1o8W.jpg",
-          "character": "Muzan Kibutsuji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b149220-OuBk7B3O6WD6.jpg",
-          "character": "Yoriichi Tsugikuni",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144591-v2yrXtHorZFS.png",
-          "character": "Douma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141918-Bfgq88XJFOPz.png",
-          "character": "Kokushibo",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1395/120927l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1702/120979l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1499/121027l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1297/133915l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1818/134058l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1765/135099l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1780/135985l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 11,
-      "season": "SPRING",
-      "seasonYear": 2023,
-      "startDate": {
-        "year": 2023,
-        "month": 4,
-        "day": 9
-      },
-      "averageScore": 81,
-      "popularity": 308302,
-      "favourites": 8537,
-      "trailer": "a9tq0aS5Zu8",
-      "studios": [
-        "ufotable"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://kimetsu.com/anime/katanakajinosatohen/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/GY5P48XEY/demon-slayer-kimetsu-no-yaiba"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/2e0tbmdwxqp"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/media/2079053/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81091393"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-a92c9b0f-1aa2-42f4-9b73-29d0d51e27ba"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 129874,
       "title": {
         "english": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
@@ -18917,7 +18917,7 @@
         "day": 10
       },
       "averageScore": 82,
-      "popularity": 307902,
+      "popularity": 307983,
       "favourites": 5732,
       "trailer": "t6MXHczeEqc",
       "studios": [
@@ -19444,7 +19444,7 @@
         "day": 12
       },
       "averageScore": 77,
-      "popularity": 300469,
+      "popularity": 300535,
       "favourites": 8973,
       "trailer": "okBHQWnYImg",
       "studios": [
@@ -21094,7 +21094,7 @@
         "day": 1
       },
       "averageScore": 81,
-      "popularity": 284884,
+      "popularity": 284974,
       "favourites": 6100,
       "trailer": "jR1L1EK3kN0",
       "studios": [
@@ -21571,7 +21571,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 278387,
+      "popularity": 278460,
       "favourites": 7601,
       "trailer": "QpyQ_0i2NU8",
       "studios": [
@@ -21720,7 +21720,7 @@
         "day": 1
       },
       "averageScore": 80,
-      "popularity": 278139,
+      "popularity": 278275,
       "favourites": 8953,
       "trailer": "8BIaDDN-r3o",
       "studios": [
@@ -22032,7 +22032,7 @@
         "day": 2
       },
       "averageScore": 84,
-      "popularity": 277416,
+      "popularity": 277483,
       "favourites": 18411,
       "trailer": "NLZP_z2PxCw",
       "studios": [
@@ -23026,7 +23026,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 272471,
+      "popularity": 272575,
       "favourites": 16059,
       "trailer": "gKWEUJ4r5do",
       "studios": [
@@ -23343,7 +23343,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 269652,
+      "popularity": 269728,
       "favourites": 11299,
       "trailer": "vPBU0xBjFFY",
       "studios": [
@@ -23377,165 +23377,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.netflix.com/title/80987039"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 101165,
-      "title": {
-        "english": "GOBLIN SLAYER",
-        "romaji": "Goblin Slayer",
-        "native": "ゴブリンスレイヤー"
-      },
-      "description": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...<br><br>\n\n(Source: Yen Press)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101165-gWGE7sn1cR9S.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101165-bXPZrNiQGPHd.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126458-wCulCEFEPZSK.png",
-          "character": "Goblin Slayer",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126483-NQuBqaXHUJO2.jpg",
-          "character": "Onna Shinkan",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126484-izE4ON548jnn.jpg",
-          "character": "Ushikai Musume",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126457-leHoOLIOZy2a.png",
-          "character": "Yousei Yunde",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126485-2zo57ux4EMeC.jpg",
-          "character": "Uketsuke-jou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129080-zTT3T3jUnBya.png",
-          "character": "Tsurugi no Otome",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126486-e0DjNT3rBOT7.png",
-          "character": "Majo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126487-TErPQ7ADCryW.jpg",
-          "character": "Tokage Souryo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128254-6x8qS52q9Q0n.jpg",
-          "character": "Kouhito Doushi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131819-ciC7jlbevxx4.png",
-          "character": "Onna Kishi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126488-fW2f7wryREzj.jpg",
-          "character": "Yaritsukai",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131810-15s8G2ZXn6nj.png",
-          "character": "Yuusha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131821-sN5YazHPcWE6.png",
-          "character": "Goblin Slayer no Ane",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131808-oZTRwGOy7pqt.jpg",
-          "character": "Minarai seishoku-sha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131812-4mY1CxbvGqka.jpg",
-          "character": "Omoi Kenshi",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1294/90667l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1949/93415l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1802/138983l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 12,
-      "season": "FALL",
-      "seasonYear": 2018,
-      "startDate": {
-        "year": 2018,
-        "month": 10,
-        "day": 7
-      },
-      "averageScore": 71,
-      "popularity": 269616,
-      "favourites": 5638,
-      "trailer": "6sdxN30qNrw",
-      "studios": [
-        "WHITE FOX"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://ga.sbcr.jp/sp/goblin_slayer"
-        },
-        {
-          "type": "INFO",
-          "url": "http://www.goblinslayer.jp/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/goblin-slayer"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81021570"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.amazon.com/dp/B07Z1RCLB3/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm"
         }
       ],
       "nextAiring": null
@@ -23695,7 +23536,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 269595,
+      "popularity": 269677,
       "favourites": 11098,
       "trailer": "IVsII3dLbWc",
       "studios": [
@@ -23725,6 +23566,165 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/82c637ed-3f67-4488-bf73-eacf1beafe17"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 101165,
+      "title": {
+        "english": "GOBLIN SLAYER",
+        "romaji": "Goblin Slayer",
+        "native": "ゴブリンスレイヤー"
+      },
+      "description": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...<br><br>\n\n(Source: Yen Press)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101165-gWGE7sn1cR9S.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101165-bXPZrNiQGPHd.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126458-wCulCEFEPZSK.png",
+          "character": "Goblin Slayer",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126483-NQuBqaXHUJO2.jpg",
+          "character": "Onna Shinkan",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126484-izE4ON548jnn.jpg",
+          "character": "Ushikai Musume",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126457-leHoOLIOZy2a.png",
+          "character": "Yousei Yunde",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126485-2zo57ux4EMeC.jpg",
+          "character": "Uketsuke-jou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129080-zTT3T3jUnBya.png",
+          "character": "Tsurugi no Otome",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126486-e0DjNT3rBOT7.png",
+          "character": "Majo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126487-TErPQ7ADCryW.jpg",
+          "character": "Tokage Souryo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128254-6x8qS52q9Q0n.jpg",
+          "character": "Kouhito Doushi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131819-ciC7jlbevxx4.png",
+          "character": "Onna Kishi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126488-fW2f7wryREzj.jpg",
+          "character": "Yaritsukai",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131810-15s8G2ZXn6nj.png",
+          "character": "Yuusha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131821-sN5YazHPcWE6.png",
+          "character": "Goblin Slayer no Ane",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131808-oZTRwGOy7pqt.jpg",
+          "character": "Minarai seishoku-sha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131812-4mY1CxbvGqka.jpg",
+          "character": "Omoi Kenshi",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1294/90667l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1949/93415l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1802/138983l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 12,
+      "season": "FALL",
+      "seasonYear": 2018,
+      "startDate": {
+        "year": 2018,
+        "month": 10,
+        "day": 7
+      },
+      "averageScore": 71,
+      "popularity": 269616,
+      "favourites": 5638,
+      "trailer": "6sdxN30qNrw",
+      "studios": [
+        "WHITE FOX"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://ga.sbcr.jp/sp/goblin_slayer"
+        },
+        {
+          "type": "INFO",
+          "url": "http://www.goblinslayer.jp/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/goblin-slayer"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81021570"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.amazon.com/dp/B07Z1RCLB3/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm"
         }
       ],
       "nextAiring": null
@@ -27686,7 +27686,7 @@
         "day": 5
       },
       "averageScore": 81,
-      "popularity": 248222,
+      "popularity": 248327,
       "favourites": 13957,
       "trailer": "L7LgAbGF-WY",
       "studios": [
@@ -28284,7 +28284,7 @@
         "day": 2
       },
       "averageScore": 79,
-      "popularity": 239599,
+      "popularity": 239644,
       "favourites": 2834,
       "trailer": "O_tsnSmpM-k",
       "studios": [
@@ -29591,7 +29591,7 @@
         "day": 8
       },
       "averageScore": 76,
-      "popularity": 233524,
+      "popularity": 233621,
       "favourites": 6173,
       "trailer": "zl0Kiv0kuQQ",
       "studios": [
@@ -30045,7 +30045,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 232293,
+      "popularity": 232362,
       "favourites": 7593,
       "trailer": "JwaruTPKq9I",
       "studios": [
@@ -31912,7 +31912,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 226370,
+      "popularity": 226467,
       "favourites": 8699,
       "trailer": "ukO-ZdWS3j8",
       "studios": [
@@ -32316,7 +32316,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 223901,
+      "popularity": 223959,
       "favourites": 9540,
       "trailer": "Ah7lTT-NKMw",
       "studios": [
@@ -32512,7 +32512,7 @@
         "day": 13
       },
       "averageScore": 82,
-      "popularity": 223003,
+      "popularity": 223132,
       "favourites": 8534,
       "trailer": "7n_mFVPeApw",
       "studios": [
@@ -32668,7 +32668,7 @@
         "day": 10
       },
       "averageScore": 88,
-      "popularity": 222516,
+      "popularity": 222592,
       "favourites": 12202,
       "trailer": "6pX93dXfH9s",
       "studios": [
@@ -33181,7 +33181,7 @@
         "day": 1
       },
       "averageScore": 82,
-      "popularity": 221567,
+      "popularity": 221685,
       "favourites": 5478,
       "trailer": "WxCJMYbGtzA",
       "studios": [
@@ -34584,7 +34584,7 @@
         "day": 6
       },
       "averageScore": 81,
-      "popularity": 218114,
+      "popularity": 218159,
       "favourites": 4831,
       "trailer": "aeX94e7V0_w",
       "studios": [
@@ -34927,7 +34927,7 @@
         "day": 9
       },
       "averageScore": 87,
-      "popularity": 217738,
+      "popularity": 217823,
       "favourites": 23899,
       "trailer": "SyMMZF5zNW4",
       "studios": [
@@ -36366,7 +36366,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 214365,
+      "popularity": 214443,
       "favourites": 5919,
       "trailer": "0mM3lQytac4",
       "studios": [
@@ -36978,7 +36978,7 @@
         "day": 4
       },
       "averageScore": 74,
-      "popularity": 212466,
+      "popularity": 212526,
       "favourites": 4354,
       "trailer": "NkqePv9i6Yw",
       "studios": [
@@ -37121,7 +37121,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 212449,
+      "popularity": 212488,
       "favourites": 7505,
       "trailer": "r5BL6gBZjOI",
       "studios": [
@@ -37262,7 +37262,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 212077,
+      "popularity": 212139,
       "favourites": 2506,
       "trailer": "XmfXcVLA1d8",
       "studios": [
@@ -38225,7 +38225,7 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 209001,
+      "popularity": 209048,
       "favourites": 5198,
       "trailer": "0i1AxFdlu0M",
       "studios": [
@@ -38538,7 +38538,7 @@
         "day": 3
       },
       "averageScore": 81,
-      "popularity": 207922,
+      "popularity": 207998,
       "favourites": 6543,
       "trailer": "ts5NGoDI1V0",
       "studios": [
@@ -39559,7 +39559,7 @@
         "day": 4
       },
       "averageScore": 87,
-      "popularity": 204855,
+      "popularity": 204950,
       "favourites": 5621,
       "trailer": "hb-mo0URZBw",
       "studios": [
