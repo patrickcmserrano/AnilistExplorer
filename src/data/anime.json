@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-17T06:22:19.131797",
+    "updatedAt": "2025-11-17T12:23:11.587887",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -535,7 +535,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 838340,
+      "popularity": 838604,
       "favourites": 44145,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
@@ -1795,7 +1795,7 @@
         "day": 20
       },
       "averageScore": 88,
-      "popularity": 641440,
+      "popularity": 641648,
       "favourites": 89504,
       "trailer": null,
       "studios": [
@@ -2371,7 +2371,7 @@
         "day": 3
       },
       "averageScore": 80,
-      "popularity": 637351,
+      "popularity": 637516,
       "favourites": 28699,
       "trailer": "-G9BqkgZXRA",
       "studios": [
@@ -2890,7 +2890,7 @@
         "day": 23
       },
       "averageScore": 85,
-      "popularity": 606444,
+      "popularity": 606629,
       "favourites": 14339,
       "trailer": "EHzBhrncmac",
       "studios": [
@@ -4235,7 +4235,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 539877,
+      "popularity": 540034,
       "favourites": 8166,
       "trailer": "JezE6iZUWxo",
       "studios": [
@@ -4427,7 +4427,7 @@
         "day": 15
       },
       "averageScore": 82,
-      "popularity": 539132,
+      "popularity": 539277,
       "favourites": 33137,
       "trailer": null,
       "studios": [
@@ -5449,7 +5449,7 @@
         "day": 4
       },
       "averageScore": 81,
-      "popularity": 505756,
+      "popularity": 505916,
       "favourites": 24977,
       "trailer": "o0TZj_d3Yfg",
       "studios": [
@@ -5639,7 +5639,7 @@
         "day": 3
       },
       "averageScore": 79,
-      "popularity": 502410,
+      "popularity": 502563,
       "favourites": 23649,
       "trailer": "vUjAxk1qYzQ",
       "studios": [
@@ -8412,7 +8412,7 @@
         "day": 13
       },
       "averageScore": 68,
-      "popularity": 441529,
+      "popularity": 441660,
       "favourites": 13663,
       "trailer": "KNIS0mVawhc",
       "studios": [
@@ -8594,7 +8594,7 @@
         "day": 5
       },
       "averageScore": 78,
-      "popularity": 433549,
+      "popularity": 433687,
       "favourites": 23634,
       "trailer": "0c4IoCA5fY0",
       "studios": [
@@ -8793,7 +8793,7 @@
         "day": 6
       },
       "averageScore": 85,
-      "popularity": 431893,
+      "popularity": 432017,
       "favourites": 25137,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -8981,7 +8981,7 @@
         "day": 3
       },
       "averageScore": 83,
-      "popularity": 429338,
+      "popularity": 429487,
       "favourites": 32711,
       "trailer": "kOH2_8MkgZY",
       "studios": [
@@ -9136,7 +9136,7 @@
         "day": 20
       },
       "averageScore": 86,
-      "popularity": 426871,
+      "popularity": 427000,
       "favourites": 17097,
       "trailer": "ByXuk9QqQkk",
       "studios": [
@@ -9939,7 +9939,7 @@
         "day": 10
       },
       "averageScore": 74,
-      "popularity": 417758,
+      "popularity": 417886,
       "favourites": 6416,
       "trailer": "NezvLw2gRAY",
       "studios": [
@@ -10303,7 +10303,7 @@
         "day": 1
       },
       "averageScore": 70,
-      "popularity": 412626,
+      "popularity": 412739,
       "favourites": 6562,
       "trailer": "v2xJDuM9ZDM",
       "studios": [
@@ -10786,7 +10786,7 @@
         "day": 9
       },
       "averageScore": 76,
-      "popularity": 405142,
+      "popularity": 405259,
       "favourites": 13631,
       "trailer": "VKYmpq-V3Rs",
       "studios": [
@@ -11117,7 +11117,7 @@
         "day": 7
       },
       "averageScore": 87,
-      "popularity": 401488,
+      "popularity": 401578,
       "favourites": 20156,
       "trailer": "Pr43Sayk37s",
       "studios": [
@@ -11472,7 +11472,7 @@
         "day": 2
       },
       "averageScore": 80,
-      "popularity": 392524,
+      "popularity": 392641,
       "favourites": 18052,
       "trailer": "uOzwqb74K34",
       "studios": [
@@ -12461,7 +12461,7 @@
         "day": 12
       },
       "averageScore": 76,
-      "popularity": 379182,
+      "popularity": 379329,
       "favourites": 12692,
       "trailer": "iYsx6w5PNno",
       "studios": [
@@ -14134,7 +14134,7 @@
         "day": 7
       },
       "averageScore": 85,
-      "popularity": 359661,
+      "popularity": 359764,
       "favourites": 18754,
       "trailer": "AQbaZeby2zA",
       "studios": [
@@ -15478,7 +15478,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 338848,
+      "popularity": 338981,
       "favourites": 11099,
       "trailer": null,
       "studios": [
@@ -16472,7 +16472,7 @@
         "day": 1
       },
       "averageScore": 85,
-      "popularity": 330917,
+      "popularity": 331019,
       "favourites": 22738,
       "trailer": "oXkkMhCuCMg",
       "studios": [
@@ -17144,7 +17144,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 321330,
+      "popularity": 321425,
       "favourites": 17350,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -17265,7 +17265,7 @@
         "day": 1
       },
       "averageScore": 84,
-      "popularity": 319587,
+      "popularity": 319711,
       "favourites": 15495,
       "trailer": "MmoBvmJA9XI",
       "studios": [
@@ -17424,7 +17424,7 @@
         "day": 20
       },
       "averageScore": 85,
-      "popularity": 319166,
+      "popularity": 319255,
       "favourites": 17299,
       "trailer": "iwROgK94zcM",
       "studios": [
@@ -17964,7 +17964,7 @@
         "day": 5
       },
       "averageScore": 76,
-      "popularity": 314532,
+      "popularity": 314636,
       "favourites": 12455,
       "trailer": "g4LjvxtFieE",
       "studios": [
@@ -20121,7 +20121,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 294383,
+      "popularity": 294596,
       "favourites": 15920,
       "trailer": "vnRmIBoyfBM",
       "studios": [
@@ -20273,7 +20273,7 @@
         "day": 13
       },
       "averageScore": 78,
-      "popularity": 291993,
+      "popularity": 292061,
       "favourites": 9629,
       "trailer": "FnM1TDuG9f4",
       "studios": [
@@ -20760,7 +20760,7 @@
         "day": 7
       },
       "averageScore": 88,
-      "popularity": 289369,
+      "popularity": 289476,
       "favourites": 19214,
       "trailer": null,
       "studios": [
@@ -21273,7 +21273,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 281288,
+      "popularity": 281381,
       "favourites": 13048,
       "trailer": "t2kCCDiWlVg",
       "studios": [
@@ -22519,7 +22519,7 @@
         "day": 3
       },
       "averageScore": 61,
-      "popularity": 275717,
+      "popularity": 275777,
       "favourites": 2684,
       "trailer": "dZ36ToJLHtA",
       "studios": [
@@ -23382,6 +23382,165 @@
       "nextAiring": null
     },
     {
+      "id": 101165,
+      "title": {
+        "english": "GOBLIN SLAYER",
+        "romaji": "Goblin Slayer",
+        "native": "ゴブリンスレイヤー"
+      },
+      "description": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...<br><br>\n\n(Source: Yen Press)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101165-gWGE7sn1cR9S.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101165-bXPZrNiQGPHd.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126458-wCulCEFEPZSK.png",
+          "character": "Goblin Slayer",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126483-NQuBqaXHUJO2.jpg",
+          "character": "Onna Shinkan",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126484-izE4ON548jnn.jpg",
+          "character": "Ushikai Musume",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126457-leHoOLIOZy2a.png",
+          "character": "Yousei Yunde",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126485-2zo57ux4EMeC.jpg",
+          "character": "Uketsuke-jou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129080-zTT3T3jUnBya.png",
+          "character": "Tsurugi no Otome",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126486-e0DjNT3rBOT7.png",
+          "character": "Majo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126487-TErPQ7ADCryW.jpg",
+          "character": "Tokage Souryo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128254-6x8qS52q9Q0n.jpg",
+          "character": "Kouhito Doushi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131819-ciC7jlbevxx4.png",
+          "character": "Onna Kishi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126488-fW2f7wryREzj.jpg",
+          "character": "Yaritsukai",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131810-15s8G2ZXn6nj.png",
+          "character": "Yuusha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131821-sN5YazHPcWE6.png",
+          "character": "Goblin Slayer no Ane",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131808-oZTRwGOy7pqt.jpg",
+          "character": "Minarai seishoku-sha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131812-4mY1CxbvGqka.jpg",
+          "character": "Omoi Kenshi",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1294/90667l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1949/93415l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1802/138983l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 12,
+      "season": "FALL",
+      "seasonYear": 2018,
+      "startDate": {
+        "year": 2018,
+        "month": 10,
+        "day": 7
+      },
+      "averageScore": 71,
+      "popularity": 269616,
+      "favourites": 5638,
+      "trailer": "6sdxN30qNrw",
+      "studios": [
+        "WHITE FOX"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://ga.sbcr.jp/sp/goblin_slayer"
+        },
+        {
+          "type": "INFO",
+          "url": "http://www.goblinslayer.jp/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/goblin-slayer"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81021570"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.amazon.com/dp/B07Z1RCLB3/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 137822,
       "title": {
         "english": "BLUE LOCK",
@@ -23571,165 +23730,6 @@
       "nextAiring": null
     },
     {
-      "id": 101165,
-      "title": {
-        "english": "GOBLIN SLAYER",
-        "romaji": "Goblin Slayer",
-        "native": "ゴブリンスレイヤー"
-      },
-      "description": "A young priestess has formed her first adventuring party, but almost immediately they find themselves in distress. It's the Goblin Slayer who comes to their rescue--a man who's dedicated his life to the extermination of all goblins, by any means necessary. And when rumors of his feats begin to circulate, there's no telling who might come calling next...<br><br>\n\n(Source: Yen Press)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b101165-gWGE7sn1cR9S.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101165-bXPZrNiQGPHd.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126458-wCulCEFEPZSK.png",
-          "character": "Goblin Slayer",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126483-NQuBqaXHUJO2.jpg",
-          "character": "Onna Shinkan",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126484-izE4ON548jnn.jpg",
-          "character": "Ushikai Musume",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126457-leHoOLIOZy2a.png",
-          "character": "Yousei Yunde",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126485-2zo57ux4EMeC.jpg",
-          "character": "Uketsuke-jou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129080-zTT3T3jUnBya.png",
-          "character": "Tsurugi no Otome",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126486-e0DjNT3rBOT7.png",
-          "character": "Majo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126487-TErPQ7ADCryW.jpg",
-          "character": "Tokage Souryo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128254-6x8qS52q9Q0n.jpg",
-          "character": "Kouhito Doushi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131819-ciC7jlbevxx4.png",
-          "character": "Onna Kishi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n126488-fW2f7wryREzj.jpg",
-          "character": "Yaritsukai",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131810-15s8G2ZXn6nj.png",
-          "character": "Yuusha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131821-sN5YazHPcWE6.png",
-          "character": "Goblin Slayer no Ane",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131808-oZTRwGOy7pqt.jpg",
-          "character": "Minarai seishoku-sha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n131812-4mY1CxbvGqka.jpg",
-          "character": "Omoi Kenshi",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1294/90667l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1949/93415l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1719/95621l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1802/138983l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 12,
-      "season": "FALL",
-      "seasonYear": 2018,
-      "startDate": {
-        "year": 2018,
-        "month": 10,
-        "day": 7
-      },
-      "averageScore": 71,
-      "popularity": 269537,
-      "favourites": 5638,
-      "trailer": "6sdxN30qNrw",
-      "studios": [
-        "WHITE FOX"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://ga.sbcr.jp/sp/goblin_slayer"
-        },
-        {
-          "type": "INFO",
-          "url": "http://www.goblinslayer.jp/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/goblin-slayer"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81021570"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.amazon.com/dp/B07Z1RCLB3/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 164,
       "title": {
         "english": "Princess Mononoke",
@@ -23865,7 +23865,7 @@
         "day": 12
       },
       "averageScore": 85,
-      "popularity": 267904,
+      "popularity": 267980,
       "favourites": 11440,
       "trailer": "4OiMOHRDs14",
       "studios": [
@@ -24384,7 +24384,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 266009,
+      "popularity": 266099,
       "favourites": 5920,
       "trailer": "9ZseZTshl2k",
       "studios": [
@@ -25096,7 +25096,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 262753,
+      "popularity": 262813,
       "favourites": 14374,
       "trailer": null,
       "studios": [
@@ -25391,7 +25391,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 260363,
+      "popularity": 260424,
       "favourites": 2877,
       "trailer": "ULP_6faadB4",
       "studios": [
@@ -25549,7 +25549,7 @@
         "day": 7
       },
       "averageScore": 75,
-      "popularity": 258575,
+      "popularity": 258650,
       "favourites": 5703,
       "trailer": "wHaHh_sX1IM",
       "studios": [
@@ -27187,7 +27187,7 @@
         "day": 16
       },
       "averageScore": 80,
-      "popularity": 249526,
+      "popularity": 249588,
       "favourites": 6448,
       "trailer": "92a7Hj0ijLs",
       "studios": [
@@ -27515,7 +27515,7 @@
         "day": 20
       },
       "averageScore": 84,
-      "popularity": 248568,
+      "popularity": 248634,
       "favourites": 13070,
       "trailer": null,
       "studios": [
@@ -27854,7 +27854,7 @@
         "day": 25
       },
       "averageScore": 68,
-      "popularity": 245810,
+      "popularity": 245876,
       "favourites": 4482,
       "trailer": "3KgeAos9oNc",
       "studios": [
@@ -28767,7 +28767,7 @@
         "day": 22
       },
       "averageScore": 88,
-      "popularity": 237263,
+      "popularity": 237466,
       "favourites": 19758,
       "trailer": "oyHqh8ue4zw",
       "studios": [
@@ -28950,7 +28950,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 236495,
+      "popularity": 236549,
       "favourites": 5797,
       "trailer": "35cs5zFr2h8",
       "studios": [
@@ -29110,7 +29110,7 @@
         "day": 9
       },
       "averageScore": 75,
-      "popularity": 235867,
+      "popularity": 235928,
       "favourites": 4107,
       "trailer": "c3Jt_EXwGBc",
       "studios": [
@@ -30661,7 +30661,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 230394,
+      "popularity": 230565,
       "favourites": 11712,
       "trailer": "byJ7pxxhaDY",
       "studios": [
@@ -30972,7 +30972,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 229630,
+      "popularity": 229684,
       "favourites": 10635,
       "trailer": "ZM8a3QYtOfA",
       "studios": [
@@ -31159,7 +31159,7 @@
         "day": 26
       },
       "averageScore": 80,
-      "popularity": 229142,
+      "popularity": 229200,
       "favourites": 11985,
       "trailer": null,
       "studios": [
@@ -32176,7 +32176,7 @@
         "day": 11
       },
       "averageScore": 71,
-      "popularity": 224602,
+      "popularity": 224677,
       "favourites": 3917,
       "trailer": "iPsu_sk-e7Q",
       "studios": [
@@ -33017,7 +33017,7 @@
         "day": 19
       },
       "averageScore": 85,
-      "popularity": 221751,
+      "popularity": 221824,
       "favourites": 15102,
       "trailer": "v1pWyWIu8x4",
       "studios": [
@@ -33358,7 +33358,7 @@
         "day": 8
       },
       "averageScore": 78,
-      "popularity": 220172,
+      "popularity": 220231,
       "favourites": 6508,
       "trailer": "W9KZgJgo-x0",
       "studios": [
@@ -33522,7 +33522,7 @@
         "day": 9
       },
       "averageScore": 78,
-      "popularity": 219855,
+      "popularity": 219914,
       "favourites": 7144,
       "trailer": "AlZmD15k-F4",
       "studios": [
@@ -33683,7 +33683,7 @@
         "day": 9
       },
       "averageScore": 70,
-      "popularity": 219713,
+      "popularity": 219755,
       "favourites": 2005,
       "trailer": "8fCIcho7N4k",
       "studios": [
@@ -34758,7 +34758,7 @@
         "day": 6
       },
       "averageScore": 80,
-      "popularity": 217886,
+      "popularity": 217942,
       "favourites": 12409,
       "trailer": "lpv7Wv-sDAo",
       "studios": [
@@ -35085,7 +35085,7 @@
         "day": 13
       },
       "averageScore": 71,
-      "popularity": 217466,
+      "popularity": 217516,
       "favourites": 2877,
       "trailer": "SSgtBDgvIzc",
       "studios": [
@@ -36542,7 +36542,7 @@
         "day": 12
       },
       "averageScore": 80,
-      "popularity": 214224,
+      "popularity": 214360,
       "favourites": 5362,
       "trailer": "7w5Vfjozzb8",
       "studios": [
@@ -37612,7 +37612,7 @@
         "day": 28
       },
       "averageScore": 85,
-      "popularity": 211637,
+      "popularity": 211732,
       "favourites": 13543,
       "trailer": "UXQraSkOOGs",
       "studios": [
@@ -37892,7 +37892,7 @@
         "day": 4
       },
       "averageScore": 78,
-      "popularity": 209401,
+      "popularity": 209439,
       "favourites": 2452,
       "trailer": "SELSLl0_Gmw",
       "studios": [
@@ -38884,7 +38884,7 @@
         "day": 26
       },
       "averageScore": 78,
-      "popularity": 206376,
+      "popularity": 206441,
       "favourites": 7223,
       "trailer": null,
       "studios": [
@@ -39210,7 +39210,7 @@
         "day": 5
       },
       "averageScore": 56,
-      "popularity": 205528,
+      "popularity": 205564,
       "favourites": 3162,
       "trailer": "ppLE9xycGm4",
       "studios": [
@@ -39402,7 +39402,7 @@
         "day": 16
       },
       "averageScore": 79,
-      "popularity": 204916,
+      "popularity": 204967,
       "favourites": 6998,
       "trailer": "SyM8JyyUTjc",
       "studios": [
@@ -39709,7 +39709,7 @@
         "day": 14
       },
       "averageScore": 82,
-      "popularity": 203719,
+      "popularity": 203776,
       "favourites": 10938,
       "trailer": "m-nN3SlHwZk",
       "studios": [
@@ -40042,7 +40042,7 @@
         "day": 3
       },
       "averageScore": 74,
-      "popularity": 201264,
+      "popularity": 201321,
       "favourites": 1919,
       "trailer": "70W0u35wa48",
       "studios": [
@@ -40185,7 +40185,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 200938,
+      "popularity": 201001,
       "favourites": 5040,
       "trailer": "2VvZIEXmltw",
       "studios": [
@@ -40778,7 +40778,7 @@
         "day": 6
       },
       "averageScore": 67,
-      "popularity": 197748,
+      "popularity": 197799,
       "favourites": 3536,
       "trailer": "vSi7NGZQ-IA",
       "studios": [
