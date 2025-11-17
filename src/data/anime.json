@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-17T00:43:15.264633",
+    "updatedAt": "2025-11-17T06:22:19.131797",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -358,7 +358,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 874538,
+      "popularity": 874793,
       "favourites": 42086,
       "trailer": "6vMuWuWlW4I",
       "studios": [
@@ -1100,7 +1100,7 @@
         "day": 2
       },
       "averageScore": 89,
-      "popularity": 740992,
+      "popularity": 741208,
       "favourites": 69905,
       "trailer": "d6kBeJjTGnY",
       "studios": [
@@ -2004,7 +2004,7 @@
         "day": 5
       },
       "averageScore": 90,
-      "popularity": 639884,
+      "popularity": 640084,
       "favourites": 52681,
       "trailer": null,
       "studios": [
@@ -2179,7 +2179,7 @@
         "day": 8
       },
       "averageScore": 69,
-      "popularity": 638462,
+      "popularity": 638637,
       "favourites": 18242,
       "trailer": "C8Jl_-b7ju0",
       "studios": [
@@ -3250,7 +3250,7 @@
         "day": 10
       },
       "averageScore": 83,
-      "popularity": 573511,
+      "popularity": 573654,
       "favourites": 17715,
       "trailer": "ApLudqucq-s",
       "studios": [
@@ -3444,7 +3444,7 @@
         "day": 7
       },
       "averageScore": 86,
-      "popularity": 565840,
+      "popularity": 566018,
       "favourites": 19512,
       "trailer": "MUCN-JwUvbY",
       "studios": [
@@ -4606,7 +4606,7 @@
         "day": 29
       },
       "averageScore": 89,
-      "popularity": 538856,
+      "popularity": 539023,
       "favourites": 23187,
       "trailer": "fJm2nD3cv_4",
       "studios": [
@@ -4940,7 +4940,7 @@
         "day": 6
       },
       "averageScore": 89,
-      "popularity": 525895,
+      "popularity": 526017,
       "favourites": 44154,
       "trailer": "27OZc-ku6is",
       "studios": [
@@ -6103,7 +6103,7 @@
         "day": 12
       },
       "averageScore": 83,
-      "popularity": 490692,
+      "popularity": 490823,
       "favourites": 23677,
       "trailer": "IwpJJiQkZzI",
       "studios": [
@@ -6284,7 +6284,7 @@
         "day": 5
       },
       "averageScore": 81,
-      "popularity": 486390,
+      "popularity": 486545,
       "favourites": 19385,
       "trailer": "7YZzYeBartM",
       "studios": [
@@ -6671,7 +6671,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 484309,
+      "popularity": 484443,
       "favourites": 16300,
       "trailer": "ya570uUgQNc",
       "studios": [
@@ -6748,13 +6748,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129999-jMLXrlIQ98GK.png",
-          "character": "Leon Stephanotis",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124810-CuoTUTc7U08r.jpg",
+          "character": "Luculia Marlborough",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124810-CuoTUTc7U08r.jpg",
-          "character": "Luculia Marlborough",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129999-jMLXrlIQ98GK.png",
+          "character": "Leon Stephanotis",
           "role": "SUPPORTING"
         },
         {
@@ -7204,7 +7204,7 @@
         "day": 12
       },
       "averageScore": 78,
-      "popularity": 475744,
+      "popularity": 475877,
       "favourites": 7714,
       "trailer": "5VQwDC5jqzQ",
       "studios": [
@@ -7538,7 +7538,7 @@
         "day": 8
       },
       "averageScore": 87,
-      "popularity": 459435,
+      "popularity": 459588,
       "favourites": 29628,
       "trailer": "5xqEp7R9SYM",
       "studios": [
@@ -7985,6 +7985,11 @@
           "role": "SUPPORTING"
         },
         {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166310-XyLGh2HLPv5r.png",
+          "character": "Uda no Parasite",
+          "role": "SUPPORTING"
+        },
+        {
           "url": "https://s4.anilist.co/file/anilistcdn/character/large/22142-vlmihBFr4G0g.jpg",
           "character": "Kazuyuki Izumi",
           "role": "SUPPORTING"
@@ -7992,11 +7997,6 @@
         {
           "url": "https://s4.anilist.co/file/anilistcdn/character/large/22147-k3argpRSe9ie.jpg",
           "character": "Takeshi Hirokawa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166310-XyLGh2HLPv5r.png",
-          "character": "Uda no Parasite",
           "role": "SUPPORTING"
         }
       ],
@@ -8905,8 +8905,8 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1253-4VmJuD5jUSvJ.png",
-          "character": "Kohzou Fuyutsuki",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1254-Ps0twCqNZZH2.png",
+          "character": "Hikari Horaki",
           "role": "SUPPORTING"
         }
       ],
@@ -9450,7 +9450,7 @@
         "day": 17
       },
       "averageScore": 72,
-      "popularity": 420791,
+      "popularity": 420880,
       "favourites": 6297,
       "trailer": "0HHNeeXrysA",
       "studios": [
@@ -9602,7 +9602,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 419636,
+      "popularity": 419750,
       "favourites": 13869,
       "trailer": null,
       "studios": [
@@ -9788,7 +9788,7 @@
         "day": 6
       },
       "averageScore": 76,
-      "popularity": 418663,
+      "popularity": 418797,
       "favourites": 10271,
       "trailer": "AOd3Gbe1Abg",
       "studios": [
@@ -10963,7 +10963,7 @@
         "day": 3
       },
       "averageScore": 77,
-      "popularity": 402639,
+      "popularity": 402732,
       "favourites": 11458,
       "trailer": null,
       "studios": [
@@ -11662,7 +11662,7 @@
         "day": 9
       },
       "averageScore": 68,
-      "popularity": 389879,
+      "popularity": 389983,
       "favourites": 7159,
       "trailer": "KfznTm8mJA4",
       "studios": [
@@ -12304,7 +12304,7 @@
         "day": 11
       },
       "averageScore": 82,
-      "popularity": 379921,
+      "popularity": 380044,
       "favourites": 20890,
       "trailer": "JoS7Z8MCD6E",
       "studios": [
@@ -13660,7 +13660,7 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 362587,
+      "popularity": 362660,
       "favourites": 9437,
       "trailer": "oDWkt8wcYh8",
       "studios": [
@@ -15161,7 +15161,7 @@
         "day": 10
       },
       "averageScore": 70,
-      "popularity": 347334,
+      "popularity": 347409,
       "favourites": 6106,
       "trailer": "12tJBLJ9uQA",
       "studios": [
@@ -15642,7 +15642,7 @@
         "day": 12
       },
       "averageScore": 71,
-      "popularity": 338659,
+      "popularity": 338752,
       "favourites": 11115,
       "trailer": "mAAKPx-ndAg",
       "studios": [
@@ -15950,7 +15950,7 @@
         "day": 5
       },
       "averageScore": 78,
-      "popularity": 333123,
+      "popularity": 333199,
       "favourites": 10853,
       "trailer": "u-bpwWPNEpE",
       "studios": [
@@ -16122,7 +16122,7 @@
         "day": 7
       },
       "averageScore": 81,
-      "popularity": 331738,
+      "popularity": 331853,
       "favourites": 12961,
       "trailer": "CPG64L4bSkI",
       "studios": [
@@ -16771,7 +16771,7 @@
         "day": 8
       },
       "averageScore": 83,
-      "popularity": 323712,
+      "popularity": 323815,
       "favourites": 9671,
       "trailer": "P_YtFPg9tNE",
       "studios": [
@@ -16957,7 +16957,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 323011,
+      "popularity": 323081,
       "favourites": 11461,
       "trailer": "b_A_wsT5WQE",
       "studios": [
@@ -17601,7 +17601,7 @@
         "day": 23
       },
       "averageScore": 79,
-      "popularity": 316843,
+      "popularity": 316920,
       "favourites": 11321,
       "trailer": "9nfs-qYVv0o",
       "studios": [
@@ -17778,7 +17778,7 @@
         "day": 2
       },
       "averageScore": 81,
-      "popularity": 314801,
+      "popularity": 314868,
       "favourites": 10190,
       "trailer": "n-7PFiut1HI",
       "studios": [
@@ -17864,13 +17864,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7966-nh5ZbkAioYaz.jpg",
-          "character": "Psycho Jenny",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124951-Z47U8coImkBG.jpg",
+          "character": "Gabi",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124951-Z47U8coImkBG.jpg",
-          "character": "Gabi",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b7966-nh5ZbkAioYaz.jpg",
+          "character": "Psycho Jenny",
           "role": "SUPPORTING"
         },
         {
@@ -18128,7 +18128,7 @@
         "day": 4
       },
       "averageScore": 75,
-      "popularity": 312447,
+      "popularity": 312516,
       "favourites": 8149,
       "trailer": "ud0fDdXHnYc",
       "studios": [
@@ -18275,7 +18275,7 @@
         "day": 19
       },
       "averageScore": 81,
-      "popularity": 312371,
+      "popularity": 312464,
       "favourites": 10585,
       "trailer": "Q6iK6DjV_iE",
       "studios": [
@@ -18601,7 +18601,7 @@
         "day": 3
       },
       "averageScore": 82,
-      "popularity": 308312,
+      "popularity": 308380,
       "favourites": 15439,
       "trailer": "X63_YYZjKxA",
       "studios": [
@@ -19775,7 +19775,7 @@
         "day": 8
       },
       "averageScore": 51,
-      "popularity": 297278,
+      "popularity": 297325,
       "favourites": 2211,
       "trailer": "DXNXOsZqc28",
       "studios": [
@@ -20598,7 +20598,7 @@
         "day": 7
       },
       "averageScore": 83,
-      "popularity": 289474,
+      "popularity": 289546,
       "favourites": 18399,
       "trailer": "6CTHwEZK2JA",
       "studios": [
@@ -22215,7 +22215,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 276704,
+      "popularity": 276775,
       "favourites": 11804,
       "trailer": "DPEQxuMKGfE",
       "studios": [
@@ -22366,7 +22366,7 @@
         "day": 6
       },
       "averageScore": 69,
-      "popularity": 275984,
+      "popularity": 276052,
       "favourites": 6458,
       "trailer": "tYDDS0OzV_Q",
       "studios": [
@@ -22680,7 +22680,7 @@
         "day": 12
       },
       "averageScore": 83,
-      "popularity": 274227,
+      "popularity": 274301,
       "favourites": 8513,
       "trailer": "Lk3fJsIOnKw",
       "studios": [
@@ -22848,7 +22848,7 @@
         "day": 11
       },
       "averageScore": 75,
-      "popularity": 272866,
+      "popularity": 272956,
       "favourites": 8618,
       "trailer": "pCwfEB6PbFk",
       "studios": [
@@ -24032,7 +24032,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 267330,
+      "popularity": 267376,
       "favourites": 7357,
       "trailer": "q5qlX4lWst0",
       "studios": [
@@ -24198,7 +24198,7 @@
         "day": 11
       },
       "averageScore": 83,
-      "popularity": 266754,
+      "popularity": 266806,
       "favourites": 5309,
       "trailer": "IZ8iIHpe4Lg",
       "studios": [
@@ -24705,7 +24705,7 @@
         "day": 6
       },
       "averageScore": 84,
-      "popularity": 263555,
+      "popularity": 263624,
       "favourites": 15396,
       "trailer": "uw2gV-oa1pQ",
       "studios": [
@@ -24832,13 +24832,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130785-zvGvLqecFUYX.png",
-          "character": "Leonard Burns",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130862-jScLEFMkfo27.png",
+          "character": "Viktor Licht",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130862-jScLEFMkfo27.png",
-          "character": "Viktor Licht",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130785-zvGvLqecFUYX.png",
+          "character": "Leonard Burns",
           "role": "SUPPORTING"
         }
       ],
@@ -25734,7 +25734,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 258141,
+      "popularity": 258206,
       "favourites": 7438,
       "trailer": null,
       "studios": [
@@ -26508,7 +26508,7 @@
         "day": 5
       },
       "averageScore": 66,
-      "popularity": 255056,
+      "popularity": 255116,
       "favourites": 3959,
       "trailer": "Kl6cNSBg3Wg",
       "studios": [
@@ -26657,7 +26657,7 @@
         "day": 8
       },
       "averageScore": 78,
-      "popularity": 253762,
+      "popularity": 253835,
       "favourites": 6964,
       "trailer": "FTUIs_SuQfw",
       "studios": [
@@ -27010,7 +27010,7 @@
         "day": 9
       },
       "averageScore": 78,
-      "popularity": 250447,
+      "popularity": 250499,
       "favourites": 7644,
       "trailer": "ab4fs9No18g",
       "studios": [
@@ -27334,7 +27334,7 @@
         "day": 3
       },
       "averageScore": 78,
-      "popularity": 249374,
+      "popularity": 249434,
       "favourites": 10259,
       "trailer": "mFHue76hqt0",
       "studios": [
@@ -29258,7 +29258,7 @@
         "day": 10
       },
       "averageScore": 77,
-      "popularity": 235234,
+      "popularity": 235310,
       "favourites": 5954,
       "trailer": "n-35-JRzT7k",
       "studios": [
@@ -29348,13 +29348,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17192.jpg",
-          "character": "William T. Spears",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/14958.jpg",
+          "character": "Lau",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/14958.jpg",
-          "character": "Lau",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17192.jpg",
+          "character": "William T. Spears",
           "role": "SUPPORTING"
         },
         {
@@ -29433,7 +29433,7 @@
         "day": 3
       },
       "averageScore": 72,
-      "popularity": 234890,
+      "popularity": 234953,
       "favourites": 4770,
       "trailer": "EoipHZFNXv0",
       "studios": [
@@ -29657,13 +29657,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64079-bHh1bAkOT6lQ.jpg",
-          "character": "Mitsuyoshi Misawa",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n52617-c8hjMMMyw43h.png",
+          "character": "Souhei Sasahara",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n52617-c8hjMMMyw43h.png",
-          "character": "Souhei Sasahara",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b64079-bHh1bAkOT6lQ.jpg",
+          "character": "Mitsuyoshi Misawa",
           "role": "SUPPORTING"
         },
         {
@@ -29780,7 +29780,7 @@
         "day": 2
       },
       "averageScore": 72,
-      "popularity": 233378,
+      "popularity": 233434,
       "favourites": 3597,
       "trailer": "SlD-8h96pDw",
       "studios": [
@@ -31182,6 +31182,152 @@
       "nextAiring": null
     },
     {
+      "id": 104157,
+      "title": {
+        "english": "Rascal Does Not Dream of a Dreaming Girl",
+        "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+      },
+      "description": "In Fujisawa, where the skies are bright and the seas glisten, Sakuta Azusagawa is in his second year of high school. His blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted with the appearance of his first crush, Shouko Makinohara. For reasons unknown, he encounters two Shouko's: one in middle school and another who has become an adult.\n<br>\n<br>\nAs Sakuta finds himself helplessly living with the Shouko's, the adult Shouko leads him around by the nose, causing a huge rift in his relationship with Mai.\n<br>\n<br>\nIn the midst of all of this, he discovers that the middle school Shouko is suffering from a grave illness and his scar begins to throb...\n<br>\n<br>\n(Source: Aniplex USA)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104157-rk99XI56PaIC.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104157-PS7tfPpvJKhk.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png",
+          "character": "Mai Sakurajima",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png",
+          "character": "Sakuta Azusagawa",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127843-nz8GbQ9rhB8R.jpg",
+          "character": "Shouko Makinohara",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png",
+          "character": "Rio Futaba",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg",
+          "character": "Tomoe Koga",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png",
+          "character": "Kaede Azusagawa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127841-UY9wQq6dW9SY.png",
+          "character": "Nodoka Toyohama",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130307-QbUIGjAiQbP9.png",
+          "character": "Yuuma Kunimi",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130304-5VhLSgq1zYIQ.png",
+          "character": "Saki Kamisato",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130306-BbD2k4HNPG5Z.png",
+          "character": "Mai no Haha",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130305-73pXalS4f3j8.png",
+          "character": "Yousuke Maesawa",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285128-RZU9irEAq7sP.jpg",
+          "character": "Ryouko Hanawa",
+          "role": "BACKGROUND"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1833/99985l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1437/100691l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1774/111679l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "MOVIE",
+      "episodes": 1,
+      "season": "SPRING",
+      "seasonYear": 2019,
+      "startDate": {
+        "year": 2019,
+        "month": 6,
+        "day": 15
+      },
+      "averageScore": 84,
+      "popularity": 227723,
+      "favourites": 8410,
+      "trailer": "UbLBbxSm8hs",
+      "studios": [
+        "CloverWorks"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://ao-buta.com/yumemiru/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/play/34869"
+        },
+        {
+          "type": "INFO",
+          "url": "https://rascaldoesnotdream.com/dreaming-girl/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81228006"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/GYW4MG9G6/rascal-does-not-dream-of-bunny-girl-senpai"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 21049,
       "title": {
         "english": "ReLIFE",
@@ -31321,152 +31467,6 @@
         {
           "type": "STREAMING",
           "url": "http://www.crunchyroll.com/relife"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 104157,
-      "title": {
-        "english": "Rascal Does Not Dream of a Dreaming Girl",
-        "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
-        "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
-      },
-      "description": "In Fujisawa, where the skies are bright and the seas glisten, Sakuta Azusagawa is in his second year of high school. His blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted with the appearance of his first crush, Shouko Makinohara. For reasons unknown, he encounters two Shouko's: one in middle school and another who has become an adult.\n<br>\n<br>\nAs Sakuta finds himself helplessly living with the Shouko's, the adult Shouko leads him around by the nose, causing a huge rift in his relationship with Mai.\n<br>\n<br>\nIn the midst of all of this, he discovers that the middle school Shouko is suffering from a grave illness and his scar begins to throb...\n<br>\n<br>\n(Source: Aniplex USA)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104157-rk99XI56PaIC.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104157-PS7tfPpvJKhk.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png",
-          "character": "Mai Sakurajima",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png",
-          "character": "Sakuta Azusagawa",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127843-nz8GbQ9rhB8R.jpg",
-          "character": "Shouko Makinohara",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png",
-          "character": "Rio Futaba",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg",
-          "character": "Tomoe Koga",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png",
-          "character": "Kaede Azusagawa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127841-UY9wQq6dW9SY.png",
-          "character": "Nodoka Toyohama",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130307-QbUIGjAiQbP9.png",
-          "character": "Yuuma Kunimi",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130304-5VhLSgq1zYIQ.png",
-          "character": "Saki Kamisato",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130306-BbD2k4HNPG5Z.png",
-          "character": "Mai no Haha",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130305-73pXalS4f3j8.png",
-          "character": "Yousuke Maesawa",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285128-RZU9irEAq7sP.jpg",
-          "character": "Ryouko Hanawa",
-          "role": "BACKGROUND"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1833/99985l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1437/100691l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1774/111679l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Psychological",
-        "Romance",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "MOVIE",
-      "episodes": 1,
-      "season": "SPRING",
-      "seasonYear": 2019,
-      "startDate": {
-        "year": 2019,
-        "month": 6,
-        "day": 15
-      },
-      "averageScore": 84,
-      "popularity": 227648,
-      "favourites": 8410,
-      "trailer": "UbLBbxSm8hs",
-      "studios": [
-        "CloverWorks"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://ao-buta.com/yumemiru/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/play/34869"
-        },
-        {
-          "type": "INFO",
-          "url": "https://rascaldoesnotdream.com/dreaming-girl/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81228006"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/GYW4MG9G6/rascal-does-not-dream-of-bunny-girl-senpai"
         }
       ],
       "nextAiring": null
@@ -31761,7 +31761,7 @@
         "day": 17
       },
       "averageScore": 67,
-      "popularity": 226501,
+      "popularity": 226550,
       "favourites": 2441,
       "trailer": "BA_fnEQ5PEk",
       "studios": [
@@ -32836,7 +32836,7 @@
         "day": 8
       },
       "averageScore": 84,
-      "popularity": 222063,
+      "popularity": 222111,
       "favourites": 8514,
       "trailer": "A8D2db4PFN0",
       "studios": [
@@ -34134,7 +34134,7 @@
         "day": 14
       },
       "averageScore": 69,
-      "popularity": 219041,
+      "popularity": 219086,
       "favourites": 4019,
       "trailer": "JToS6gmWzgw",
       "studios": [
@@ -34431,7 +34431,7 @@
         "day": 10
       },
       "averageScore": 77,
-      "popularity": 218169,
+      "popularity": 218230,
       "favourites": 4712,
       "trailer": "awYU-9jVZxE",
       "studios": [
@@ -35259,7 +35259,7 @@
         "day": 3
       },
       "averageScore": 83,
-      "popularity": 217266,
+      "popularity": 217309,
       "favourites": 10160,
       "trailer": "CD6VdVDVDXI",
       "studios": [
@@ -35409,7 +35409,7 @@
         "day": 10
       },
       "averageScore": 77,
-      "popularity": 216450,
+      "popularity": 216503,
       "favourites": 7833,
       "trailer": "CKnXq1qaTG0",
       "studios": [
@@ -35591,7 +35591,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 215692,
+      "popularity": 215774,
       "favourites": 6969,
       "trailer": "_gJR6gfRYEQ",
       "studios": [
@@ -35613,6 +35613,185 @@
         {
           "type": "STREAMING",
           "url": "https://www.netflix.com/title/80236253"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 111321,
+      "title": {
+        "english": "The Rising of the Shield Hero Season 2",
+        "romaji": "Tate no Yuusha no Nariagari Season 2",
+        "native": "盾の勇者の成り上がり Season 2"
+      },
+      "description": "The second season of <i>Tate no Yuusha no Nariagari</i>.<br>\n<br>\nWith another Wave happening in a week, Naofumi Iwatani and his party have no time to waste. However, when bat familiars raid Lurolona Village and the Wave countdown comes to a halt, the Four Cardinal Heroes reconvene with the queen, Mirelia Q Melromarc, for a quick briefing. The queen presumes that the odd occurrences are linked to the Spirit Tortoise—a threatening creature that has awakened from its slumber, back to cause havoc once again. A plan to put the Spirit Tortoise to rest is devised—but out of the four men, only the cursed Shield Hero agrees to help.<br>\n<br>\n(Source: MAL Rewrite)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111321-dIr3dEKOIPer.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111321-nnetF1qONAcE.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png",
+          "character": "Raphtalia",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png",
+          "character": "Naofumi Iwatani",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png",
+          "character": "Filo",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136794-yoJxRXGAGMlo.png",
+          "character": "Rishia Ivyred",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png",
+          "character": "Melty Q Melromarc",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png",
+          "character": "Mirellia Q Melromarc",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136796-V3uZcLtu2IWo.jpg",
+          "character": "Glass",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136790-6TkN3qYelIhk.jpg",
+          "character": "Fitoria",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b188636-32h7JtBG86Di.png",
+          "character": "Kizuna Kazayama",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133724-DKBQxDroRlQG.png",
+          "character": "Erhard",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136793-HfJKb7D6gwxj.jpg",
+          "character": "L'arc  Berg",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129812-mNAmoHxmHCwd.png",
+          "character": "Ren Amaki",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136797-zuXQf5VxGQlp.jpg",
+          "character": "Therese Alexandrite",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129808-T5fd863K9TOI.png",
+          "character": "Malty Melromarc",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136788-R4A8YUHZSTAb.png",
+          "character": "Eclair Seaetto",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1008/102902l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1625/109097l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1245/111800l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1484/120884l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1718/121837l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1143/121873l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1189/124642l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "SPRING",
+      "seasonYear": 2022,
+      "startDate": {
+        "year": 2022,
+        "month": 4,
+        "day": 6
+      },
+      "averageScore": 65,
+      "popularity": 214964,
+      "favourites": 3141,
+      "trailer": "gMZDGyihTyc",
+      "studios": [
+        "Kinema Citrus",
+        "DR Movie"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://shieldhero-anime.jp/2nd/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://crunchyroll.com/series/G6W4QKX0R/the-rising-of-the-shield-hero"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/media/1047893/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/the-rising-of-the-shield-hero-s2-2022-1o4dpauj2ph"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/97f1d394-0ac7-48c2-bb1b-7b2575848441"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.disneyplus.com/series/the-rising-of-the-shield-hero-aka-tate-no-yuusha-no/4lgHH2jdAefe"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81058649"
         }
       ],
       "nextAiring": null
@@ -35765,185 +35944,6 @@
       "nextAiring": null
     },
     {
-      "id": 111321,
-      "title": {
-        "english": "The Rising of the Shield Hero Season 2",
-        "romaji": "Tate no Yuusha no Nariagari Season 2",
-        "native": "盾の勇者の成り上がり Season 2"
-      },
-      "description": "The second season of <i>Tate no Yuusha no Nariagari</i>.<br>\n<br>\nWith another Wave happening in a week, Naofumi Iwatani and his party have no time to waste. However, when bat familiars raid Lurolona Village and the Wave countdown comes to a halt, the Four Cardinal Heroes reconvene with the queen, Mirelia Q Melromarc, for a quick briefing. The queen presumes that the odd occurrences are linked to the Spirit Tortoise—a threatening creature that has awakened from its slumber, back to cause havoc once again. A plan to put the Spirit Tortoise to rest is devised—but out of the four men, only the cursed Shield Hero agrees to help.<br>\n<br>\n(Source: MAL Rewrite)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111321-dIr3dEKOIPer.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111321-nnetF1qONAcE.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png",
-          "character": "Raphtalia",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88817-Aku5CuN6wO2z.png",
-          "character": "Naofumi Iwatani",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126828-nZDnMK4Bw7f9.png",
-          "character": "Filo",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136794-yoJxRXGAGMlo.png",
-          "character": "Rishia Ivyred",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129813-quaY4dr807yx.png",
-          "character": "Melty Q Melromarc",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135198-ImEXzNG3srwI.png",
-          "character": "Mirellia Q Melromarc",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136796-V3uZcLtu2IWo.jpg",
-          "character": "Glass",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136790-6TkN3qYelIhk.jpg",
-          "character": "Fitoria",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b188636-32h7JtBG86Di.png",
-          "character": "Kizuna Kazayama",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133724-DKBQxDroRlQG.png",
-          "character": "Erhard",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136793-HfJKb7D6gwxj.jpg",
-          "character": "L'arc  Berg",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129812-mNAmoHxmHCwd.png",
-          "character": "Ren Amaki",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136797-zuXQf5VxGQlp.jpg",
-          "character": "Therese Alexandrite",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129808-T5fd863K9TOI.png",
-          "character": "Malty Melromarc",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136788-R4A8YUHZSTAb.png",
-          "character": "Eclair Seaetto",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1008/102902l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1625/109097l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1245/111800l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1484/120884l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1718/121837l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1143/121873l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1189/124642l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "SPRING",
-      "seasonYear": 2022,
-      "startDate": {
-        "year": 2022,
-        "month": 4,
-        "day": 6
-      },
-      "averageScore": 65,
-      "popularity": 214903,
-      "favourites": 3141,
-      "trailer": "gMZDGyihTyc",
-      "studios": [
-        "Kinema Citrus",
-        "DR Movie"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://shieldhero-anime.jp/2nd/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://crunchyroll.com/series/G6W4QKX0R/the-rising-of-the-shield-hero"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/media/1047893/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/the-rising-of-the-shield-hero-s2-2022-1o4dpauj2ph"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/97f1d394-0ac7-48c2-bb1b-7b2575848441"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.disneyplus.com/series/the-rising-of-the-shield-hero-aka-tate-no-yuusha-no/4lgHH2jdAefe"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81058649"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 102976,
       "title": {
         "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
@@ -36071,7 +36071,7 @@
         "day": 30
       },
       "averageScore": 82,
-      "popularity": 214671,
+      "popularity": 214740,
       "favourites": 5240,
       "trailer": "5h4rQY9bpgE",
       "studios": [
@@ -36654,8 +36654,8 @@
           "role": "BACKGROUND"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6723-KL01Q7pi0nc8.png",
-          "character": "Ryuu",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b9915-VZKb8TQwdYAn.png",
+          "character": "Cammy",
           "role": "BACKGROUND"
         }
       ],
@@ -37743,7 +37743,7 @@
         "day": 9
       },
       "averageScore": 62,
-      "popularity": 210769,
+      "popularity": 210822,
       "favourites": 2468,
       "trailer": "D8FvfKSyk9c",
       "studios": [
@@ -38052,7 +38052,7 @@
         "day": 7
       },
       "averageScore": 78,
-      "popularity": 209261,
+      "popularity": 209317,
       "favourites": 4573,
       "trailer": "xTit5k75uvE",
       "studios": [
@@ -38379,7 +38379,7 @@
         "day": 2
       },
       "averageScore": 81,
-      "popularity": 208197,
+      "popularity": 208253,
       "favourites": 7849,
       "trailer": "WUMAeUwxsCk",
       "studios": [
@@ -39889,7 +39889,7 @@
         "day": 3
       },
       "averageScore": 87,
-      "popularity": 202206,
+      "popularity": 202254,
       "favourites": 14067,
       "trailer": "IecYMqp1N4k",
       "studios": [
@@ -40517,7 +40517,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 199502,
+      "popularity": 199562,
       "favourites": 6328,
       "trailer": "cj6NGP9nNwI",
       "studios": [
@@ -40659,7 +40659,7 @@
         "day": 12
       },
       "averageScore": 64,
-      "popularity": 198832,
+      "popularity": 198866,
       "favourites": 3862,
       "trailer": "LLPv26YL4VU",
       "studios": [
@@ -40928,7 +40928,7 @@
         "day": 13
       },
       "averageScore": 75,
-      "popularity": 196964,
+      "popularity": 197010,
       "favourites": 3606,
       "trailer": "NL2TRub294w",
       "studios": [
@@ -41117,7 +41117,7 @@
         "day": 10
       },
       "averageScore": 82,
-      "popularity": 196873,
+      "popularity": 196921,
       "favourites": 7815,
       "trailer": "M0CsMI-qqmI",
       "studios": [
