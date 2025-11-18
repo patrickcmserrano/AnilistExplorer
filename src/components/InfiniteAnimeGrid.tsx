@@ -166,7 +166,7 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
             const uniqueKey = `anime-${anime.id}-${idx}`;
             
             return (
-              <a key={uniqueKey} href={`/anime/${anime.id}`} className="group block">
+              <a key={uniqueKey} href={`/anime/${anime.id}/`} className="group block">
                 <article className="relative aspect-[2/3] rounded-lg overflow-hidden shadow-lg ring-2 ring-transparent hover:ring-blue-500/50 transition-all">
                   <img 
                     src={coverImage || '/placeholder-anime.svg'} 

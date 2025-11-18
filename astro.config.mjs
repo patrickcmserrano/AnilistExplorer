@@ -4,6 +4,7 @@ import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
   output: 'static',
+  trailingSlash: process.env.NODE_ENV === 'production' ? 'always' : 'ignore',
   integrations: [react(), tailwind()],
   site: 'https://patrickcmserrano.github.io',
   base: process.env.NODE_ENV === 'production' && process.env.GITHUB_ACTIONS ? '/AnilistExplorer' : '/',
