@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-18T12:23:21.476836",
+    "updatedAt": "2025-11-18T18:21:06.751524",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -915,7 +915,7 @@
         "day": 3
       },
       "averageScore": 76,
-      "popularity": 776048,
+      "popularity": 776221,
       "favourites": 20660,
       "trailer": "AhqVltWDqFA",
       "studios": [
@@ -2551,7 +2551,7 @@
         "day": 26
       },
       "averageScore": 85,
-      "popularity": 627738,
+      "popularity": 627885,
       "favourites": 34360,
       "trailer": "k4xGqY5IDBE",
       "studios": [
@@ -3083,7 +3083,7 @@
         "day": 1
       },
       "averageScore": 79,
-      "popularity": 589895,
+      "popularity": 590015,
       "favourites": 8605,
       "trailer": "tEPneR3KFK8",
       "studios": [
@@ -3767,7 +3767,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 551153,
+      "popularity": 551278,
       "favourites": 28143,
       "trailer": "mV39saBlBLI",
       "studios": [
@@ -4083,7 +4083,7 @@
         "day": 8
       },
       "averageScore": 81,
-      "popularity": 540825,
+      "popularity": 540962,
       "favourites": 19857,
       "trailer": "TZzMOC-4k6M",
       "studios": [
@@ -4774,7 +4774,7 @@
         "day": 4
       },
       "averageScore": 81,
-      "popularity": 533942,
+      "popularity": 534071,
       "favourites": 27019,
       "trailer": "vFfXjuVA1Jk",
       "studios": [
@@ -6478,7 +6478,7 @@
         "day": 9
       },
       "averageScore": 83,
-      "popularity": 485461,
+      "popularity": 485616,
       "favourites": 22211,
       "trailer": "ofXigq9aIpo",
       "studios": [
@@ -6836,7 +6836,7 @@
         "day": 11
       },
       "averageScore": 85,
-      "popularity": 484145,
+      "popularity": 484256,
       "favourites": 30216,
       "trailer": "_grmduuECm4",
       "studios": [
@@ -10442,7 +10442,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 412487,
+      "popularity": 412608,
       "favourites": 14318,
       "trailer": "XoJCOAU_72U",
       "studios": [
@@ -11962,7 +11962,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 387327,
+      "popularity": 387482,
       "favourites": 18356,
       "trailer": "O6qVieflwqs",
       "studios": [
@@ -12625,7 +12625,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 377295,
+      "popularity": 377390,
       "favourites": 13302,
       "trailer": "GGsohezPRXU",
       "studios": [
@@ -12964,7 +12964,7 @@
         "day": 10
       },
       "averageScore": 86,
-      "popularity": 374287,
+      "popularity": 374420,
       "favourites": 12144,
       "trailer": "EIVVnLlhzr0",
       "studios": [
@@ -14311,7 +14311,7 @@
         "day": 24
       },
       "averageScore": 83,
-      "popularity": 356073,
+      "popularity": 356222,
       "favourites": 9670,
       "trailer": "2docezZl574",
       "studios": [
@@ -14990,7 +14990,7 @@
         "day": 7
       },
       "averageScore": 82,
-      "popularity": 348616,
+      "popularity": 348784,
       "favourites": 17064,
       "trailer": "HkIKAnwLZCw",
       "studios": [
@@ -15300,7 +15300,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 345376,
+      "popularity": 345511,
       "favourites": 15650,
       "trailer": "8oveGY6h6T8",
       "studios": [
@@ -15803,7 +15803,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 335907,
+      "popularity": 335962,
       "favourites": 7977,
       "trailer": "9jVxMt845AY",
       "studios": [
@@ -16618,7 +16618,7 @@
         "day": 8
       },
       "averageScore": 87,
-      "popularity": 329649,
+      "popularity": 329694,
       "favourites": 10660,
       "trailer": "kJfU5boNUIE",
       "studios": [
@@ -18435,7 +18435,7 @@
         "day": 4
       },
       "averageScore": 83,
-      "popularity": 311984,
+      "popularity": 312060,
       "favourites": 16144,
       "trailer": null,
       "studios": [
@@ -18600,7 +18600,7 @@
         "day": 9
       },
       "averageScore": 81,
-      "popularity": 308441,
+      "popularity": 308542,
       "favourites": 8538,
       "trailer": "a9tq0aS5Zu8",
       "studios": [
@@ -18917,7 +18917,7 @@
         "day": 10
       },
       "averageScore": 82,
-      "popularity": 307983,
+      "popularity": 308086,
       "favourites": 5733,
       "trailer": "t6MXHczeEqc",
       "studios": [
@@ -19444,7 +19444,7 @@
         "day": 12
       },
       "averageScore": 77,
-      "popularity": 300535,
+      "popularity": 300571,
       "favourites": 8975,
       "trailer": "okBHQWnYImg",
       "studios": [
@@ -21094,7 +21094,7 @@
         "day": 1
       },
       "averageScore": 81,
-      "popularity": 284974,
+      "popularity": 285059,
       "favourites": 6101,
       "trailer": "jR1L1EK3kN0",
       "studios": [
@@ -21571,7 +21571,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 278460,
+      "popularity": 278518,
       "favourites": 7601,
       "trailer": "QpyQ_0i2NU8",
       "studios": [
@@ -21720,7 +21720,7 @@
         "day": 1
       },
       "averageScore": 80,
-      "popularity": 278275,
+      "popularity": 278393,
       "favourites": 8960,
       "trailer": "8BIaDDN-r3o",
       "studios": [
@@ -22032,7 +22032,7 @@
         "day": 2
       },
       "averageScore": 84,
-      "popularity": 277483,
+      "popularity": 277553,
       "favourites": 18417,
       "trailer": "NLZP_z2PxCw",
       "studios": [
@@ -23026,7 +23026,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 272575,
+      "popularity": 272669,
       "favourites": 16062,
       "trailer": "gKWEUJ4r5do",
       "studios": [
@@ -23213,6 +23213,195 @@
       "nextAiring": null
     },
     {
+      "id": 137822,
+      "title": {
+        "english": "BLUE LOCK",
+        "romaji": "Blue Lock",
+        "native": "ブルーロック"
+      },
+      "description": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?<br>\n<br>\n(Source: Crunchyroll)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png",
+          "character": "Meguru Bachira",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png",
+          "character": "Yoichi Isagi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167444-JTHkkJAX4E3q.png",
+          "character": "Hyouma Chigiri",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162214-9x9Q3A9rxpx8.png",
+          "character": "Rensuke Kunigami",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png",
+          "character": "Seishirou Nagi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169395-7xUFV2mINMZu.png",
+          "character": "Rin Itoshi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169401-jeepvEsqW4Ns.png",
+          "character": "Shouei Barou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169394-8KDqHUN1VyGC.png",
+          "character": "Reo Mikage",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186875-JGHisZO21JxJ.png",
+          "character": "Ryuusei Shidou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169397-wC55onsv5u8t.jpg",
+          "character": "Sae Itoshi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140857-DOTyKBCufon9.png",
+          "character": "Jinpachi Ego",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169404-90OF8t2ukD9H.jpg",
+          "character": "Gin Gagamaru",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169405-RFVC95ooQp13.png",
+          "character": "Anri Teieri",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191409-qU7sRhVmpgRQ.png",
+          "character": "Kenyu Yukimiya",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169402-JlISsoEunCxH.png",
+          "character": "Jingo Raichi",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1418/117081l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1288/118846l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1922/120080l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1263/121497l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1754/122743l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1400/123773l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1101/124419l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1460/125731l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1925/125732l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1717/125733l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 24,
+      "season": "FALL",
+      "seasonYear": 2022,
+      "startDate": {
+        "year": 2022,
+        "month": 10,
+        "day": 9
+      },
+      "averageScore": 80,
+      "popularity": 269763,
+      "favourites": 11099,
+      "trailer": "IVsII3dLbWc",
+      "studios": [
+        "8-bit"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://bluelock-pr.com/tv1st/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/G4PH0WEKE/blue-lock"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jj17JiCvrOBjnjPjb930O2g"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/media/2069747/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81640753"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/82c637ed-3f67-4488-bf73-eacf1beafe17"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 127720,
       "title": {
         "english": "Mushoku Tensei: Jobless Reincarnation Cour 2",
@@ -23377,195 +23566,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.netflix.com/title/80987039"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 137822,
-      "title": {
-        "english": "BLUE LOCK",
-        "romaji": "Blue Lock",
-        "native": "ブルーロック"
-      },
-      "description": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?<br>\n<br>\n(Source: Crunchyroll)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png",
-          "character": "Meguru Bachira",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png",
-          "character": "Yoichi Isagi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b167444-JTHkkJAX4E3q.png",
-          "character": "Hyouma Chigiri",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162214-9x9Q3A9rxpx8.png",
-          "character": "Rensuke Kunigami",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png",
-          "character": "Seishirou Nagi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169395-7xUFV2mINMZu.png",
-          "character": "Rin Itoshi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169401-jeepvEsqW4Ns.png",
-          "character": "Shouei Barou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169394-8KDqHUN1VyGC.png",
-          "character": "Reo Mikage",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b186875-JGHisZO21JxJ.png",
-          "character": "Ryuusei Shidou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169397-wC55onsv5u8t.jpg",
-          "character": "Sae Itoshi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b140857-DOTyKBCufon9.png",
-          "character": "Jinpachi Ego",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169404-90OF8t2ukD9H.jpg",
-          "character": "Gin Gagamaru",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169405-RFVC95ooQp13.png",
-          "character": "Anri Teieri",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b191409-qU7sRhVmpgRQ.png",
-          "character": "Kenyu Yukimiya",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b169402-JlISsoEunCxH.png",
-          "character": "Jingo Raichi",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1418/117081l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1288/118846l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1922/120080l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1263/121497l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1754/122743l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1400/123773l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1101/124419l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1460/125731l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1925/125732l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1717/125733l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Drama",
-        "Sports"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 24,
-      "season": "FALL",
-      "seasonYear": 2022,
-      "startDate": {
-        "year": 2022,
-        "month": 10,
-        "day": 9
-      },
-      "averageScore": 80,
-      "popularity": 269677,
-      "favourites": 11099,
-      "trailer": "IVsII3dLbWc",
-      "studios": [
-        "8-bit"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://bluelock-pr.com/tv1st/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/G4PH0WEKE/blue-lock"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jj17JiCvrOBjnjPjb930O2g"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/media/2069747/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81640753"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/82c637ed-3f67-4488-bf73-eacf1beafe17"
         }
       ],
       "nextAiring": null
@@ -27686,7 +27686,7 @@
         "day": 5
       },
       "averageScore": 81,
-      "popularity": 248327,
+      "popularity": 248441,
       "favourites": 13964,
       "trailer": "L7LgAbGF-WY",
       "studios": [
@@ -28284,7 +28284,7 @@
         "day": 2
       },
       "averageScore": 79,
-      "popularity": 239644,
+      "popularity": 239684,
       "favourites": 2835,
       "trailer": "O_tsnSmpM-k",
       "studios": [
@@ -29591,7 +29591,7 @@
         "day": 8
       },
       "averageScore": 76,
-      "popularity": 233621,
+      "popularity": 233713,
       "favourites": 6172,
       "trailer": "zl0Kiv0kuQQ",
       "studios": [
@@ -30045,7 +30045,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 232362,
+      "popularity": 232415,
       "favourites": 7595,
       "trailer": "JwaruTPKq9I",
       "studios": [
@@ -31912,7 +31912,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 226467,
+      "popularity": 226555,
       "favourites": 8704,
       "trailer": "ukO-ZdWS3j8",
       "studios": [
@@ -32316,7 +32316,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 223959,
+      "popularity": 224018,
       "favourites": 9538,
       "trailer": "Ah7lTT-NKMw",
       "studios": [
@@ -32668,7 +32668,7 @@
         "day": 10
       },
       "averageScore": 88,
-      "popularity": 222592,
+      "popularity": 222697,
       "favourites": 12210,
       "trailer": "6pX93dXfH9s",
       "studios": [
@@ -33181,7 +33181,7 @@
         "day": 1
       },
       "averageScore": 82,
-      "popularity": 221685,
+      "popularity": 221787,
       "favourites": 5479,
       "trailer": "WxCJMYbGtzA",
       "studios": [
@@ -34584,7 +34584,7 @@
         "day": 6
       },
       "averageScore": 81,
-      "popularity": 218159,
+      "popularity": 218198,
       "favourites": 4829,
       "trailer": "aeX94e7V0_w",
       "studios": [
@@ -34927,7 +34927,7 @@
         "day": 9
       },
       "averageScore": 87,
-      "popularity": 217823,
+      "popularity": 217915,
       "favourites": 23912,
       "trailer": "SyMMZF5zNW4",
       "studios": [
@@ -36232,6 +36232,175 @@
       "nextAiring": null
     },
     {
+      "id": 145545,
+      "title": {
+        "english": "Classroom of the Elite Season 2",
+        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "native": "ようこそ実力至上主義の教室へ 2nd Season"
+      },
+      "description": "The second season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.\n<br><br>\nTokyo Metropolitan Advanced Nurturing High School seems like a paradise, but in reality, it is an extreme meritocracy. In the class of underachievers, Kiyotaka has begun working with Suzune, who seeks to ascend higher. After a survival test on an uninhabited island, they get to enjoy a luxury liner, but a new class-scrambling test will begin.<br>\n<br>\n(Source: Anime News Network)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145545-XeHhS7dJJLlj.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png",
+          "character": "Kiyotaka Ayanokouji",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png",
+          "character": "Suzune Horikita",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png",
+          "character": "Kei Karuizawa",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159627-kWwSUA1XR1Kx.png",
+          "character": "Kakeru Ryuuen",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123214-Ym9cldopi3yR.png",
+          "character": "Kikyou Kushida",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123216-N9tQZf2XIKu6.png",
+          "character": "Honami Ichinose",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg",
+          "character": "Arisu Sakayanagi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123215-sMQJk35TqQv4.jpg",
+          "character": "Airi Sakura",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123217-sZaSZQGBYTcu.png",
+          "character": "Sae Chabashira",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163518-xnSqZflOp9Wm.png",
+          "character": "Hiyori Shiina",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158988-P28e8SU3WpGK.png",
+          "character": "Rokusuke Kouenji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123219-OEMawnnYXMFY.png",
+          "character": "Manabu Horikita",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163519-as1ccGaDehxI.jpg",
+          "character": "Maya Satou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163517-pBRJeR0pkw0Z.png",
+          "character": "Haruka Hasebe",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123218-HLOaxZINQojE.png",
+          "character": "Yousuke Hirata",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1279/121251l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1763/121259l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1010/124180l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1111/124181l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1146/124827l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1147/124838l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "SUMMER",
+      "seasonYear": 2022,
+      "startDate": {
+        "year": 2022,
+        "month": 7,
+        "day": 4
+      },
+      "averageScore": 79,
+      "popularity": 214513,
+      "favourites": 5921,
+      "trailer": "0mM3lQytac4",
+      "studios": [
+        "Lerche"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://you-zitsu.com/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/classroom-of-the-elite"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/1060488/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15ThV6Sk_ynU7DmU5cmaT-e"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/play/abmsrh1zul"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 166240,
       "title": {
         "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
@@ -36399,175 +36568,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/f5331794-7c00-41f0-8646-e94c0b09c1a1"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 145545,
-      "title": {
-        "english": "Classroom of the Elite Season 2",
-        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
-        "native": "ようこそ実力至上主義の教室へ 2nd Season"
-      },
-      "description": "The second season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.\n<br><br>\nTokyo Metropolitan Advanced Nurturing High School seems like a paradise, but in reality, it is an extreme meritocracy. In the class of underachievers, Kiyotaka has begun working with Suzune, who seeks to ascend higher. After a survival test on an uninhabited island, they get to enjoy a luxury liner, but a new class-scrambling test will begin.<br>\n<br>\n(Source: Anime News Network)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145545-XeHhS7dJJLlj.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png",
-          "character": "Kiyotaka Ayanokouji",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png",
-          "character": "Suzune Horikita",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png",
-          "character": "Kei Karuizawa",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159627-kWwSUA1XR1Kx.png",
-          "character": "Kakeru Ryuuen",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123214-Ym9cldopi3yR.png",
-          "character": "Kikyou Kushida",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123216-N9tQZf2XIKu6.png",
-          "character": "Honami Ichinose",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg",
-          "character": "Arisu Sakayanagi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123215-sMQJk35TqQv4.jpg",
-          "character": "Airi Sakura",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123217-sZaSZQGBYTcu.png",
-          "character": "Sae Chabashira",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163518-xnSqZflOp9Wm.png",
-          "character": "Hiyori Shiina",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b158988-P28e8SU3WpGK.png",
-          "character": "Rokusuke Kouenji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123219-OEMawnnYXMFY.png",
-          "character": "Manabu Horikita",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163519-as1ccGaDehxI.jpg",
-          "character": "Maya Satou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163517-pBRJeR0pkw0Z.png",
-          "character": "Haruka Hasebe",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123218-HLOaxZINQojE.png",
-          "character": "Yousuke Hirata",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1279/121251l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1763/121259l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1010/124180l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1111/124181l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1146/124827l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1147/124838l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Psychological"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "SUMMER",
-      "seasonYear": 2022,
-      "startDate": {
-        "year": 2022,
-        "month": 7,
-        "day": 4
-      },
-      "averageScore": 79,
-      "popularity": 214443,
-      "favourites": 5921,
-      "trailer": "0mM3lQytac4",
-      "studios": [
-        "Lerche"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://you-zitsu.com/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/classroom-of-the-elite"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2WCY-naAlexgVnI7CHlNNR"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/1060488/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15ThV6Sk_ynU7DmU5cmaT-e"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/play/abmsrh1zul"
         }
       ],
       "nextAiring": null
@@ -36978,7 +36978,7 @@
         "day": 4
       },
       "averageScore": 74,
-      "popularity": 212526,
+      "popularity": 212592,
       "favourites": 4356,
       "trailer": "NkqePv9i6Yw",
       "studios": [
@@ -37121,7 +37121,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 212488,
+      "popularity": 212510,
       "favourites": 7507,
       "trailer": "r5BL6gBZjOI",
       "studios": [
@@ -37262,7 +37262,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 212139,
+      "popularity": 212185,
       "favourites": 2506,
       "trailer": "XmfXcVLA1d8",
       "studios": [
@@ -38225,7 +38225,7 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 209048,
+      "popularity": 209075,
       "favourites": 5201,
       "trailer": "0i1AxFdlu0M",
       "studios": [
@@ -38538,7 +38538,7 @@
         "day": 3
       },
       "averageScore": 81,
-      "popularity": 207998,
+      "popularity": 208071,
       "favourites": 6543,
       "trailer": "ts5NGoDI1V0",
       "studios": [
@@ -39245,6 +39245,163 @@
       "nextAiring": null
     },
     {
+      "id": 146984,
+      "title": {
+        "english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+        "romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
+        "native": "進撃の巨人 The Final Season完結編 前編"
+      },
+      "description": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley. Now a motley crew of his former comrades and enemies scramble to halt his deadly mission, the only question is, can they stop him?<br>\n<br>\n(Source: Crunchyroll)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-GXrLeT6vQqyP.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146984-yAkTtW2AExVj.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+          "character": "Eren Yeager",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+          "character": "Mikasa Ackerman",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+          "character": "Armin Arlert",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+          "character": "Levi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+          "character": "Hange Zoe",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+          "character": "Erwin Smith",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png",
+          "character": "Gabi Braun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+          "character": "Reiner Braun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+          "character": "Jean Kirstein",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+          "character": "Annie Leonhart",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
+          "character": "Zeke",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png",
+          "character": "Pieck Finger",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+          "character": "Connie Springer",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125660-mrmpOJLjJIkv.jpg",
+          "character": "Falco Grice",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133216-HKl61n4F7eYv.png",
+          "character": "Yelena",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1101/122343l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1361/130998l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1279/131078l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1398/135979l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological"
+      ],
+      "status": "FINISHED",
+      "format": "SPECIAL",
+      "episodes": 1,
+      "season": "WINTER",
+      "seasonYear": 2023,
+      "startDate": {
+        "year": 2023,
+        "month": 3,
+        "day": 4
+      },
+      "averageScore": 87,
+      "popularity": 205046,
+      "favourites": 5624,
+      "trailer": "hb-mo0URZBw",
+      "studios": [
+        "MAPPA"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://shingeki.tv/final/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/watch/G8WUNMMMW/attack-on-titan-final-season-the-final-chapters-special-1"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/watch/3488e755-bf9c-480e-9fa0-ffc2bf5fa045"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/26rwd8fpbix"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/2077856"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 47,
       "title": {
         "english": "Akira",
@@ -39428,163 +39585,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.crunchyroll.com/akira"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 146984,
-      "title": {
-        "english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
-        "romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-        "native": "進撃の巨人 The Final Season完結編 前編"
-      },
-      "description": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley. Now a motley crew of his former comrades and enemies scramble to halt his deadly mission, the only question is, can they stop him?<br>\n<br>\n(Source: Crunchyroll)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-GXrLeT6vQqyP.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146984-yAkTtW2AExVj.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
-          "character": "Eren Yeager",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
-          "character": "Mikasa Ackerman",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
-          "character": "Armin Arlert",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
-          "character": "Levi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
-          "character": "Hange Zoe",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
-          "character": "Erwin Smith",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png",
-          "character": "Gabi Braun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
-          "character": "Reiner Braun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
-          "character": "Jean Kirstein",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
-          "character": "Annie Leonhart",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
-          "character": "Zeke",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png",
-          "character": "Pieck Finger",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
-          "character": "Connie Springer",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125660-mrmpOJLjJIkv.jpg",
-          "character": "Falco Grice",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b133216-HKl61n4F7eYv.png",
-          "character": "Yelena",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1101/122343l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1361/130998l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1279/131078l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1398/135979l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Mystery",
-        "Psychological"
-      ],
-      "status": "FINISHED",
-      "format": "SPECIAL",
-      "episodes": 1,
-      "season": "WINTER",
-      "seasonYear": 2023,
-      "startDate": {
-        "year": 2023,
-        "month": 3,
-        "day": 4
-      },
-      "averageScore": 87,
-      "popularity": 204950,
-      "favourites": 5624,
-      "trailer": "hb-mo0URZBw",
-      "studios": [
-        "MAPPA"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://shingeki.tv/final/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/watch/G8WUNMMMW/attack-on-titan-final-season-the-final-chapters-special-1"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/watch/3488e755-bf9c-480e-9fa0-ffc2bf5fa045"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/26rwd8fpbix"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/2077856"
         }
       ],
       "nextAiring": null
