@@ -1,3 +1,6 @@
+// Get base URL from Astro's environment
+const BASE_URL = import.meta.env.BASE_URL || '/';
+
 interface CarouselActionButtonsProps {
   animeId: number | string;
   isFullscreen: boolean;
@@ -49,7 +52,7 @@ export default function CarouselActionButtons({
 
       {/* Open Anime Button */}
       <a
-        href={`/anime/${animeId}`}
+        href={`${BASE_URL}anime/${animeId}/`}
         className="p-2 md:p-2.5 rounded-full bg-blue-600/90 hover:bg-blue-700 active:bg-blue-800 text-white transition-colors touch-manipulation"
         title="Abrir anime (Enter)"
         aria-label="Abrir página do anime"

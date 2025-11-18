@@ -1,5 +1,8 @@
 import { useEffect, RefObject } from 'react';
 
+// Get base URL from Astro's environment
+const BASE_URL = import.meta.env.BASE_URL || '/';
+
 interface UseKeyboardNavigationProps {
   isFullscreen: boolean;
   carouselRef: RefObject<HTMLDivElement>;
@@ -55,7 +58,7 @@ export const useKeyboardNavigation = ({
           break;
         case 'Enter':
           e.preventDefault();
-          window.location.href = `/anime/${currentAnimeId}`;
+          window.location.href = `${BASE_URL}anime/${currentAnimeId}/`;
           break;
         case 'f':
         case 'F':

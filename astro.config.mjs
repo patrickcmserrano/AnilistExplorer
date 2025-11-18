@@ -2,12 +2,15 @@ import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import tailwind from '@astrojs/tailwind';
 
+// Determine if we're building for GitHub Pages
+const isGitHubPages = process.env.GITHUB_ACTIONS === 'true' || process.env.DEPLOY_TARGET === 'github-pages';
+
 export default defineConfig({
   output: 'static',
-  trailingSlash: process.env.NODE_ENV === 'production' ? 'always' : 'ignore',
+  trailingSlash: 'always',
   integrations: [react(), tailwind()],
   site: 'https://patrickcmserrano.github.io',
-  base: process.env.NODE_ENV === 'production' && process.env.GITHUB_ACTIONS ? '/AnilistExplorer' : '/',
+  base: isGitHubPages ? '/AnilistExplorer' : '/',
   compressHTML: true,
   build: {
     inlineStylesheets: 'auto',
