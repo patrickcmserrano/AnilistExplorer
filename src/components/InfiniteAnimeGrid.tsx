@@ -41,6 +41,7 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
   const [sortMethod, setSortMethod] = useState(sortBy);
   const [isLoadingMore, setIsLoadingMore] = useState(false);
   const gridRef = useRef<HTMLDivElement>(null);
+  const sentinelRef = useRef<HTMLDivElement>(null);
 
   // Sort animes helper function
   const sortAnimes = useCallback((animes: Anime[], method: string) => {
@@ -120,9 +121,27 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
 
   const hasMore = displayedAnimes.length < allAnimes.length;
 
+  // IntersectionObserver for infinite scroll
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel || !hasMore) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting && hasMore && !isLoadingMore) {
+          loadMore();
+        }
+      },
+      { threshold: 0.1 }
+    );
+
+    observer.observe(sentinel);
+
+    return () => observer.disconnect();
+  }, [hasMore, isLoadingMore, loadMore]);
+
   return (
     <div className="w-full">
-      {/* Sort Controls */}
       <div className="mb-6 space-y-3">
         <div className="text-xs text-gray-500 font-medium uppercase tracking-wider">Ordenar por</div>
         
@@ -216,6 +235,9 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
           </div>
         )}
       </div>
+
+      {/* Sentinel for infinite scroll */}
+      <div ref={sentinelRef} className="h-10" />
 
       {/* Loading indicator */}
       {isLoadingMore && (
