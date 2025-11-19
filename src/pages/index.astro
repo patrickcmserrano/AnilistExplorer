@@ -30,6 +30,21 @@ const totalReleases = animeArray.reduce((sum, a) => sum + (a.count || a.episodes
 
 // Sort animes by popularity for carousel (most popular first)
 const sortedByPopularity = [...animeArray].sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
+
+// For initial load, only send top 20 most popular for carousel to reduce HTML size
+const topCarouselAnimes = sortedByPopularity.slice(0, 20);
+
+// Create a lightweight version for initial render - only essential fields
+const lightweightAnimes = animeArray.map(anime => ({
+  id: anime.id,
+  title: anime.title,
+  base_title: anime.base_title || anime.title?.english || anime.title?.romaji,
+  cover_image: anime.coverImage || anime.cover_image,
+  score: anime.averageScore || anime.score,
+  count: anime.count || anime.episodes || 0,
+  popularity: anime.popularity || 0,
+  genres: anime.genres || [],
+}));
 ---
 
 <Layout title="Anime Explorer - AniList Browser">
@@ -55,7 +70,7 @@ const sortedByPopularity = [...animeArray].sort((a, b) => (b.popularity || 0) - 
         </p>
         <p class="text-xs text-purple-400 mt-1">🔥 Ordenado por popularidade</p>
       </div>
-      <CoverCarousel client:load animes={sortedByPopularity} />
+      <CoverCarousel client:load animes={topCarouselAnimes} />
     </section>
 
     {/* Main Content Section */}
@@ -65,10 +80,10 @@ const sortedByPopularity = [...animeArray].sort((a, b) => (b.popularity || 0) - 
       </div>
       
       {/* Search and Filters */}
-      <SearchBar client:load animes={animeArray} />
+      <SearchBar client:load animes={lightweightAnimes} />
       
       {/* Infinite Scroll Grid */}
-      <InfiniteAnimeGrid client:load animes={animeArray} sortBy="popularity" />
+      <InfiniteAnimeGrid client:load animes={lightweightAnimes} sortBy="popularity" />
     </section>
   </main>
 </Layout>

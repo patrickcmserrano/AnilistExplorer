@@ -2,9 +2,18 @@
 const { anime } = Astro.props;
 ---
 
-<a href={`/anime/${id}/`} class="group block rounded-lg overflow-hidden shadow-lg bg-slate-800 hover:shadow-xl transition-shadow duration-300">
+<a href={`/anime/${anime.id}/`} class="group block rounded-lg overflow-hidden shadow-lg bg-slate-800 hover:shadow-xl transition-shadow duration-300">
   <article class="relative aspect-[2/3] rounded-lg overflow-hidden shadow-lg">
-    <img src={anime.cover_image} alt={anime.base_title} class="w-full h-full object-cover group-hover:scale-105 transition" loading="lazy" />
+    <img 
+      src={anime.cover_image} 
+      alt={anime.base_title} 
+      class="w-full h-full object-cover group-hover:scale-105 transition" 
+      loading="lazy" 
+      decoding="async"
+      fetchpriority="low"
+      width="230"
+      height="345"
+    />
     <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent">
       <div class="absolute bottom-0 p-3">
         <h3 class="text-white font-semibold text-sm line-clamp-2">{anime.base_title}</h3>

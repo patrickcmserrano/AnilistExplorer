@@ -35,6 +35,9 @@ export default function CarouselImageDisplay({
           src={imageUrl}
           alt={`${animeTitle} - ${imageLabel}`}
           className="max-h-full max-w-full w-auto h-auto object-contain animate-fade-in"
+          loading="eager"
+          decoding="async"
+          fetchPriority="high"
           onError={(e) => { 
             (e.target as HTMLImageElement).src = '/placeholder-anime.svg'; 
           }}
