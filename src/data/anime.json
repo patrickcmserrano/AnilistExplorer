@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-20T06:21:08.751437",
+    "updatedAt": "2025-11-20T12:23:20.218050",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -535,7 +535,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 839081,
+      "popularity": 839301,
       "favourites": 44203,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
@@ -2890,7 +2890,7 @@
         "day": 23
       },
       "averageScore": 85,
-      "popularity": 606944,
+      "popularity": 607077,
       "favourites": 14361,
       "trailer": "EHzBhrncmac",
       "studios": [
@@ -4235,7 +4235,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 540268,
+      "popularity": 540376,
       "favourites": 8170,
       "trailer": "JezE6iZUWxo",
       "studios": [
@@ -4427,7 +4427,7 @@
         "day": 15
       },
       "averageScore": 82,
-      "popularity": 539540,
+      "popularity": 539673,
       "favourites": 33139,
       "trailer": null,
       "studios": [
@@ -5639,7 +5639,7 @@
         "day": 3
       },
       "averageScore": 79,
-      "popularity": 502856,
+      "popularity": 502984,
       "favourites": 23664,
       "trailer": "vUjAxk1qYzQ",
       "studios": [
@@ -6671,7 +6671,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 484666,
+      "popularity": 484768,
       "favourites": 16327,
       "trailer": "ya570uUgQNc",
       "studios": [
@@ -8412,7 +8412,7 @@
         "day": 13
       },
       "averageScore": 68,
-      "popularity": 441865,
+      "popularity": 441977,
       "favourites": 13669,
       "trailer": "KNIS0mVawhc",
       "studios": [
@@ -8594,7 +8594,7 @@
         "day": 5
       },
       "averageScore": 78,
-      "popularity": 433956,
+      "popularity": 434106,
       "favourites": 23669,
       "trailer": "0c4IoCA5fY0",
       "studios": [
@@ -8793,7 +8793,7 @@
         "day": 6
       },
       "averageScore": 85,
-      "popularity": 432264,
+      "popularity": 432374,
       "favourites": 25166,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -9136,7 +9136,7 @@
         "day": 20
       },
       "averageScore": 86,
-      "popularity": 427214,
+      "popularity": 427320,
       "favourites": 17106,
       "trailer": "ByXuk9QqQkk",
       "studios": [
@@ -9939,7 +9939,7 @@
         "day": 10
       },
       "averageScore": 74,
-      "popularity": 418102,
+      "popularity": 418210,
       "favourites": 6416,
       "trailer": "NezvLw2gRAY",
       "studios": [
@@ -10303,7 +10303,7 @@
         "day": 1
       },
       "averageScore": 70,
-      "popularity": 412917,
+      "popularity": 413006,
       "favourites": 6561,
       "trailer": "v2xJDuM9ZDM",
       "studios": [
@@ -10786,7 +10786,7 @@
         "day": 9
       },
       "averageScore": 76,
-      "popularity": 405446,
+      "popularity": 405535,
       "favourites": 13637,
       "trailer": "VKYmpq-V3Rs",
       "studios": [
@@ -12461,7 +12461,7 @@
         "day": 12
       },
       "averageScore": 76,
-      "popularity": 379540,
+      "popularity": 379642,
       "favourites": 12707,
       "trailer": "iYsx6w5PNno",
       "studios": [
@@ -14134,7 +14134,7 @@
         "day": 7
       },
       "averageScore": 85,
-      "popularity": 359987,
+      "popularity": 360091,
       "favourites": 18775,
       "trailer": "AQbaZeby2zA",
       "studios": [
@@ -15478,7 +15478,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 339211,
+      "popularity": 339294,
       "favourites": 11109,
       "trailer": null,
       "studios": [
@@ -16472,7 +16472,7 @@
         "day": 1
       },
       "averageScore": 85,
-      "popularity": 331201,
+      "popularity": 331290,
       "favourites": 22757,
       "trailer": "oXkkMhCuCMg",
       "studios": [
@@ -17144,7 +17144,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 321570,
+      "popularity": 321641,
       "favourites": 17380,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -17265,7 +17265,7 @@
         "day": 1
       },
       "averageScore": 84,
-      "popularity": 319928,
+      "popularity": 320007,
       "favourites": 15506,
       "trailer": "MmoBvmJA9XI",
       "studios": [
@@ -17424,7 +17424,7 @@
         "day": 20
       },
       "averageScore": 85,
-      "popularity": 319456,
+      "popularity": 319532,
       "favourites": 17324,
       "trailer": "iwROgK94zcM",
       "studios": [
@@ -17964,7 +17964,7 @@
         "day": 5
       },
       "averageScore": 76,
-      "popularity": 314816,
+      "popularity": 314900,
       "favourites": 12481,
       "trailer": "g4LjvxtFieE",
       "studios": [
@@ -20121,7 +20121,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 295023,
+      "popularity": 295194,
       "favourites": 15951,
       "trailer": "vnRmIBoyfBM",
       "studios": [
@@ -20273,7 +20273,7 @@
         "day": 13
       },
       "averageScore": 78,
-      "popularity": 292205,
+      "popularity": 292257,
       "favourites": 9633,
       "trailer": "FnM1TDuG9f4",
       "studios": [
@@ -23865,7 +23865,7 @@
         "day": 12
       },
       "averageScore": 85,
-      "popularity": 268139,
+      "popularity": 268191,
       "favourites": 11459,
       "trailer": "4OiMOHRDs14",
       "studios": [
@@ -24384,7 +24384,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 266235,
+      "popularity": 266289,
       "favourites": 5938,
       "trailer": "9ZseZTshl2k",
       "studios": [
@@ -25096,7 +25096,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 262943,
+      "popularity": 262996,
       "favourites": 14390,
       "trailer": null,
       "studios": [
@@ -25391,7 +25391,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 260521,
+      "popularity": 260568,
       "favourites": 2877,
       "trailer": "ULP_6faadB4",
       "studios": [
@@ -27187,7 +27187,7 @@
         "day": 16
       },
       "averageScore": 80,
-      "popularity": 249728,
+      "popularity": 249797,
       "favourites": 6456,
       "trailer": "92a7Hj0ijLs",
       "studios": [
@@ -27515,7 +27515,7 @@
         "day": 20
       },
       "averageScore": 84,
-      "popularity": 248765,
+      "popularity": 248824,
       "favourites": 13089,
       "trailer": null,
       "studios": [
@@ -27854,7 +27854,7 @@
         "day": 25
       },
       "averageScore": 68,
-      "popularity": 245994,
+      "popularity": 246043,
       "favourites": 4487,
       "trailer": "3KgeAos9oNc",
       "studios": [
@@ -28473,6 +28473,157 @@
       "nextAiring": null
     },
     {
+      "id": 161645,
+      "title": {
+        "english": "The Apothecary Diaries",
+        "romaji": "Kusuriya no Hitorigoto",
+        "native": "薬屋のひとりごと"
+      },
+      "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161645-oqzTZYIvviWI.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
+          "character": "Maomao",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
+          "character": "Jinshi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg",
+          "character": "Rouran",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156767-6ncEJKdsEQ3O.jpg",
+          "character": "Gyokuyou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
+          "character": "Gaoshun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156766-3DxfskkEqNvc.jpg",
+          "character": "Rifa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg",
+          "character": "Lakan",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156765-HPRJaEN81jSa.jpg",
+          "character": "Aaduo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274186-lzElg0bbpo1O.jpg",
+          "character": "Xiaolan",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274195-TyGcY0uiMpx4.png",
+          "character": "Lihaku",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
+          "character": "Pairin",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156764-aEbQtGaJ9PzZ.jpg",
+          "character": "Riishu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
+          "character": "Meimei",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261968-dz3PwsJ9Csl9.png",
+          "character": "Ruomen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg",
+          "character": "Joka",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1674/137009l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1271/137043l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 24,
+      "season": "FALL",
+      "seasonYear": 2023,
+      "startDate": {
+        "year": 2023,
+        "month": 10,
+        "day": 22
+      },
+      "averageScore": 88,
+      "popularity": 237972,
+      "favourites": 19801,
+      "trailer": "oyHqh8ue4zw",
+      "studios": [
+        "OLM",
+        "TOHO animation STUDIO"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://kusuriyanohitorigoto.jp/season1/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81712068"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/the-apothecary-diaries-d7b5390e-b8cb-4cc3-ba7c-7ed570355d7d"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 19603,
       "title": {
         "english": "Fate/stay night: Unlimited Blade Works",
@@ -28644,157 +28795,6 @@
       "nextAiring": null
     },
     {
-      "id": 161645,
-      "title": {
-        "english": "The Apothecary Diaries",
-        "romaji": "Kusuriya no Hitorigoto",
-        "native": "薬屋のひとりごと"
-      },
-      "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161645-oqzTZYIvviWI.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
-          "character": "Maomao",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
-          "character": "Jinshi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg",
-          "character": "Rouran",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156767-6ncEJKdsEQ3O.jpg",
-          "character": "Gyokuyou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
-          "character": "Gaoshun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156766-3DxfskkEqNvc.jpg",
-          "character": "Rifa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg",
-          "character": "Lakan",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156765-HPRJaEN81jSa.jpg",
-          "character": "Aaduo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274186-lzElg0bbpo1O.jpg",
-          "character": "Xiaolan",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274195-TyGcY0uiMpx4.png",
-          "character": "Lihaku",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
-          "character": "Pairin",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156764-aEbQtGaJ9PzZ.jpg",
-          "character": "Riishu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
-          "character": "Meimei",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261968-dz3PwsJ9Csl9.png",
-          "character": "Ruomen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg",
-          "character": "Joka",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1674/137009l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1271/137043l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 24,
-      "season": "FALL",
-      "seasonYear": 2023,
-      "startDate": {
-        "year": 2023,
-        "month": 10,
-        "day": 22
-      },
-      "averageScore": 88,
-      "popularity": 237816,
-      "favourites": 19801,
-      "trailer": "oyHqh8ue4zw",
-      "studios": [
-        "OLM",
-        "TOHO animation STUDIO"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://kusuriyanohitorigoto.jp/season1/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81712068"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/the-apothecary-diaries-d7b5390e-b8cb-4cc3-ba7c-7ed570355d7d"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 121,
       "title": {
         "english": "Fullmetal Alchemist",
@@ -28950,7 +28950,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 236675,
+      "popularity": 236724,
       "favourites": 5803,
       "trailer": "35cs5zFr2h8",
       "studios": [
@@ -29110,7 +29110,7 @@
         "day": 9
       },
       "averageScore": 75,
-      "popularity": 236038,
+      "popularity": 236087,
       "favourites": 4112,
       "trailer": "c3Jt_EXwGBc",
       "studios": [
@@ -30380,6 +30380,162 @@
       "nextAiring": null
     },
     {
+      "id": 176496,
+      "title": {
+        "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+        "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+        "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+      },
+      "description": "The second season of <i>Solo Leveling</i>.<br><br>\nMastering his new abilities in secret, Jin-U must battle humanity's toughest foes to save his mother.<br><br>\n\n(Source: Crunchyroll News)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176496-5oY4k2NRqlYs.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
+          "character": "Jin-U Seong",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
+          "character": "Hae-In Cha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
+          "character": "Igris",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159849-p0Szb7KzD2DD.png",
+          "character": "Beru ",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b164675-ZrAxmOOwGSa6.png",
+          "character": "Esil Radiru",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png",
+          "character": "Ju-Hui Lee",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
+          "character": "Jin-A Seong",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
+          "character": "Geon-Hui Go",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
+          "character": "Jin-Ho Yu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
+          "character": "Jin-Cheol U",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
+          "character": "Yun-Ho Baek",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
+          "character": "Jong-In Choi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg",
+          "character": "Il-Hwan Seong",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
+          "character": "Iron",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184538-4J5sRSFKNLGQ.png",
+          "character": "Hee-Jin Park",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1463/145502l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1448/147351l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1667/147359l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1030/147643l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1699/148229l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "WINTER",
+      "seasonYear": 2025,
+      "startDate": {
+        "year": 2025,
+        "month": 1,
+        "day": 5
+      },
+      "averageScore": 86,
+      "popularity": 231022,
+      "favourites": 11716,
+      "trailer": "byJ7pxxhaDY",
+      "studios": [
+        "A-1 Pictures"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://sololeveling-anime.net/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/2f1yrmhcd4h"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/2123726"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 20872,
       "title": {
         "english": "Plastic Memories",
@@ -30527,162 +30683,6 @@
         {
           "type": "INFO",
           "url": "https://plasticmemoriesusa.com/"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 176496,
-      "title": {
-        "english": "Solo Leveling Season 2 -Arise from the Shadow-",
-        "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
-        "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
-      },
-      "description": "The second season of <i>Solo Leveling</i>.<br><br>\nMastering his new abilities in secret, Jin-U must battle humanity's toughest foes to save his mother.<br><br>\n\n(Source: Crunchyroll News)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176496-5oY4k2NRqlYs.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129928-BCEjVaP0AQSw.png",
-          "character": "Jin-U Seong",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138789-AhE8m0LWjE7E.png",
-          "character": "Hae-In Cha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b145722-qSJ71S6vpeeM.png",
-          "character": "Igris",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b159849-p0Szb7KzD2DD.png",
-          "character": "Beru ",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b164675-ZrAxmOOwGSa6.png",
-          "character": "Esil Radiru",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136074-pLyumEnxjL7P.png",
-          "character": "Ju-Hui Lee",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138791-IngjgBQqGMWc.png",
-          "character": "Jin-A Seong",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138792-TXFrDA1wpbmo.png",
-          "character": "Geon-Hui Go",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136076-D7eiE3pA9U8g.jpg",
-          "character": "Jin-Ho Yu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136819-okbPuuFAefYX.png",
-          "character": "Jin-Cheol U",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136077-IIMqRmMK5Fgs.png",
-          "character": "Yun-Ho Baek",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138794-dZNdO0pvZ659.png",
-          "character": "Jong-In Choi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138790-i3DFMscWID9D.jpg",
-          "character": "Il-Hwan Seong",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184956-uy2dOVHacMsf.png",
-          "character": "Iron",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b184538-4J5sRSFKNLGQ.png",
-          "character": "Hee-Jin Park",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1463/145502l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1448/147351l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1667/147359l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1030/147643l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1699/148229l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "WINTER",
-      "seasonYear": 2025,
-      "startDate": {
-        "year": 2025,
-        "month": 1,
-        "day": 5
-      },
-      "averageScore": 86,
-      "popularity": 230887,
-      "favourites": 11716,
-      "trailer": "byJ7pxxhaDY",
-      "studios": [
-        "A-1 Pictures"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://sololeveling-anime.net/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/2f1yrmhcd4h"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/2123726"
         }
       ],
       "nextAiring": null
@@ -30972,7 +30972,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 229793,
+      "popularity": 229838,
       "favourites": 10643,
       "trailer": "ZM8a3QYtOfA",
       "studios": [
@@ -31159,7 +31159,7 @@
         "day": 26
       },
       "averageScore": 80,
-      "popularity": 229310,
+      "popularity": 229363,
       "favourites": 12003,
       "trailer": null,
       "studios": [
@@ -32176,7 +32176,7 @@
         "day": 11
       },
       "averageScore": 71,
-      "popularity": 224798,
+      "popularity": 224834,
       "favourites": 3915,
       "trailer": "iPsu_sk-e7Q",
       "studios": [
@@ -33358,7 +33358,7 @@
         "day": 8
       },
       "averageScore": 78,
-      "popularity": 220335,
+      "popularity": 220373,
       "favourites": 6514,
       "trailer": "W9KZgJgo-x0",
       "studios": [
@@ -33522,7 +33522,7 @@
         "day": 9
       },
       "averageScore": 78,
-      "popularity": 220058,
+      "popularity": 220113,
       "favourites": 7154,
       "trailer": "AlZmD15k-F4",
       "studios": [
@@ -34758,7 +34758,7 @@
         "day": 6
       },
       "averageScore": 80,
-      "popularity": 218064,
+      "popularity": 218129,
       "favourites": 12417,
       "trailer": "lpv7Wv-sDAo",
       "studios": [
@@ -36090,148 +36090,6 @@
       "nextAiring": null
     },
     {
-      "id": 17265,
-      "title": {
-        "english": "Log Horizon",
-        "romaji": "Log Horizon",
-        "native": "ログ・ホライズン"
-      },
-      "description": "The online fantasy game Elder Tales is a worldwide phenomenon, immersing millions of players in its intricately conceived virtual world. However, the release of the game's twelfth expansion pack makes that immersion all too literal, as players from around the world are suddenly pulled into the game's no-longer-fictional universe! Now, eight-year ET veteran Shiroe, his friend Naotsugu, the beautiful assassin Akatsuki, and 30,000 other players are faced with the daunting task of learning how to deal with an entirely new reality, one where the Non-Player Characters are actually alive, and the tips and tricks learned while playing with a keyboard no longer apply.<br><br>\n(Source: Sentai Filmworks)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17265-RyErURYesjJt.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/17265-53eBCC34SKyM.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png",
-          "character": "Shiroe",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n81369-0vKZMoOH3NZT.jpg",
-          "character": "Akatsuki",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81371-03gxHpwaBbVL.jpg",
-          "character": "Naotsugu",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81373-oG4Bngt03jKk.jpg",
-          "character": "Nyanta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88376-OlBiSAYIY27B.jpg",
-          "character": "Marielle",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88394.jpg",
-          "character": "Lenessia Eruarte Cowen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88385.jpg",
-          "character": "Krusty",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88377.jpg",
-          "character": "Henrietta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88396-dK6epfuuie3v.png",
-          "character": "Rundelhaus Kode",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88389.jpg",
-          "character": "Kanami",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88378.jpg",
-          "character": "Serara",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88447.jpg",
-          "character": "Minori",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88398.jpg",
-          "character": "Soujirou Seta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88393.jpg",
-          "character": "Nureha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88448-E1c0010rcKRL.png",
-          "character": "Isuzu",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/2/47935l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/5/84004l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1352/146795l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 25,
-      "season": "FALL",
-      "seasonYear": 2013,
-      "startDate": {
-        "year": 2013,
-        "month": 10,
-        "day": 5
-      },
-      "averageScore": 76,
-      "popularity": 214644,
-      "favourites": 4192,
-      "trailer": "IG1VhJ75r8k",
-      "studios": [
-        "Satelight"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://www6.nhk.or.jp/anime/program/detail.html?i=loghorizon"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/log-horizon"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/5b43d845-83b4-4205-ac0b-2daca7acdc1a"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 166240,
       "title": {
         "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
@@ -36373,7 +36231,7 @@
         "day": 12
       },
       "averageScore": 80,
-      "popularity": 214609,
+      "popularity": 214725,
       "favourites": 5363,
       "trailer": "7w5Vfjozzb8",
       "studios": [
@@ -36399,6 +36257,148 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/f5331794-7c00-41f0-8646-e94c0b09c1a1"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 17265,
+      "title": {
+        "english": "Log Horizon",
+        "romaji": "Log Horizon",
+        "native": "ログ・ホライズン"
+      },
+      "description": "The online fantasy game Elder Tales is a worldwide phenomenon, immersing millions of players in its intricately conceived virtual world. However, the release of the game's twelfth expansion pack makes that immersion all too literal, as players from around the world are suddenly pulled into the game's no-longer-fictional universe! Now, eight-year ET veteran Shiroe, his friend Naotsugu, the beautiful assassin Akatsuki, and 30,000 other players are faced with the daunting task of learning how to deal with an entirely new reality, one where the Non-Player Characters are actually alive, and the tips and tricks learned while playing with a keyboard no longer apply.<br><br>\n(Source: Sentai Filmworks)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17265-RyErURYesjJt.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/17265-53eBCC34SKyM.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b81367-nE2CB4jLVPeu.png",
+          "character": "Shiroe",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n81369-0vKZMoOH3NZT.jpg",
+          "character": "Akatsuki",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81371-03gxHpwaBbVL.jpg",
+          "character": "Naotsugu",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/81373-oG4Bngt03jKk.jpg",
+          "character": "Nyanta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88376-OlBiSAYIY27B.jpg",
+          "character": "Marielle",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88394.jpg",
+          "character": "Lenessia Eruarte Cowen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88385.jpg",
+          "character": "Krusty",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88377.jpg",
+          "character": "Henrietta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88396-dK6epfuuie3v.png",
+          "character": "Rundelhaus Kode",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88389.jpg",
+          "character": "Kanami",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88378.jpg",
+          "character": "Serara",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88447.jpg",
+          "character": "Minori",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88398.jpg",
+          "character": "Soujirou Seta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88393.jpg",
+          "character": "Nureha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88448-E1c0010rcKRL.png",
+          "character": "Isuzu",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/2/47935l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/5/84004l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1352/146795l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 25,
+      "season": "FALL",
+      "seasonYear": 2013,
+      "startDate": {
+        "year": 2013,
+        "month": 10,
+        "day": 5
+      },
+      "averageScore": 76,
+      "popularity": 214644,
+      "favourites": 4192,
+      "trailer": "IG1VhJ75r8k",
+      "studios": [
+        "Satelight"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://www6.nhk.or.jp/anime/program/detail.html?i=loghorizon"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/log-horizon"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/5b43d845-83b4-4205-ac0b-2daca7acdc1a"
         }
       ],
       "nextAiring": null
@@ -37612,7 +37612,7 @@
         "day": 28
       },
       "averageScore": 85,
-      "popularity": 211872,
+      "popularity": 211938,
       "favourites": 13552,
       "trailer": "UXQraSkOOGs",
       "studios": [
@@ -37892,7 +37892,7 @@
         "day": 4
       },
       "averageScore": 78,
-      "popularity": 209510,
+      "popularity": 209548,
       "favourites": 2453,
       "trailer": "SELSLl0_Gmw",
       "studios": [
@@ -38884,7 +38884,7 @@
         "day": 26
       },
       "averageScore": 78,
-      "popularity": 206549,
+      "popularity": 206601,
       "favourites": 7226,
       "trailer": null,
       "studios": [
@@ -39210,7 +39210,7 @@
         "day": 5
       },
       "averageScore": 56,
-      "popularity": 205628,
+      "popularity": 205670,
       "favourites": 3164,
       "trailer": "ppLE9xycGm4",
       "studios": [
@@ -39559,7 +39559,7 @@
         "day": 16
       },
       "averageScore": 79,
-      "popularity": 205063,
+      "popularity": 205112,
       "favourites": 7003,
       "trailer": "SyM8JyyUTjc",
       "studios": [
@@ -39889,7 +39889,7 @@
         "day": 3
       },
       "averageScore": 87,
-      "popularity": 202325,
+      "popularity": 202355,
       "favourites": 14075,
       "trailer": "IecYMqp1N4k",
       "studios": [
@@ -40185,7 +40185,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 201132,
+      "popularity": 201193,
       "favourites": 5044,
       "trailer": "2VvZIEXmltw",
       "studios": [
@@ -40778,7 +40778,7 @@
         "day": 6
       },
       "averageScore": 67,
-      "popularity": 197884,
+      "popularity": 197911,
       "favourites": 3543,
       "trailer": "vSi7NGZQ-IA",
       "studios": [
