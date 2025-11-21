@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-21T06:21:31.047994",
+    "updatedAt": "2025-11-21T12:22:50.167461",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -535,7 +535,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 839301,
+      "popularity": 839528,
       "favourites": 44222,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
@@ -1795,7 +1795,7 @@
         "day": 20
       },
       "averageScore": 88,
-      "popularity": 642214,
+      "popularity": 642396,
       "favourites": 89580,
       "trailer": null,
       "studios": [
@@ -2371,7 +2371,7 @@
         "day": 3
       },
       "averageScore": 80,
-      "popularity": 638045,
+      "popularity": 638183,
       "favourites": 28730,
       "trailer": "-G9BqkgZXRA",
       "studios": [
@@ -2890,7 +2890,7 @@
         "day": 23
       },
       "averageScore": 85,
-      "popularity": 607077,
+      "popularity": 607242,
       "favourites": 14365,
       "trailer": "EHzBhrncmac",
       "studios": [
@@ -4235,7 +4235,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 540376,
+      "popularity": 540501,
       "favourites": 8172,
       "trailer": "JezE6iZUWxo",
       "studios": [
@@ -4427,7 +4427,7 @@
         "day": 15
       },
       "averageScore": 82,
-      "popularity": 539673,
+      "popularity": 539789,
       "favourites": 33147,
       "trailer": null,
       "studios": [
@@ -5639,7 +5639,7 @@
         "day": 3
       },
       "averageScore": 79,
-      "popularity": 502984,
+      "popularity": 503136,
       "favourites": 23673,
       "trailer": "vUjAxk1qYzQ",
       "studios": [
@@ -6671,7 +6671,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 484768,
+      "popularity": 484867,
       "favourites": 16331,
       "trailer": "ya570uUgQNc",
       "studios": [
@@ -8412,7 +8412,7 @@
         "day": 13
       },
       "averageScore": 68,
-      "popularity": 441977,
+      "popularity": 442097,
       "favourites": 13675,
       "trailer": "KNIS0mVawhc",
       "studios": [
@@ -8594,7 +8594,7 @@
         "day": 5
       },
       "averageScore": 78,
-      "popularity": 434106,
+      "popularity": 434226,
       "favourites": 23674,
       "trailer": "0c4IoCA5fY0",
       "studios": [
@@ -8793,7 +8793,7 @@
         "day": 6
       },
       "averageScore": 85,
-      "popularity": 432374,
+      "popularity": 432513,
       "favourites": 25174,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -8981,7 +8981,7 @@
         "day": 3
       },
       "averageScore": 83,
-      "popularity": 429882,
+      "popularity": 429989,
       "favourites": 32757,
       "trailer": "kOH2_8MkgZY",
       "studios": [
@@ -9136,7 +9136,7 @@
         "day": 20
       },
       "averageScore": 86,
-      "popularity": 427320,
+      "popularity": 427434,
       "favourites": 17110,
       "trailer": "ByXuk9QqQkk",
       "studios": [
@@ -9939,7 +9939,7 @@
         "day": 10
       },
       "averageScore": 74,
-      "popularity": 418210,
+      "popularity": 418340,
       "favourites": 6420,
       "trailer": "NezvLw2gRAY",
       "studios": [
@@ -10303,7 +10303,7 @@
         "day": 1
       },
       "averageScore": 70,
-      "popularity": 413006,
+      "popularity": 413100,
       "favourites": 6562,
       "trailer": "v2xJDuM9ZDM",
       "studios": [
@@ -10786,7 +10786,7 @@
         "day": 9
       },
       "averageScore": 76,
-      "popularity": 405535,
+      "popularity": 405642,
       "favourites": 13641,
       "trailer": "VKYmpq-V3Rs",
       "studios": [
@@ -12461,7 +12461,7 @@
         "day": 12
       },
       "averageScore": 76,
-      "popularity": 379642,
+      "popularity": 379770,
       "favourites": 12717,
       "trailer": "iYsx6w5PNno",
       "studios": [
@@ -14134,7 +14134,7 @@
         "day": 7
       },
       "averageScore": 85,
-      "popularity": 360091,
+      "popularity": 360202,
       "favourites": 18784,
       "trailer": "AQbaZeby2zA",
       "studios": [
@@ -15478,7 +15478,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 339294,
+      "popularity": 339414,
       "favourites": 11112,
       "trailer": null,
       "studios": [
@@ -16472,7 +16472,7 @@
         "day": 1
       },
       "averageScore": 85,
-      "popularity": 331290,
+      "popularity": 331378,
       "favourites": 22762,
       "trailer": "oXkkMhCuCMg",
       "studios": [
@@ -17144,7 +17144,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 321641,
+      "popularity": 321730,
       "favourites": 17389,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -17265,7 +17265,7 @@
         "day": 1
       },
       "averageScore": 84,
-      "popularity": 320007,
+      "popularity": 320102,
       "favourites": 15516,
       "trailer": "MmoBvmJA9XI",
       "studios": [
@@ -17424,7 +17424,7 @@
         "day": 20
       },
       "averageScore": 85,
-      "popularity": 319532,
+      "popularity": 319620,
       "favourites": 17327,
       "trailer": "iwROgK94zcM",
       "studios": [
@@ -17964,7 +17964,7 @@
         "day": 5
       },
       "averageScore": 76,
-      "popularity": 314900,
+      "popularity": 315007,
       "favourites": 12485,
       "trailer": "g4LjvxtFieE",
       "studios": [
@@ -20121,7 +20121,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 295194,
+      "popularity": 295385,
       "favourites": 15960,
       "trailer": "vnRmIBoyfBM",
       "studios": [
@@ -20273,7 +20273,7 @@
         "day": 13
       },
       "averageScore": 78,
-      "popularity": 292257,
+      "popularity": 292312,
       "favourites": 9636,
       "trailer": "FnM1TDuG9f4",
       "studios": [
@@ -20436,6 +20436,160 @@
         {
           "type": "STREAMING",
           "url": "http://www.hulu.com/seraph-of-the-end-vampire-reign"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 19,
+      "title": {
+        "english": "Monster",
+        "romaji": "MONSTER",
+        "native": "MONSTER"
+      },
+      "description": "Dr. Kenzo Tenma is a renowned Japanese brain surgeon working at a leading hospital in Germany. One night, Dr. Tenma risks his reputation and career to save the life of a critically wounded young boy over that of the town mayor who had been planning to support the hospital financially. A string of mysterious murders begin to occur soon after the operation, and Dr. Tenma emerges as the primary suspect despite no incriminating evidence. \n<br><br>\nA doctor is taught to believe that all life is equal; however, when another series of murders occur in the surgeon's vicinity, Dr. Tenma's beliefs are shaken as his actions that night are shown to have much broader consequences than he could have imagined. Leaving behind his life as a surgeon he embarks on a journey across the country to unravel the mystery of the boy he saved.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-gtMC64182sm4.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19-kJhwsB0Z97tL.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg",
+          "character": "Johan Liebert",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png",
+          "character": "Kenzou Tenma",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png",
+          "character": "Heinrich Runge",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b720-VFo5SzZsVfzl.png",
+          "character": "Anna Liebert",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6123-kLLVgdI8Elv4.jpg",
+          "character": "Eva Heinemann",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png",
+          "character": "Wolfgang Grimmer",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6329-1EP0t4paLi3y.jpg",
+          "character": "Dieter",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12117-bIHpLFAb9fiD.png",
+          "character": "Martin Reest",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/11080-QZxwmy36GaQH.jpg",
+          "character": "Julius Reichwein",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8615-8eOPwbeu9jZh.png",
+          "character": "Franz Bonaparta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/36223.jpg",
+          "character": "Richard Braun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8617.jpg",
+          "character": "Rudy-Ulrich Gillen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8611.jpg",
+          "character": "Roberto",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8618.jpg",
+          "character": "Jan Suk",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8624-Ui2NPXiWXV3B.png",
+          "character": "Otto Heckel",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/10/8618l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/10/13733l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1573/132904l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 74,
+      "season": "SPRING",
+      "seasonYear": 2004,
+      "startDate": {
+        "year": 2004,
+        "month": 4,
+        "day": 7
+      },
+      "averageScore": 88,
+      "popularity": 289854,
+      "favourites": 19227,
+      "trailer": null,
+      "studios": [
+        "MADHOUSE"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.jp/naoki-urasawas-monster/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81409869"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.amazon.com/gp/video/detail/B003BM4IFM/"
         }
       ],
       "nextAiring": null
@@ -20624,160 +20778,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.bilibili.tv/en/media/36816"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 19,
-      "title": {
-        "english": "Monster",
-        "romaji": "MONSTER",
-        "native": "MONSTER"
-      },
-      "description": "Dr. Kenzo Tenma is a renowned Japanese brain surgeon working at a leading hospital in Germany. One night, Dr. Tenma risks his reputation and career to save the life of a critically wounded young boy over that of the town mayor who had been planning to support the hospital financially. A string of mysterious murders begin to occur soon after the operation, and Dr. Tenma emerges as the primary suspect despite no incriminating evidence. \n<br><br>\nA doctor is taught to believe that all life is equal; however, when another series of murders occur in the surgeon's vicinity, Dr. Tenma's beliefs are shaken as his actions that night are shown to have much broader consequences than he could have imagined. Leaving behind his life as a surgeon he embarks on a journey across the country to unravel the mystery of the boy he saved.",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-gtMC64182sm4.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19-kJhwsB0Z97tL.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b719-y984mDWyGf5n.jpg",
-          "character": "Johan Liebert",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b718-b6ZZVp822lw0.png",
-          "character": "Kenzou Tenma",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png",
-          "character": "Heinrich Runge",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b720-VFo5SzZsVfzl.png",
-          "character": "Anna Liebert",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6123-kLLVgdI8Elv4.jpg",
-          "character": "Eva Heinemann",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b3096-qCXXA8G0J8rk.png",
-          "character": "Wolfgang Grimmer",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6329-1EP0t4paLi3y.jpg",
-          "character": "Dieter",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12117-bIHpLFAb9fiD.png",
-          "character": "Martin Reest",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/11080-QZxwmy36GaQH.jpg",
-          "character": "Julius Reichwein",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8615-8eOPwbeu9jZh.png",
-          "character": "Franz Bonaparta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/36223.jpg",
-          "character": "Richard Braun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8617.jpg",
-          "character": "Rudy-Ulrich Gillen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8611.jpg",
-          "character": "Roberto",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/8618.jpg",
-          "character": "Jan Suk",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b8624-Ui2NPXiWXV3B.png",
-          "character": "Otto Heckel",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/2/5824l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/10/8618l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/10/13733l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1573/132904l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Horror",
-        "Mystery",
-        "Psychological",
-        "Thriller"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 74,
-      "season": "SPRING",
-      "seasonYear": 2004,
-      "startDate": {
-        "year": 2004,
-        "month": 4,
-        "day": 7
-      },
-      "averageScore": 88,
-      "popularity": 289754,
-      "favourites": 19227,
-      "trailer": null,
-      "studios": [
-        "MADHOUSE"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.jp/naoki-urasawas-monster/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81409869"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.amazon.com/gp/video/detail/B003BM4IFM/"
         }
       ],
       "nextAiring": null
@@ -23865,7 +23865,7 @@
         "day": 12
       },
       "averageScore": 85,
-      "popularity": 268191,
+      "popularity": 268291,
       "favourites": 11457,
       "trailer": "4OiMOHRDs14",
       "studios": [
@@ -24384,7 +24384,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 266289,
+      "popularity": 266354,
       "favourites": 5939,
       "trailer": "9ZseZTshl2k",
       "studios": [
@@ -25096,7 +25096,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 262996,
+      "popularity": 263059,
       "favourites": 14391,
       "trailer": null,
       "studios": [
@@ -25391,7 +25391,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 260568,
+      "popularity": 260627,
       "favourites": 2877,
       "trailer": "ULP_6faadB4",
       "studios": [
@@ -27187,7 +27187,7 @@
         "day": 16
       },
       "averageScore": 80,
-      "popularity": 249797,
+      "popularity": 249880,
       "favourites": 6455,
       "trailer": "92a7Hj0ijLs",
       "studios": [
@@ -27515,7 +27515,7 @@
         "day": 20
       },
       "averageScore": 84,
-      "popularity": 248824,
+      "popularity": 248888,
       "favourites": 13088,
       "trailer": null,
       "studios": [
@@ -27854,7 +27854,7 @@
         "day": 25
       },
       "averageScore": 68,
-      "popularity": 246043,
+      "popularity": 246102,
       "favourites": 4487,
       "trailer": "3KgeAos9oNc",
       "studios": [
@@ -28473,6 +28473,157 @@
       "nextAiring": null
     },
     {
+      "id": 161645,
+      "title": {
+        "english": "The Apothecary Diaries",
+        "romaji": "Kusuriya no Hitorigoto",
+        "native": "薬屋のひとりごと"
+      },
+      "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161645-oqzTZYIvviWI.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
+          "character": "Maomao",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
+          "character": "Jinshi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg",
+          "character": "Rouran",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156767-6ncEJKdsEQ3O.jpg",
+          "character": "Gyokuyou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
+          "character": "Gaoshun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156766-3DxfskkEqNvc.jpg",
+          "character": "Rifa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg",
+          "character": "Lakan",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156765-HPRJaEN81jSa.jpg",
+          "character": "Aaduo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274186-lzElg0bbpo1O.jpg",
+          "character": "Xiaolan",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274195-TyGcY0uiMpx4.png",
+          "character": "Lihaku",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
+          "character": "Pairin",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156764-aEbQtGaJ9PzZ.jpg",
+          "character": "Riishu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
+          "character": "Meimei",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261968-dz3PwsJ9Csl9.png",
+          "character": "Ruomen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg",
+          "character": "Joka",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1674/137009l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1271/137043l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 24,
+      "season": "FALL",
+      "seasonYear": 2023,
+      "startDate": {
+        "year": 2023,
+        "month": 10,
+        "day": 22
+      },
+      "averageScore": 88,
+      "popularity": 238140,
+      "favourites": 19814,
+      "trailer": "oyHqh8ue4zw",
+      "studios": [
+        "OLM",
+        "TOHO animation STUDIO"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://kusuriyanohitorigoto.jp/season1/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81712068"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/the-apothecary-diaries-d7b5390e-b8cb-4cc3-ba7c-7ed570355d7d"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 19603,
       "title": {
         "english": "Fate/stay night: Unlimited Blade Works",
@@ -28644,157 +28795,6 @@
       "nextAiring": null
     },
     {
-      "id": 161645,
-      "title": {
-        "english": "The Apothecary Diaries",
-        "romaji": "Kusuriya no Hitorigoto",
-        "native": "薬屋のひとりごと"
-      },
-      "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n<br><br>\n(Source: Crunchyroll)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161645-oqzTZYIvviWI.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126824-MqsCncTO1qpv.png",
-          "character": "Maomao",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127278-0qCQciTkPOMS.jpg",
-          "character": "Jinshi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244995-dv4lX99O8aCZ.jpg",
-          "character": "Rouran",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156767-6ncEJKdsEQ3O.jpg",
-          "character": "Gyokuyou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244317-zm6LeJmLN9kZ.png",
-          "character": "Gaoshun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156766-3DxfskkEqNvc.jpg",
-          "character": "Rifa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b232926-YIzdIzMMGcac.jpg",
-          "character": "Lakan",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156765-HPRJaEN81jSa.jpg",
-          "character": "Aaduo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274186-lzElg0bbpo1O.jpg",
-          "character": "Xiaolan",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274195-TyGcY0uiMpx4.png",
-          "character": "Lihaku",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274189-HUP7GDBJMzXs.png",
-          "character": "Pairin",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b156764-aEbQtGaJ9PzZ.jpg",
-          "character": "Riishu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b244319-UtvzNJwwo7bD.jpg",
-          "character": "Meimei",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b261968-dz3PwsJ9Csl9.png",
-          "character": "Ruomen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b274193-0YeumFVEUR4j.jpg",
-          "character": "Joka",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1235/133405l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1674/137009l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1271/137043l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 24,
-      "season": "FALL",
-      "seasonYear": 2023,
-      "startDate": {
-        "year": 2023,
-        "month": 10,
-        "day": 22
-      },
-      "averageScore": 88,
-      "popularity": 237972,
-      "favourites": 19814,
-      "trailer": "oyHqh8ue4zw",
-      "studios": [
-        "OLM",
-        "TOHO animation STUDIO"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://kusuriyanohitorigoto.jp/season1/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81712068"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/the-apothecary-diaries-d7b5390e-b8cb-4cc3-ba7c-7ed570355d7d"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 121,
       "title": {
         "english": "Fullmetal Alchemist",
@@ -28950,7 +28950,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 236724,
+      "popularity": 236771,
       "favourites": 5808,
       "trailer": "35cs5zFr2h8",
       "studios": [
@@ -29110,7 +29110,7 @@
         "day": 9
       },
       "averageScore": 75,
-      "popularity": 236087,
+      "popularity": 236153,
       "favourites": 4112,
       "trailer": "c3Jt_EXwGBc",
       "studios": [
@@ -30509,7 +30509,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 231022,
+      "popularity": 231191,
       "favourites": 11721,
       "trailer": "byJ7pxxhaDY",
       "studios": [
@@ -30972,7 +30972,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 229838,
+      "popularity": 229889,
       "favourites": 10647,
       "trailer": "ZM8a3QYtOfA",
       "studios": [
@@ -31159,7 +31159,7 @@
         "day": 26
       },
       "averageScore": 80,
-      "popularity": 229363,
+      "popularity": 229422,
       "favourites": 12010,
       "trailer": null,
       "studios": [
@@ -32176,7 +32176,7 @@
         "day": 11
       },
       "averageScore": 71,
-      "popularity": 224834,
+      "popularity": 224889,
       "favourites": 3916,
       "trailer": "iPsu_sk-e7Q",
       "studios": [
@@ -33017,7 +33017,7 @@
         "day": 19
       },
       "averageScore": 85,
-      "popularity": 221991,
+      "popularity": 222058,
       "favourites": 15124,
       "trailer": "v1pWyWIu8x4",
       "studios": [
@@ -33358,7 +33358,7 @@
         "day": 8
       },
       "averageScore": 78,
-      "popularity": 220373,
+      "popularity": 220424,
       "favourites": 6517,
       "trailer": "W9KZgJgo-x0",
       "studios": [
@@ -33522,7 +33522,7 @@
         "day": 9
       },
       "averageScore": 78,
-      "popularity": 220113,
+      "popularity": 220178,
       "favourites": 7156,
       "trailer": "AlZmD15k-F4",
       "studios": [
@@ -34758,7 +34758,7 @@
         "day": 6
       },
       "averageScore": 80,
-      "popularity": 218129,
+      "popularity": 218192,
       "favourites": 12422,
       "trailer": "lpv7Wv-sDAo",
       "studios": [
@@ -36231,7 +36231,7 @@
         "day": 12
       },
       "averageScore": 80,
-      "popularity": 214725,
+      "popularity": 214883,
       "favourites": 5362,
       "trailer": "7w5Vfjozzb8",
       "studios": [
@@ -37612,7 +37612,7 @@
         "day": 28
       },
       "averageScore": 85,
-      "popularity": 211938,
+      "popularity": 212008,
       "favourites": 13561,
       "trailer": "UXQraSkOOGs",
       "studios": [
@@ -37892,7 +37892,7 @@
         "day": 4
       },
       "averageScore": 78,
-      "popularity": 209548,
+      "popularity": 209580,
       "favourites": 2453,
       "trailer": "SELSLl0_Gmw",
       "studios": [
@@ -38884,7 +38884,7 @@
         "day": 26
       },
       "averageScore": 78,
-      "popularity": 206601,
+      "popularity": 206659,
       "favourites": 7230,
       "trailer": null,
       "studios": [
@@ -39210,7 +39210,7 @@
         "day": 5
       },
       "averageScore": 56,
-      "popularity": 205670,
+      "popularity": 205699,
       "favourites": 3164,
       "trailer": "ppLE9xycGm4",
       "studios": [
@@ -39559,7 +39559,7 @@
         "day": 16
       },
       "averageScore": 79,
-      "popularity": 205112,
+      "popularity": 205180,
       "favourites": 7005,
       "trailer": "SyM8JyyUTjc",
       "studios": [
@@ -40185,7 +40185,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 201193,
+      "popularity": 201246,
       "favourites": 5046,
       "trailer": "2VvZIEXmltw",
       "studios": [
@@ -40778,7 +40778,7 @@
         "day": 6
       },
       "averageScore": 67,
-      "popularity": 197911,
+      "popularity": 197958,
       "favourites": 3541,
       "trailer": "vSi7NGZQ-IA",
       "studios": [
