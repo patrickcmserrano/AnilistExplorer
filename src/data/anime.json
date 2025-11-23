@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-23T12:20:56.207459",
+    "updatedAt": "2025-11-23T18:19:25.897084",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -1795,7 +1795,7 @@
         "day": 20
       },
       "averageScore": 88,
-      "popularity": 642566,
+      "popularity": 642754,
       "favourites": 89633,
       "trailer": null,
       "studios": [
@@ -2371,7 +2371,7 @@
         "day": 3
       },
       "averageScore": 80,
-      "popularity": 638342,
+      "popularity": 638531,
       "favourites": 28751,
       "trailer": "-G9BqkgZXRA",
       "studios": [
@@ -6478,7 +6478,7 @@
         "day": 9
       },
       "averageScore": 83,
-      "popularity": 486291,
+      "popularity": 486490,
       "favourites": 22237,
       "trailer": "ofXigq9aIpo",
       "studios": [
@@ -8593,8 +8593,8 @@
         "month": 10,
         "day": 5
       },
-      "averageScore": 78,
-      "popularity": 434373,
+      "averageScore": 79,
+      "popularity": 434505,
       "favourites": 23692,
       "trailer": "0c4IoCA5fY0",
       "studios": [
@@ -8981,7 +8981,7 @@
         "day": 3
       },
       "averageScore": 83,
-      "popularity": 430107,
+      "popularity": 430265,
       "favourites": 32776,
       "trailer": "kOH2_8MkgZY",
       "studios": [
@@ -9136,7 +9136,7 @@
         "day": 20
       },
       "averageScore": 86,
-      "popularity": 427526,
+      "popularity": 427668,
       "favourites": 17124,
       "trailer": "ByXuk9QqQkk",
       "studios": [
@@ -10145,7 +10145,7 @@
         "day": 3
       },
       "averageScore": 86,
-      "popularity": 416493,
+      "popularity": 416599,
       "favourites": 25658,
       "trailer": "OhNwckCLzis",
       "studios": [
@@ -10179,6 +10179,161 @@
         {
           "type": "INFO",
           "url": "https://cowboy-bebop.net/"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 142329,
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+        "romaji": "Kimetsu no Yaiba: Yuukaku-hen",
+        "native": "鬼滅の刃 遊郭編"
+      },
+      "description": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n<br><br>\n(Source: Funimation)\n<br><br>\n<i>Note:<br>\n- The first episode aired with a runtime of ~47 minutes.<br>\n- The last episode aired with a runtime of ~33 minutes.</i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142329-i413SzLmToZN.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
+          "character": "Tanjirou Kamado",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
+          "character": "Nezuko Kamado",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
+          "character": "Inosuke Hashibira",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
+          "character": "Zenitsu Agatsuma",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png",
+          "character": "Tengen Uzui",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png",
+          "character": "Giyuu Tomioka",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png",
+          "character": "Kyoujurou Rengoku",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png",
+          "character": "Shinobu Kochou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
+          "character": "Mitsuri Kanroji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png",
+          "character": "Kanao Tsuyuri",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
+          "character": "Muichirou Tokitou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
+          "character": "Akaza",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
+          "character": "Obanai Iguro",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png",
+          "character": "Sanemi Shinazugawa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129132-4nIZakUZ1o8W.jpg",
+          "character": "Muzan Kibutsuji",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1338/111945l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1976/120549l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 11,
+      "season": "WINTER",
+      "seasonYear": 2022,
+      "startDate": {
+        "year": 2021,
+        "month": 12,
+        "day": 5
+      },
+      "averageScore": 86,
+      "popularity": 413312,
+      "favourites": 14313,
+      "trailer": "XoJCOAU_72U",
+      "studios": [
+        "ufotable"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://kimetsu.com/anime/yukakuhen/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://crunchyroll.com/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/play/1023002"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/1imq8t95p2d"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/us/title/81091393"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-entertainment-district-arc"
         }
       ],
       "nextAiring": null
@@ -10317,161 +10472,6 @@
         {
           "type": "INFO",
           "url": "https://kakegurui-anime.com/1st/"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 142329,
-      "title": {
-        "english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-        "romaji": "Kimetsu no Yaiba: Yuukaku-hen",
-        "native": "鬼滅の刃 遊郭編"
-      },
-      "description": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n<br><br>\n(Source: Funimation)\n<br><br>\n<i>Note:<br>\n- The first episode aired with a runtime of ~47 minutes.<br>\n- The last episode aired with a runtime of ~33 minutes.</i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142329-i413SzLmToZN.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
-          "character": "Tanjirou Kamado",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
-          "character": "Nezuko Kamado",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
-          "character": "Inosuke Hashibira",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
-          "character": "Zenitsu Agatsuma",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png",
-          "character": "Tengen Uzui",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png",
-          "character": "Giyuu Tomioka",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png",
-          "character": "Kyoujurou Rengoku",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png",
-          "character": "Shinobu Kochou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
-          "character": "Mitsuri Kanroji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139038-OcOoDUyLEsRn.png",
-          "character": "Kanao Tsuyuri",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
-          "character": "Muichirou Tokitou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
-          "character": "Akaza",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
-          "character": "Obanai Iguro",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png",
-          "character": "Sanemi Shinazugawa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129132-4nIZakUZ1o8W.jpg",
-          "character": "Muzan Kibutsuji",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1338/111945l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1976/120549l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 11,
-      "season": "WINTER",
-      "seasonYear": 2022,
-      "startDate": {
-        "year": 2021,
-        "month": 12,
-        "day": 5
-      },
-      "averageScore": 86,
-      "popularity": 413162,
-      "favourites": 14313,
-      "trailer": "XoJCOAU_72U",
-      "studios": [
-        "ufotable"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://kimetsu.com/anime/yukakuhen/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://crunchyroll.com/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/play/1023002"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/1imq8t95p2d"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/us/title/81091393"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-entertainment-district-arc"
         }
       ],
       "nextAiring": null
@@ -11962,7 +11962,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 388269,
+      "popularity": 388505,
       "favourites": 18392,
       "trailer": "O6qVieflwqs",
       "studios": [
@@ -14492,7 +14492,7 @@
         "day": 29
       },
       "averageScore": 91,
-      "popularity": 354746,
+      "popularity": 355029,
       "favourites": 42708,
       "trailer": "qgQunxD0qCk",
       "studios": [
@@ -14990,7 +14990,7 @@
         "day": 7
       },
       "averageScore": 82,
-      "popularity": 349599,
+      "popularity": 349796,
       "favourites": 17092,
       "trailer": "HkIKAnwLZCw",
       "studios": [
@@ -17424,7 +17424,7 @@
         "day": 20
       },
       "averageScore": 85,
-      "popularity": 319703,
+      "popularity": 319820,
       "favourites": 17332,
       "trailer": "iwROgK94zcM",
       "studios": [
@@ -18600,7 +18600,7 @@
         "day": 9
       },
       "averageScore": 81,
-      "popularity": 309049,
+      "popularity": 309205,
       "favourites": 8539,
       "trailer": "a9tq0aS5Zu8",
       "studios": [
@@ -20572,7 +20572,7 @@
         "day": 7
       },
       "averageScore": 88,
-      "popularity": 289957,
+      "popularity": 290094,
       "favourites": 19243,
       "trailer": null,
       "studios": [
@@ -21094,7 +21094,7 @@
         "day": 1
       },
       "averageScore": 81,
-      "popularity": 285410,
+      "popularity": 285518,
       "favourites": 6110,
       "trailer": "jR1L1EK3kN0",
       "studios": [
@@ -23026,7 +23026,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 273075,
+      "popularity": 273180,
       "favourites": 16073,
       "trailer": "gKWEUJ4r5do",
       "studios": [
@@ -23367,7 +23367,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 270131,
+      "popularity": 270228,
       "favourites": 11115,
       "trailer": "IVsII3dLbWc",
       "studios": [
@@ -23865,7 +23865,7 @@
         "day": 12
       },
       "averageScore": 85,
-      "popularity": 268355,
+      "popularity": 268443,
       "favourites": 11474,
       "trailer": "4OiMOHRDs14",
       "studios": [
@@ -27515,7 +27515,7 @@
         "day": 20
       },
       "averageScore": 84,
-      "popularity": 248944,
+      "popularity": 249019,
       "favourites": 13100,
       "trailer": null,
       "studios": [
@@ -27854,7 +27854,7 @@
         "day": 25
       },
       "averageScore": 68,
-      "popularity": 246167,
+      "popularity": 246238,
       "favourites": 4497,
       "trailer": "3KgeAos9oNc",
       "studios": [
@@ -28596,7 +28596,7 @@
         "day": 22
       },
       "averageScore": 88,
-      "popularity": 238304,
+      "popularity": 238499,
       "favourites": 19840,
       "trailer": "oyHqh8ue4zw",
       "studios": [
@@ -28950,7 +28950,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 236829,
+      "popularity": 236879,
       "favourites": 5809,
       "trailer": "35cs5zFr2h8",
       "studios": [
@@ -29591,7 +29591,7 @@
         "day": 8
       },
       "averageScore": 76,
-      "popularity": 234072,
+      "popularity": 234200,
       "favourites": 6174,
       "trailer": "zl0Kiv0kuQQ",
       "studios": [
@@ -31772,7 +31772,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 226904,
+      "popularity": 227014,
       "favourites": 8726,
       "trailer": "ukO-ZdWS3j8",
       "studios": [
@@ -32316,7 +32316,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 224340,
+      "popularity": 224426,
       "favourites": 9549,
       "trailer": "Ah7lTT-NKMw",
       "studios": [
@@ -32512,7 +32512,7 @@
         "day": 13
       },
       "averageScore": 82,
-      "popularity": 223738,
+      "popularity": 223860,
       "favourites": 8552,
       "trailer": "7n_mFVPeApw",
       "studios": [
@@ -32668,7 +32668,7 @@
         "day": 10
       },
       "averageScore": 88,
-      "popularity": 223073,
+      "popularity": 223175,
       "favourites": 12258,
       "trailer": "6pX93dXfH9s",
       "studios": [
@@ -33019,7 +33019,7 @@
         "day": 1
       },
       "averageScore": 82,
-      "popularity": 222153,
+      "popularity": 222280,
       "favourites": 5491,
       "trailer": "WxCJMYbGtzA",
       "studios": [
@@ -33196,7 +33196,7 @@
         "day": 19
       },
       "averageScore": 85,
-      "popularity": 222122,
+      "popularity": 222210,
       "favourites": 15134,
       "trailer": "v1pWyWIu8x4",
       "studios": [
@@ -34758,7 +34758,7 @@
         "day": 6
       },
       "averageScore": 80,
-      "popularity": 218250,
+      "popularity": 218335,
       "favourites": 12430,
       "trailer": "lpv7Wv-sDAo",
       "studios": [
@@ -36396,7 +36396,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 214819,
+      "popularity": 214886,
       "favourites": 5933,
       "trailer": "0mM3lQytac4",
       "studios": [
@@ -37612,7 +37612,7 @@
         "day": 28
       },
       "averageScore": 85,
-      "popularity": 212090,
+      "popularity": 212166,
       "favourites": 13573,
       "trailer": "UXQraSkOOGs",
       "studios": [
@@ -38538,7 +38538,7 @@
         "day": 3
       },
       "averageScore": 81,
-      "popularity": 208383,
+      "popularity": 208459,
       "favourites": 6550,
       "trailer": "ts5NGoDI1V0",
       "studios": [
@@ -38884,7 +38884,7 @@
         "day": 26
       },
       "averageScore": 78,
-      "popularity": 206720,
+      "popularity": 206781,
       "favourites": 7232,
       "trailer": null,
       "studios": [
@@ -39371,7 +39371,7 @@
         "day": 4
       },
       "averageScore": 87,
-      "popularity": 205386,
+      "popularity": 205474,
       "favourites": 5627,
       "trailer": "hb-mo0URZBw",
       "studios": [
@@ -39559,7 +39559,7 @@
         "day": 16
       },
       "averageScore": 79,
-      "popularity": 205234,
+      "popularity": 205298,
       "favourites": 7016,
       "trailer": "SyM8JyyUTjc",
       "studios": [
@@ -40185,7 +40185,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 201313,
+      "popularity": 201379,
       "favourites": 5043,
       "trailer": "2VvZIEXmltw",
       "studios": [
