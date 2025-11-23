@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-23T06:22:59.156617",
+    "updatedAt": "2025-11-23T12:20:56.207459",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -535,7 +535,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 839747,
+      "popularity": 839992,
       "favourites": 44267,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
@@ -2004,7 +2004,7 @@
         "day": 5
       },
       "averageScore": 90,
-      "popularity": 640889,
+      "popularity": 641067,
       "favourites": 52792,
       "trailer": null,
       "studios": [
@@ -2890,7 +2890,7 @@
         "day": 23
       },
       "averageScore": 85,
-      "popularity": 607382,
+      "popularity": 607534,
       "favourites": 14370,
       "trailer": "EHzBhrncmac",
       "studios": [
@@ -4235,7 +4235,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 540604,
+      "popularity": 540732,
       "favourites": 8178,
       "trailer": "JezE6iZUWxo",
       "studios": [
@@ -4427,7 +4427,7 @@
         "day": 15
       },
       "averageScore": 82,
-      "popularity": 539915,
+      "popularity": 540037,
       "favourites": 33169,
       "trailer": null,
       "studios": [
@@ -5639,7 +5639,7 @@
         "day": 3
       },
       "averageScore": 79,
-      "popularity": 503260,
+      "popularity": 503419,
       "favourites": 23680,
       "trailer": "vUjAxk1qYzQ",
       "studios": [
@@ -6671,7 +6671,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 484969,
+      "popularity": 485061,
       "favourites": 16344,
       "trailer": "ya570uUgQNc",
       "studios": [
@@ -8412,7 +8412,7 @@
         "day": 13
       },
       "averageScore": 68,
-      "popularity": 442190,
+      "popularity": 442284,
       "favourites": 13694,
       "trailer": "KNIS0mVawhc",
       "studios": [
@@ -8793,7 +8793,7 @@
         "day": 6
       },
       "averageScore": 85,
-      "popularity": 432647,
+      "popularity": 432776,
       "favourites": 25194,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -9939,7 +9939,7 @@
         "day": 10
       },
       "averageScore": 74,
-      "popularity": 418437,
+      "popularity": 418562,
       "favourites": 6423,
       "trailer": "NezvLw2gRAY",
       "studios": [
@@ -10303,7 +10303,7 @@
         "day": 1
       },
       "averageScore": 70,
-      "popularity": 413176,
+      "popularity": 413261,
       "favourites": 6558,
       "trailer": "v2xJDuM9ZDM",
       "studios": [
@@ -10786,7 +10786,7 @@
         "day": 9
       },
       "averageScore": 76,
-      "popularity": 405740,
+      "popularity": 405831,
       "favourites": 13643,
       "trailer": "VKYmpq-V3Rs",
       "studios": [
@@ -12461,7 +12461,7 @@
         "day": 12
       },
       "averageScore": 76,
-      "popularity": 379885,
+      "popularity": 379993,
       "favourites": 12720,
       "trailer": "iYsx6w5PNno",
       "studios": [
@@ -13856,6 +13856,172 @@
       "nextAiring": null
     },
     {
+      "id": 97986,
+      "title": {
+        "english": "Made in Abyss",
+        "romaji": "Made in Abyss",
+        "native": "メイドインアビス"
+      },
+      "description": "The \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.<br><br>\n\n(Source: Anime News Network, edited)\n<br><br>\n<i>Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97986-C55UnbJKB7ZF.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png",
+          "character": "Reg",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png",
+          "character": "Riko",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png",
+          "character": "Nanachi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg",
+          "character": "Bondrewd",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
+          "character": "Ouzen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "character": "Narrator",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125877-nFoMWC2T67Tx.jpg",
+          "character": "Mitty",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
+          "character": "Marulk",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122465-YHQVVPnVZZX1.png",
+          "character": "Lyza",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123188-9yVeXsmPmtAY.png",
+          "character": "Jiruo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123185-lOJJvAS0tqF0.jpg",
+          "character": "Hablog",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123186-lgKM1zM7SB1F.jpg",
+          "character": "Kiwi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg",
+          "character": "Nat",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122749-moyrPEkfL7gv.jpg",
+          "character": "Shiggy",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161973-2zHM5lJmpYdZ.png",
+          "character": "Ilim",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/5/86732l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1922/91900l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1785/103489l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "SUMMER",
+      "seasonYear": 2017,
+      "startDate": {
+        "year": 2017,
+        "month": 7,
+        "day": 7
+      },
+      "averageScore": 85,
+      "popularity": 360381,
+      "favourites": 18788,
+      "trailer": "AQbaZeby2zA",
+      "studios": [
+        "Kinema Citrus"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://www.amazon.com/dp/B073S2612X"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/80193163"
+        },
+        {
+          "type": "INFO",
+          "url": "http://miabyss.com/index_1st.html"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0-bp4bZ7ER-VQ-973riDyN"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/media/37179"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/media/37179"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hidive.com/season/20003"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 15809,
       "title": {
         "english": "The Devil is a Part-Timer!",
@@ -14002,172 +14168,6 @@
         {
           "type": "STREAMING",
           "url": "https://crunchyroll.com/series/GR75Z5KKY/the-devil-is-a-part-timer"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 97986,
-      "title": {
-        "english": "Made in Abyss",
-        "romaji": "Made in Abyss",
-        "native": "メイドインアビス"
-      },
-      "description": "The \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.<br><br>\n\n(Source: Anime News Network, edited)\n<br><br>\n<i>Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97986-C55UnbJKB7ZF.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png",
-          "character": "Reg",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png",
-          "character": "Riko",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png",
-          "character": "Nanachi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg",
-          "character": "Bondrewd",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
-          "character": "Ouzen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
-          "character": "Narrator",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125877-nFoMWC2T67Tx.jpg",
-          "character": "Mitty",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
-          "character": "Marulk",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122465-YHQVVPnVZZX1.png",
-          "character": "Lyza",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123188-9yVeXsmPmtAY.png",
-          "character": "Jiruo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123185-lOJJvAS0tqF0.jpg",
-          "character": "Hablog",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123186-lgKM1zM7SB1F.jpg",
-          "character": "Kiwi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg",
-          "character": "Nat",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122749-moyrPEkfL7gv.jpg",
-          "character": "Shiggy",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161973-2zHM5lJmpYdZ.png",
-          "character": "Ilim",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/5/86732l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1922/91900l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1785/103489l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Horror",
-        "Mystery",
-        "Sci-Fi"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "SUMMER",
-      "seasonYear": 2017,
-      "startDate": {
-        "year": 2017,
-        "month": 7,
-        "day": 7
-      },
-      "averageScore": 85,
-      "popularity": 360288,
-      "favourites": 18788,
-      "trailer": "AQbaZeby2zA",
-      "studios": [
-        "Kinema Citrus"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://www.amazon.com/dp/B073S2612X"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/80193163"
-        },
-        {
-          "type": "INFO",
-          "url": "http://miabyss.com/index_1st.html"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0-bp4bZ7ER-VQ-973riDyN"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/media/37179"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/media/37179"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hidive.com/season/20003"
         }
       ],
       "nextAiring": null
@@ -15478,7 +15478,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 339514,
+      "popularity": 339611,
       "favourites": 11124,
       "trailer": null,
       "studios": [
@@ -16472,7 +16472,7 @@
         "day": 1
       },
       "averageScore": 85,
-      "popularity": 331477,
+      "popularity": 331571,
       "favourites": 22780,
       "trailer": "oXkkMhCuCMg",
       "studios": [
@@ -17144,7 +17144,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 321812,
+      "popularity": 321889,
       "favourites": 17394,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -17265,7 +17265,7 @@
         "day": 1
       },
       "averageScore": 84,
-      "popularity": 320196,
+      "popularity": 320301,
       "favourites": 15534,
       "trailer": "MmoBvmJA9XI",
       "studios": [
@@ -17964,7 +17964,7 @@
         "day": 5
       },
       "averageScore": 76,
-      "popularity": 315079,
+      "popularity": 315159,
       "favourites": 12498,
       "trailer": "g4LjvxtFieE",
       "studios": [
@@ -18777,7 +18777,7 @@
         "day": 3
       },
       "averageScore": 82,
-      "popularity": 308687,
+      "popularity": 308735,
       "favourites": 15461,
       "trailer": "X63_YYZjKxA",
       "studios": [
@@ -20121,7 +20121,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 295569,
+      "popularity": 295792,
       "favourites": 15973,
       "trailer": "vnRmIBoyfBM",
       "studios": [
@@ -20273,7 +20273,7 @@
         "day": 13
       },
       "averageScore": 78,
-      "popularity": 292367,
+      "popularity": 292427,
       "favourites": 9643,
       "trailer": "FnM1TDuG9f4",
       "studios": [
@@ -21273,7 +21273,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 281657,
+      "popularity": 281718,
       "favourites": 13062,
       "trailer": "t2kCCDiWlVg",
       "studios": [
@@ -22519,7 +22519,7 @@
         "day": 3
       },
       "averageScore": 61,
-      "popularity": 276065,
+      "popularity": 276136,
       "favourites": 2688,
       "trailer": "dZ36ToJLHtA",
       "studios": [
@@ -23695,7 +23695,7 @@
         "day": 7
       },
       "averageScore": 71,
-      "popularity": 269897,
+      "popularity": 269964,
       "favourites": 5653,
       "trailer": "6sdxN30qNrw",
       "studios": [
@@ -24384,7 +24384,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 266418,
+      "popularity": 266476,
       "favourites": 5943,
       "trailer": "9ZseZTshl2k",
       "studios": [
@@ -25096,7 +25096,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 263104,
+      "popularity": 263184,
       "favourites": 14398,
       "trailer": null,
       "studios": [
@@ -25391,7 +25391,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 260678,
+      "popularity": 260726,
       "favourites": 2880,
       "trailer": "ULP_6faadB4",
       "studios": [
@@ -25549,7 +25549,7 @@
         "day": 7
       },
       "averageScore": 75,
-      "popularity": 258904,
+      "popularity": 258954,
       "favourites": 5717,
       "trailer": "wHaHh_sX1IM",
       "studios": [
@@ -27187,7 +27187,7 @@
         "day": 16
       },
       "averageScore": 80,
-      "popularity": 249943,
+      "popularity": 250018,
       "favourites": 6467,
       "trailer": "92a7Hj0ijLs",
       "studios": [
@@ -27334,7 +27334,7 @@
         "day": 3
       },
       "averageScore": 78,
-      "popularity": 249706,
+      "popularity": 249762,
       "favourites": 10282,
       "trailer": "mFHue76hqt0",
       "studios": [
@@ -29110,7 +29110,7 @@
         "day": 9
       },
       "averageScore": 75,
-      "popularity": 236189,
+      "popularity": 236236,
       "favourites": 4114,
       "trailer": "c3Jt_EXwGBc",
       "studios": [
@@ -29433,7 +29433,7 @@
         "day": 3
       },
       "averageScore": 72,
-      "popularity": 235218,
+      "popularity": 235279,
       "favourites": 4783,
       "trailer": "EoipHZFNXv0",
       "studios": [
@@ -30509,7 +30509,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 231344,
+      "popularity": 231513,
       "favourites": 11719,
       "trailer": "byJ7pxxhaDY",
       "studios": [
@@ -30972,7 +30972,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 229940,
+      "popularity": 229993,
       "favourites": 10657,
       "trailer": "ZM8a3QYtOfA",
       "studios": [
@@ -31159,7 +31159,7 @@
         "day": 26
       },
       "averageScore": 80,
-      "popularity": 229481,
+      "popularity": 229528,
       "favourites": 12018,
       "trailer": null,
       "studios": [
@@ -32176,7 +32176,7 @@
         "day": 11
       },
       "averageScore": 71,
-      "popularity": 224936,
+      "popularity": 224991,
       "favourites": 3918,
       "trailer": "iPsu_sk-e7Q",
       "studios": [
@@ -33358,7 +33358,7 @@
         "day": 8
       },
       "averageScore": 78,
-      "popularity": 220473,
+      "popularity": 220522,
       "favourites": 6521,
       "trailer": "W9KZgJgo-x0",
       "studios": [
@@ -33522,7 +33522,7 @@
         "day": 9
       },
       "averageScore": 78,
-      "popularity": 220231,
+      "popularity": 220306,
       "favourites": 7169,
       "trailer": "AlZmD15k-F4",
       "studios": [
@@ -33683,7 +33683,7 @@
         "day": 9
       },
       "averageScore": 70,
-      "popularity": 219904,
+      "popularity": 219940,
       "favourites": 2002,
       "trailer": "8fCIcho7N4k",
       "studios": [
@@ -35591,7 +35591,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 216082,
+      "popularity": 216149,
       "favourites": 6978,
       "trailer": "_gJR6gfRYEQ",
       "studios": [
@@ -35944,152 +35944,6 @@
       "nextAiring": null
     },
     {
-      "id": 102976,
-      "title": {
-        "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
-        "native": "この素晴らしい世界に祝福を！紅伝説"
-      },
-      "description": "A video game-loving shut-in, Satou Kazuma's life should've ended when he was hit by a truck, but through a twist of fate, he ends up reincarnating in another world--and dragging the troublemaking goddess, Aqua, the wildly dorky mage, Megumin, and the unrelentingly delusional lady knight, Darkness, with him.<br>\n<br>\nNow, the Crimson Demon village that Megumin and Yunyun are from is facing a threat that could mean its ending. Kazuma and his gang follow Yunyun, who returns to the Crimson Demon village intent on saving it... when they are faced with their greatest threat yet! What will become of the unremarkable adventurer Kazuma's life in another world?!<br>\n<br>\n(Source: Crunchyroll)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102976-xv7fCzBwQ7GU.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
-          "character": "Megumin",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
-          "character": "Kazuma Satou",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
-          "character": "Aqua",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
-          "character": "Darkness",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png",
-          "character": "Yunyun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
-          "character": "Wiz",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120653-q4uPVQC2iSg8.png",
-          "character": "Komekko",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130106-SmSbkyTcmmTl.png",
-          "character": "Vanir",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120657-xT7lUbz4uk0k.png",
-          "character": "Luna",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144536-rHkQQUpzzjOq.png",
-          "character": "Sylvia",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293460-btLhUX1aPdDB.png",
-          "character": "Arue",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126854-AVwxFTMoGFMe.jpg",
-          "character": "Arakuremono",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150138-BHxeClQoMTiE.png",
-          "character": "Yuiyui",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293459-sV7MGjrm0xFY.png",
-          "character": "Funifura",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293462-oM7Z1ox6ygmu.png",
-          "character": "Dodonko",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1907/96074l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1129/117109l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Ecchi",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "MOVIE",
-      "episodes": 1,
-      "season": "SUMMER",
-      "seasonYear": 2019,
-      "startDate": {
-        "year": 2019,
-        "month": 8,
-        "day": 30
-      },
-      "averageScore": 82,
-      "popularity": 215012,
-      "favourites": 5246,
-      "trailer": "5h4rQY9bpgE",
-      "studios": [
-        "J.C.STAFF"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://konosuba.com/legend_of_crimson"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world/konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson-unknown-794436"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 166240,
       "title": {
         "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
@@ -36231,7 +36085,7 @@
         "day": 12
       },
       "averageScore": 80,
-      "popularity": 215000,
+      "popularity": 215138,
       "favourites": 5368,
       "trailer": "7w5Vfjozzb8",
       "studios": [
@@ -36257,6 +36111,152 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/f5331794-7c00-41f0-8646-e94c0b09c1a1"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 102976,
+      "title": {
+        "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+        "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu",
+        "native": "この素晴らしい世界に祝福を！紅伝説"
+      },
+      "description": "A video game-loving shut-in, Satou Kazuma's life should've ended when he was hit by a truck, but through a twist of fate, he ends up reincarnating in another world--and dragging the troublemaking goddess, Aqua, the wildly dorky mage, Megumin, and the unrelentingly delusional lady knight, Darkness, with him.<br>\n<br>\nNow, the Crimson Demon village that Megumin and Yunyun are from is facing a threat that could mean its ending. Kazuma and his gang follow Yunyun, who returns to the Crimson Demon village intent on saving it... when they are faced with their greatest threat yet! What will become of the unremarkable adventurer Kazuma's life in another world?!<br>\n<br>\n(Source: Crunchyroll)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102976-2Yi5icRbjukO.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102976-xv7fCzBwQ7GU.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89361-tq8PQQ4MmF0M.png",
+          "character": "Megumin",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89364-7Th8Tv1XKJtt.png",
+          "character": "Kazuma Satou",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png",
+          "character": "Aqua",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png",
+          "character": "Darkness",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120652-YxrBBPbmJno2.png",
+          "character": "Yunyun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120655-LfUD7Mb1Mncg.jpg",
+          "character": "Wiz",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120653-q4uPVQC2iSg8.png",
+          "character": "Komekko",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130106-SmSbkyTcmmTl.png",
+          "character": "Vanir",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b120657-xT7lUbz4uk0k.png",
+          "character": "Luna",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b144536-rHkQQUpzzjOq.png",
+          "character": "Sylvia",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293460-btLhUX1aPdDB.png",
+          "character": "Arue",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126854-AVwxFTMoGFMe.jpg",
+          "character": "Arakuremono",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b150138-BHxeClQoMTiE.png",
+          "character": "Yuiyui",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293459-sV7MGjrm0xFY.png",
+          "character": "Funifura",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293462-oM7Z1ox6ygmu.png",
+          "character": "Dodonko",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1907/96074l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1129/117109l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "MOVIE",
+      "episodes": 1,
+      "season": "SUMMER",
+      "seasonYear": 2019,
+      "startDate": {
+        "year": 2019,
+        "month": 8,
+        "day": 30
+      },
+      "averageScore": 82,
+      "popularity": 215012,
+      "favourites": 5246,
+      "trailer": "5h4rQY9bpgE",
+      "studios": [
+        "J.C.STAFF"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://konosuba.com/legend_of_crimson"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world/konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson-unknown-794436"
         }
       ],
       "nextAiring": null
@@ -37892,7 +37892,7 @@
         "day": 4
       },
       "averageScore": 78,
-      "popularity": 209606,
+      "popularity": 209638,
       "favourites": 2457,
       "trailer": "SELSLl0_Gmw",
       "studios": [
@@ -38813,7 +38813,58 @@
           "role": "SUPPORTING"
         }
       ],
-      "episodeScreenshots": [],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/8/2537l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/10/5233l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/4/6614l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/9/18812l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/9/21055l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/11/32125l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/40353l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1887/92364l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1425/117270l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1225/145294l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
       "genres": [
         "Action",
         "Adventure",
@@ -39159,7 +39210,7 @@
         "day": 5
       },
       "averageScore": 56,
-      "popularity": 205735,
+      "popularity": 205775,
       "favourites": 3164,
       "trailer": "ppLE9xycGm4",
       "studios": [
@@ -39658,7 +39709,7 @@
         "day": 14
       },
       "averageScore": 82,
-      "popularity": 204005,
+      "popularity": 204076,
       "favourites": 10965,
       "trailer": "m-nN3SlHwZk",
       "studios": [
@@ -39838,7 +39889,7 @@
         "day": 3
       },
       "averageScore": 87,
-      "popularity": 202432,
+      "popularity": 202476,
       "favourites": 14080,
       "trailer": "IecYMqp1N4k",
       "studios": [
@@ -39991,7 +40042,7 @@
         "day": 3
       },
       "averageScore": 74,
-      "popularity": 201527,
+      "popularity": 201570,
       "favourites": 1921,
       "trailer": "70W0u35wa48",
       "studios": [
@@ -40727,7 +40778,7 @@
         "day": 6
       },
       "averageScore": 67,
-      "popularity": 197991,
+      "popularity": 198041,
       "favourites": 3547,
       "trailer": "vSi7NGZQ-IA",
       "studios": [
