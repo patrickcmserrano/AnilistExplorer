@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-24T12:23:14.109845",
+    "updatedAt": "2025-11-24T18:21:01.816623",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -535,7 +535,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 839992,
+      "popularity": 840282,
       "favourites": 44167,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
@@ -2004,7 +2004,7 @@
         "day": 5
       },
       "averageScore": 90,
-      "popularity": 641067,
+      "popularity": 641256,
       "favourites": 52657,
       "trailer": null,
       "studios": [
@@ -4427,7 +4427,7 @@
         "day": 15
       },
       "averageScore": 82,
-      "popularity": 540037,
+      "popularity": 540213,
       "favourites": 33144,
       "trailer": null,
       "studios": [
@@ -5639,7 +5639,7 @@
         "day": 3
       },
       "averageScore": 79,
-      "popularity": 503419,
+      "popularity": 503566,
       "favourites": 23680,
       "trailer": "vUjAxk1qYzQ",
       "studios": [
@@ -6671,7 +6671,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 485061,
+      "popularity": 485177,
       "favourites": 16320,
       "trailer": "ya570uUgQNc",
       "studios": [
@@ -8793,7 +8793,7 @@
         "day": 6
       },
       "averageScore": 85,
-      "popularity": 432776,
+      "popularity": 432942,
       "favourites": 25149,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -9939,7 +9939,7 @@
         "day": 10
       },
       "averageScore": 74,
-      "popularity": 418562,
+      "popularity": 418688,
       "favourites": 6416,
       "trailer": "NezvLw2gRAY",
       "studios": [
@@ -10304,7 +10304,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 413312,
+      "popularity": 413430,
       "favourites": 14309,
       "trailer": "XoJCOAU_72U",
       "studios": [
@@ -10458,7 +10458,7 @@
         "day": 1
       },
       "averageScore": 70,
-      "popularity": 413261,
+      "popularity": 413352,
       "favourites": 6545,
       "trailer": "v2xJDuM9ZDM",
       "studios": [
@@ -11962,7 +11962,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 388505,
+      "popularity": 388701,
       "favourites": 18396,
       "trailer": "O6qVieflwqs",
       "studios": [
@@ -12461,7 +12461,7 @@
         "day": 12
       },
       "averageScore": 76,
-      "popularity": 379993,
+      "popularity": 380113,
       "favourites": 12714,
       "trailer": "iYsx6w5PNno",
       "studios": [
@@ -13856,6 +13856,172 @@
       "nextAiring": null
     },
     {
+      "id": 97986,
+      "title": {
+        "english": "Made in Abyss",
+        "romaji": "Made in Abyss",
+        "native": "メイドインアビス"
+      },
+      "description": "The \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.<br><br>\n\n(Source: Anime News Network, edited)\n<br><br>\n<i>Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97986-C55UnbJKB7ZF.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png",
+          "character": "Reg",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png",
+          "character": "Riko",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png",
+          "character": "Nanachi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg",
+          "character": "Bondrewd",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
+          "character": "Ouzen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "character": "Narrator",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125877-nFoMWC2T67Tx.jpg",
+          "character": "Mitty",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
+          "character": "Marulk",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122465-YHQVVPnVZZX1.png",
+          "character": "Lyza",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123188-9yVeXsmPmtAY.png",
+          "character": "Jiruo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123185-lOJJvAS0tqF0.jpg",
+          "character": "Hablog",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123186-lgKM1zM7SB1F.jpg",
+          "character": "Kiwi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg",
+          "character": "Nat",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122749-moyrPEkfL7gv.jpg",
+          "character": "Shiggy",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161973-2zHM5lJmpYdZ.png",
+          "character": "Ilim",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/5/86732l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1922/91900l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1785/103489l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "SUMMER",
+      "seasonYear": 2017,
+      "startDate": {
+        "year": 2017,
+        "month": 7,
+        "day": 7
+      },
+      "averageScore": 85,
+      "popularity": 360506,
+      "favourites": 18770,
+      "trailer": "AQbaZeby2zA",
+      "studios": [
+        "Kinema Citrus"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://www.amazon.com/dp/B073S2612X"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/80193163"
+        },
+        {
+          "type": "INFO",
+          "url": "http://miabyss.com/index_1st.html"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0-bp4bZ7ER-VQ-973riDyN"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/media/37179"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/media/37179"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hidive.com/season/20003"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 15809,
       "title": {
         "english": "The Devil is a Part-Timer!",
@@ -14002,172 +14168,6 @@
         {
           "type": "STREAMING",
           "url": "https://crunchyroll.com/series/GR75Z5KKY/the-devil-is-a-part-timer"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 97986,
-      "title": {
-        "english": "Made in Abyss",
-        "romaji": "Made in Abyss",
-        "native": "メイドインアビス"
-      },
-      "description": "The \"Abyss\" is the last unexplored place in the world. Strange and wonderful creatures roam within, and it is full of precious relics that present humans can't recreate. Those that dare to explore the depths are known as \"Cave Raiders.\" An orphan girl named Riko lives on the rim. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Riko starts exploring the caves and discovers a robot who resembles a human boy.<br><br>\n\n(Source: Anime News Network, edited)\n<br><br>\n<i>Note: The last episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97986-C55UnbJKB7ZF.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122444-9rGUpcjwygHD.png",
-          "character": "Reg",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122443-Md7TtolADEJh.png",
-          "character": "Riko",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122445-5uDu8wMy8Jxi.png",
-          "character": "Nanachi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122463-p4o7qOTJ2Lba.jpg",
-          "character": "Bondrewd",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122464-xnYajKbuEa29.jpg",
-          "character": "Ouzen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
-          "character": "Narrator",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125877-nFoMWC2T67Tx.jpg",
-          "character": "Mitty",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123145-wWYcJ3SOF426.png",
-          "character": "Marulk",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b122465-YHQVVPnVZZX1.png",
-          "character": "Lyza",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123188-9yVeXsmPmtAY.png",
-          "character": "Jiruo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123185-lOJJvAS0tqF0.jpg",
-          "character": "Hablog",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/123186-lgKM1zM7SB1F.jpg",
-          "character": "Kiwi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122748-UQiYQ5OjzkGT.jpg",
-          "character": "Nat",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/122749-moyrPEkfL7gv.jpg",
-          "character": "Shiggy",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b161973-2zHM5lJmpYdZ.png",
-          "character": "Ilim",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/5/86732l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1922/91900l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1785/103489l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Horror",
-        "Mystery",
-        "Sci-Fi"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "SUMMER",
-      "seasonYear": 2017,
-      "startDate": {
-        "year": 2017,
-        "month": 7,
-        "day": 7
-      },
-      "averageScore": 85,
-      "popularity": 360381,
-      "favourites": 18770,
-      "trailer": "AQbaZeby2zA",
-      "studios": [
-        "Kinema Citrus"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://www.amazon.com/dp/B073S2612X"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/80193163"
-        },
-        {
-          "type": "INFO",
-          "url": "http://miabyss.com/index_1st.html"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0-bp4bZ7ER-VQ-973riDyN"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/media/37179"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/media/37179"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hidive.com/season/20003"
         }
       ],
       "nextAiring": null
@@ -14492,7 +14492,7 @@
         "day": 29
       },
       "averageScore": 91,
-      "popularity": 355029,
+      "popularity": 355278,
       "favourites": 42736,
       "trailer": "qgQunxD0qCk",
       "studios": [
@@ -14990,7 +14990,7 @@
         "day": 7
       },
       "averageScore": 82,
-      "popularity": 349796,
+      "popularity": 349969,
       "favourites": 17099,
       "trailer": "HkIKAnwLZCw",
       "studios": [
@@ -15478,7 +15478,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 339611,
+      "popularity": 339730,
       "favourites": 11115,
       "trailer": null,
       "studios": [
@@ -16472,7 +16472,7 @@
         "day": 1
       },
       "averageScore": 85,
-      "popularity": 331571,
+      "popularity": 331685,
       "favourites": 22673,
       "trailer": "oXkkMhCuCMg",
       "studios": [
@@ -17144,7 +17144,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 321889,
+      "popularity": 321970,
       "favourites": 17364,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -17964,7 +17964,7 @@
         "day": 5
       },
       "averageScore": 76,
-      "popularity": 315159,
+      "popularity": 315258,
       "favourites": 12436,
       "trailer": "g4LjvxtFieE",
       "studios": [
@@ -18600,7 +18600,7 @@
         "day": 9
       },
       "averageScore": 81,
-      "popularity": 309205,
+      "popularity": 309314,
       "favourites": 8541,
       "trailer": "a9tq0aS5Zu8",
       "studios": [
@@ -18777,7 +18777,7 @@
         "day": 3
       },
       "averageScore": 82,
-      "popularity": 308735,
+      "popularity": 308809,
       "favourites": 15431,
       "trailer": "X63_YYZjKxA",
       "studios": [
@@ -21094,7 +21094,7 @@
         "day": 1
       },
       "averageScore": 81,
-      "popularity": 285518,
+      "popularity": 285591,
       "favourites": 6111,
       "trailer": "jR1L1EK3kN0",
       "studios": [
@@ -23026,7 +23026,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 273180,
+      "popularity": 273250,
       "favourites": 16071,
       "trailer": "gKWEUJ4r5do",
       "studios": [
@@ -24384,7 +24384,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 266476,
+      "popularity": 266524,
       "favourites": 5936,
       "trailer": "9ZseZTshl2k",
       "studios": [
@@ -28596,7 +28596,7 @@
         "day": 22
       },
       "averageScore": 88,
-      "popularity": 238499,
+      "popularity": 238667,
       "favourites": 19864,
       "trailer": "oyHqh8ue4zw",
       "studios": [
@@ -29110,7 +29110,7 @@
         "day": 9
       },
       "averageScore": 75,
-      "popularity": 236236,
+      "popularity": 236284,
       "favourites": 4111,
       "trailer": "c3Jt_EXwGBc",
       "studios": [
@@ -29433,7 +29433,7 @@
         "day": 3
       },
       "averageScore": 72,
-      "popularity": 235279,
+      "popularity": 235333,
       "favourites": 4772,
       "trailer": "EoipHZFNXv0",
       "studios": [
@@ -29591,7 +29591,7 @@
         "day": 8
       },
       "averageScore": 76,
-      "popularity": 234200,
+      "popularity": 234301,
       "favourites": 6178,
       "trailer": "zl0Kiv0kuQQ",
       "studios": [
@@ -31772,7 +31772,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 227014,
+      "popularity": 227075,
       "favourites": 8727,
       "trailer": "ukO-ZdWS3j8",
       "studios": [
@@ -32176,7 +32176,7 @@
         "day": 11
       },
       "averageScore": 71,
-      "popularity": 224991,
+      "popularity": 225039,
       "favourites": 3918,
       "trailer": "iPsu_sk-e7Q",
       "studios": [
@@ -32512,7 +32512,7 @@
         "day": 13
       },
       "averageScore": 82,
-      "popularity": 223860,
+      "popularity": 223957,
       "favourites": 8553,
       "trailer": "7n_mFVPeApw",
       "studios": [
@@ -33358,7 +33358,7 @@
         "day": 8
       },
       "averageScore": 78,
-      "popularity": 220522,
+      "popularity": 220569,
       "favourites": 6519,
       "trailer": "W9KZgJgo-x0",
       "studios": [
@@ -36396,7 +36396,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 214886,
+      "popularity": 214954,
       "favourites": 5933,
       "trailer": "0mM3lQytac4",
       "studios": [
@@ -38538,7 +38538,7 @@
         "day": 3
       },
       "averageScore": 81,
-      "popularity": 208459,
+      "popularity": 208537,
       "favourites": 6553,
       "trailer": "ts5NGoDI1V0",
       "studios": [
@@ -39210,7 +39210,7 @@
         "day": 5
       },
       "averageScore": 56,
-      "popularity": 205775,
+      "popularity": 205808,
       "favourites": 3162,
       "trailer": "ppLE9xycGm4",
       "studios": [
@@ -39371,7 +39371,7 @@
         "day": 4
       },
       "averageScore": 87,
-      "popularity": 205474,
+      "popularity": 205546,
       "favourites": 5629,
       "trailer": "hb-mo0URZBw",
       "studios": [
@@ -39889,7 +39889,7 @@
         "day": 3
       },
       "averageScore": 87,
-      "popularity": 202476,
+      "popularity": 202519,
       "favourites": 14066,
       "trailer": "IecYMqp1N4k",
       "studios": [
@@ -40185,7 +40185,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 201379,
+      "popularity": 201444,
       "favourites": 5041,
       "trailer": "2VvZIEXmltw",
       "studios": [
