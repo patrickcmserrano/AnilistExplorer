@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-25T12:24:20.485298",
+    "updatedAt": "2025-11-25T18:21:19.841843",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -535,7 +535,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 840282,
+      "popularity": 840513,
       "favourites": 44144,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
@@ -2004,7 +2004,7 @@
         "day": 5
       },
       "averageScore": 90,
-      "popularity": 641256,
+      "popularity": 641435,
       "favourites": 52659,
       "trailer": null,
       "studios": [
@@ -3083,7 +3083,7 @@
         "day": 1
       },
       "averageScore": 79,
-      "popularity": 590876,
+      "popularity": 591006,
       "favourites": 8584,
       "trailer": "tEPneR3KFK8",
       "studios": [
@@ -4427,7 +4427,7 @@
         "day": 15
       },
       "averageScore": 82,
-      "popularity": 540213,
+      "popularity": 540345,
       "favourites": 33150,
       "trailer": null,
       "studios": [
@@ -6478,7 +6478,7 @@
         "day": 9
       },
       "averageScore": 83,
-      "popularity": 486642,
+      "popularity": 486788,
       "favourites": 22222,
       "trailer": "ofXigq9aIpo",
       "studios": [
@@ -6671,7 +6671,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 485177,
+      "popularity": 485271,
       "favourites": 16298,
       "trailer": "ya570uUgQNc",
       "studios": [
@@ -6836,7 +6836,7 @@
         "day": 11
       },
       "averageScore": 85,
-      "popularity": 485028,
+      "popularity": 485112,
       "favourites": 30229,
       "trailer": "_grmduuECm4",
       "studios": [
@@ -8793,7 +8793,7 @@
         "day": 6
       },
       "averageScore": 85,
-      "popularity": 432942,
+      "popularity": 433051,
       "favourites": 25153,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -10304,7 +10304,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 413430,
+      "popularity": 413582,
       "favourites": 14301,
       "trailer": "XoJCOAU_72U",
       "studios": [
@@ -11962,7 +11962,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 388701,
+      "popularity": 388896,
       "favourites": 18394,
       "trailer": "O6qVieflwqs",
       "studios": [
@@ -12964,7 +12964,7 @@
         "day": 10
       },
       "averageScore": 86,
-      "popularity": 375141,
+      "popularity": 375264,
       "favourites": 12137,
       "trailer": "EIVVnLlhzr0",
       "studios": [
@@ -14311,7 +14311,7 @@
         "day": 24
       },
       "averageScore": 83,
-      "popularity": 357183,
+      "popularity": 357318,
       "favourites": 9679,
       "trailer": "2docezZl574",
       "studios": [
@@ -14492,7 +14492,7 @@
         "day": 29
       },
       "averageScore": 91,
-      "popularity": 355278,
+      "popularity": 355539,
       "favourites": 42756,
       "trailer": "qgQunxD0qCk",
       "studios": [
@@ -14990,7 +14990,7 @@
         "day": 7
       },
       "averageScore": 82,
-      "popularity": 349969,
+      "popularity": 350148,
       "favourites": 17103,
       "trailer": "HkIKAnwLZCw",
       "studios": [
@@ -15300,7 +15300,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 346294,
+      "popularity": 346401,
       "favourites": 15701,
       "trailer": "8oveGY6h6T8",
       "studios": [
@@ -15478,7 +15478,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 339730,
+      "popularity": 339817,
       "favourites": 11107,
       "trailer": null,
       "studios": [
@@ -16472,7 +16472,7 @@
         "day": 1
       },
       "averageScore": 85,
-      "popularity": 331685,
+      "popularity": 331781,
       "favourites": 22670,
       "trailer": "oXkkMhCuCMg",
       "studios": [
@@ -17144,7 +17144,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 321970,
+      "popularity": 322036,
       "favourites": 17359,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -18600,7 +18600,7 @@
         "day": 9
       },
       "averageScore": 81,
-      "popularity": 309314,
+      "popularity": 309448,
       "favourites": 8540,
       "trailer": "a9tq0aS5Zu8",
       "studios": [
@@ -18777,7 +18777,7 @@
         "day": 3
       },
       "averageScore": 82,
-      "popularity": 308809,
+      "popularity": 308859,
       "favourites": 15427,
       "trailer": "X63_YYZjKxA",
       "studios": [
@@ -21094,7 +21094,7 @@
         "day": 1
       },
       "averageScore": 81,
-      "popularity": 285591,
+      "popularity": 285668,
       "favourites": 6102,
       "trailer": "jR1L1EK3kN0",
       "studios": [
@@ -21728,7 +21728,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 278953,
+      "popularity": 279015,
       "favourites": 7604,
       "trailer": "QpyQ_0i2NU8",
       "studios": [
@@ -23026,7 +23026,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 273250,
+      "popularity": 273327,
       "favourites": 16060,
       "trailer": "gKWEUJ4r5do",
       "studios": [
@@ -23367,7 +23367,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 270328,
+      "popularity": 270398,
       "favourites": 11116,
       "trailer": "IVsII3dLbWc",
       "studios": [
@@ -24384,7 +24384,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 266524,
+      "popularity": 266583,
       "favourites": 5923,
       "trailer": "9ZseZTshl2k",
       "studios": [
@@ -25096,7 +25096,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 263252,
+      "popularity": 263307,
       "favourites": 14356,
       "trailer": null,
       "studios": [
@@ -27187,7 +27187,7 @@
         "day": 16
       },
       "averageScore": 80,
-      "popularity": 250104,
+      "popularity": 250179,
       "favourites": 6456,
       "trailer": "92a7Hj0ijLs",
       "studios": [
@@ -27334,7 +27334,7 @@
         "day": 3
       },
       "averageScore": 78,
-      "popularity": 249826,
+      "popularity": 249863,
       "favourites": 10247,
       "trailer": "mFHue76hqt0",
       "studios": [
@@ -28596,7 +28596,7 @@
         "day": 22
       },
       "averageScore": 88,
-      "popularity": 238667,
+      "popularity": 238843,
       "favourites": 19867,
       "trailer": "oyHqh8ue4zw",
       "studios": [
@@ -29433,7 +29433,7 @@
         "day": 3
       },
       "averageScore": 72,
-      "popularity": 235333,
+      "popularity": 235393,
       "favourites": 4769,
       "trailer": "EoipHZFNXv0",
       "studios": [
@@ -29591,7 +29591,7 @@
         "day": 8
       },
       "averageScore": 76,
-      "popularity": 234301,
+      "popularity": 234382,
       "favourites": 6181,
       "trailer": "zl0Kiv0kuQQ",
       "studios": [
@@ -30972,7 +30972,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 230068,
+      "popularity": 230115,
       "favourites": 10627,
       "trailer": "ZM8a3QYtOfA",
       "studios": [
@@ -31159,7 +31159,7 @@
         "day": 26
       },
       "averageScore": 80,
-      "popularity": 229595,
+      "popularity": 229647,
       "favourites": 11978,
       "trailer": null,
       "studios": [
@@ -31772,7 +31772,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 227075,
+      "popularity": 227155,
       "favourites": 8728,
       "trailer": "ukO-ZdWS3j8",
       "studios": [
@@ -32176,7 +32176,7 @@
         "day": 11
       },
       "averageScore": 71,
-      "popularity": 225039,
+      "popularity": 225085,
       "favourites": 3920,
       "trailer": "iPsu_sk-e7Q",
       "studios": [
@@ -32316,7 +32316,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 224503,
+      "popularity": 224577,
       "favourites": 9546,
       "trailer": "Ah7lTT-NKMw",
       "studios": [
@@ -32512,7 +32512,7 @@
         "day": 13
       },
       "averageScore": 82,
-      "popularity": 223957,
+      "popularity": 224063,
       "favourites": 8549,
       "trailer": "7n_mFVPeApw",
       "studios": [
@@ -32668,7 +32668,7 @@
         "day": 10
       },
       "averageScore": 88,
-      "popularity": 223268,
+      "popularity": 223361,
       "favourites": 12261,
       "trailer": "6pX93dXfH9s",
       "studios": [
@@ -32686,6 +32686,185 @@
         {
           "type": "STREAMING",
           "url": "https://www.netflix.com/title/81249833"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 139630,
+      "title": {
+        "english": "My Hero Academia Season 6",
+        "romaji": "Boku no Hero Academia 6",
+        "native": "僕のヒーローアカデミア６"
+      },
+      "description": "With Tomura Shigaraki at its helm, the former Liberation Army is now known as the Paranormal Liberation Front. This organized criminal group poses an immense threat to the Hero Association, not only because of its sheer size and strength, but also the overpowering quirks of Jin \"Twice\" Bubaigawara and Gigantomachia.\n<br><br>\nAs new intel from the covert hero Keigo \"Hawks\" Takami confirms that Shigaraki is nowhere to be seen, the Hero Association decides to strike the enemy headquarters with a surprise attack using the entirety of its assets—and the UA students find themselves on the battlefield once again. As the fight rages on, the unsuspecting villains must regroup and push back, but the brave heroes are determined to eradicate every last one of them.\n<br><br>\n(Source: MAL Rewrite)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139630-3v4gxWtNZxLV.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139630-XLc90c6CJjZv.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png",
+          "character": "Izuku Midoriya",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89226-C1ZKm2U3bR4T.png",
+          "character": "Tomura Shigaraki",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png",
+          "character": "Shouto Todoroki",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png",
+          "character": "Katsuki Bakugou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png",
+          "character": "Shouta Aizawa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg",
+          "character": "Toshinori Yagi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png",
+          "character": "Eijirou Kirishima",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125619-iQxQoGHJvjRJ.png",
+          "character": "Himiko Toga",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126378-RFSljq5koy5U.png",
+          "character": "Dabi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png",
+          "character": "Ochako Uraraka",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123527-rz0OotcLY0E4.png",
+          "character": "Mirio Togata",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128299-eMEsWazNXE56.png",
+          "character": "Keigo Takami",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89223-5762vburxnlz.png",
+          "character": "Tsuyu Asui",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89249-Ygc30RlYoFta.png",
+          "character": "Denki Kaminari",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89897-5vU7N3ayiKRr.png",
+          "character": "Kyouka Jirou",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1149/117996l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1983/119548l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1201/121657l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1973/125837l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1483/126005l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1607/131430l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1490/131725l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1866/133150l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1827/134727l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 25,
+      "season": "FALL",
+      "seasonYear": 2022,
+      "startDate": {
+        "year": 2022,
+        "month": 10,
+        "day": 1
+      },
+      "averageScore": 82,
+      "popularity": 222518,
+      "favourites": 5486,
+      "trailer": "WxCJMYbGtzA",
+      "studios": [
+        "bones"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://heroaca.com/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/G6NQ5DWZ6/my-hero-academia"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/my-hero-academia-b4859a95-39ba-4051-a550-256c42e70a1d"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/c/AniOneAsia"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/2068973"
         }
       ],
       "nextAiring": null
@@ -32866,185 +33045,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.bilibili.tv/en/media/35415"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 139630,
-      "title": {
-        "english": "My Hero Academia Season 6",
-        "romaji": "Boku no Hero Academia 6",
-        "native": "僕のヒーローアカデミア６"
-      },
-      "description": "With Tomura Shigaraki at its helm, the former Liberation Army is now known as the Paranormal Liberation Front. This organized criminal group poses an immense threat to the Hero Association, not only because of its sheer size and strength, but also the overpowering quirks of Jin \"Twice\" Bubaigawara and Gigantomachia.\n<br><br>\nAs new intel from the covert hero Keigo \"Hawks\" Takami confirms that Shigaraki is nowhere to be seen, the Hero Association decides to strike the enemy headquarters with a surprise attack using the entirety of its assets—and the UA students find themselves on the battlefield once again. As the fight rages on, the unsuspecting villains must regroup and push back, but the brave heroes are determined to eradicate every last one of them.\n<br><br>\n(Source: MAL Rewrite)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139630-3v4gxWtNZxLV.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139630-XLc90c6CJjZv.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-8w1I9o1ISHMg.png",
-          "character": "Izuku Midoriya",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89226-C1ZKm2U3bR4T.png",
-          "character": "Tomura Shigaraki",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-KNBwaVFAR8FD.png",
-          "character": "Shouto Todoroki",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-bdOha3lNcaN6.png",
-          "character": "Katsuki Bakugou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png",
-          "character": "Shouta Aizawa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89224-K6KEuQAuYKzq.jpg",
-          "character": "Toshinori Yagi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-QLmUyyZk5K2l.png",
-          "character": "Eijirou Kirishima",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125619-iQxQoGHJvjRJ.png",
-          "character": "Himiko Toga",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126378-RFSljq5koy5U.png",
-          "character": "Dabi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89221-gSF2a4gPbG4m.png",
-          "character": "Ochako Uraraka",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b123527-rz0OotcLY0E4.png",
-          "character": "Mirio Togata",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128299-eMEsWazNXE56.png",
-          "character": "Keigo Takami",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89223-5762vburxnlz.png",
-          "character": "Tsuyu Asui",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89249-Ygc30RlYoFta.png",
-          "character": "Denki Kaminari",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89897-5vU7N3ayiKRr.png",
-          "character": "Kyouka Jirou",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1149/117996l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1983/119548l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1201/121657l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1973/125837l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1483/126005l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1607/131430l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1490/131725l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1866/133150l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1827/134727l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 25,
-      "season": "FALL",
-      "seasonYear": 2022,
-      "startDate": {
-        "year": 2022,
-        "month": 10,
-        "day": 1
-      },
-      "averageScore": 82,
-      "popularity": 222400,
-      "favourites": 5486,
-      "trailer": "WxCJMYbGtzA",
-      "studios": [
-        "bones"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://heroaca.com/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/G6NQ5DWZ6/my-hero-academia"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/my-hero-academia-b4859a95-39ba-4051-a550-256c42e70a1d"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/c/AniOneAsia"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/2068973"
         }
       ],
       "nextAiring": null
@@ -33522,7 +33522,7 @@
         "day": 9
       },
       "averageScore": 78,
-      "popularity": 220383,
+      "popularity": 220455,
       "favourites": 7164,
       "trailer": "AlZmD15k-F4",
       "studios": [
@@ -36396,7 +36396,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 214954,
+      "popularity": 215024,
       "favourites": 5928,
       "trailer": "0mM3lQytac4",
       "studios": [
@@ -37262,7 +37262,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 212490,
+      "popularity": 212531,
       "favourites": 2506,
       "trailer": "XmfXcVLA1d8",
       "studios": [
@@ -38225,7 +38225,7 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 209307,
+      "popularity": 209336,
       "favourites": 5199,
       "trailer": "0i1AxFdlu0M",
       "studios": [
@@ -38538,7 +38538,7 @@
         "day": 3
       },
       "averageScore": 81,
-      "popularity": 208537,
+      "popularity": 208605,
       "favourites": 6555,
       "trailer": "ts5NGoDI1V0",
       "studios": [
@@ -39371,7 +39371,7 @@
         "day": 4
       },
       "averageScore": 87,
-      "popularity": 205546,
+      "popularity": 205630,
       "favourites": 5629,
       "trailer": "hb-mo0URZBw",
       "studios": [
@@ -39889,7 +39889,7 @@
         "day": 3
       },
       "averageScore": 87,
-      "popularity": 202519,
+      "popularity": 202558,
       "favourites": 14051,
       "trailer": "IecYMqp1N4k",
       "studios": [
@@ -40185,7 +40185,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 201444,
+      "popularity": 201501,
       "favourites": 5041,
       "trailer": "2VvZIEXmltw",
       "studios": [
