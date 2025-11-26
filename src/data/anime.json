@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-26T00:42:27.877439",
+    "updatedAt": "2025-11-26T06:21:56.655452",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -168,7 +168,7 @@
         "day": 7
       },
       "averageScore": 85,
-      "popularity": 922903,
+      "popularity": 923138,
       "favourites": 55764,
       "trailer": "LHtdKWJdif4\t",
       "studios": [
@@ -722,7 +722,7 @@
         "day": 3
       },
       "averageScore": 84,
-      "popularity": 831217,
+      "popularity": 831521,
       "favourites": 49300,
       "trailer": "pkKu9hLT-t8",
       "studios": [
@@ -1449,7 +1449,7 @@
         "day": 4
       },
       "averageScore": 76,
-      "popularity": 657988,
+      "popularity": 658108,
       "favourites": 18099,
       "trailer": "XfQUjYsVBrE",
       "studios": [
@@ -3444,7 +3444,7 @@
         "day": 7
       },
       "averageScore": 86,
-      "popularity": 567137,
+      "popularity": 567298,
       "favourites": 19527,
       "trailer": "MUCN-JwUvbY",
       "studios": [
@@ -3613,7 +3613,7 @@
         "day": 10
       },
       "averageScore": 79,
-      "popularity": 561483,
+      "popularity": 561605,
       "favourites": 16234,
       "trailer": "vAuTJFzjNLs",
       "studios": [
@@ -3951,7 +3951,7 @@
         "day": 10
       },
       "averageScore": 84,
-      "popularity": 542230,
+      "popularity": 542371,
       "favourites": 26802,
       "trailer": "3aL0gDZtFbE",
       "studios": [
@@ -4606,7 +4606,7 @@
         "day": 29
       },
       "averageScore": 89,
-      "popularity": 540115,
+      "popularity": 540259,
       "favourites": 23169,
       "trailer": "fJm2nD3cv_4",
       "studios": [
@@ -5116,7 +5116,7 @@
         "day": 6
       },
       "averageScore": 83,
-      "popularity": 524653,
+      "popularity": 524752,
       "favourites": 27953,
       "trailer": "9kLRkH9zC5k",
       "studios": [
@@ -5790,7 +5790,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 491793,
+      "popularity": 491897,
       "favourites": 13411,
       "trailer": "IQnnwUXd_0U",
       "studios": [
@@ -5812,6 +5812,157 @@
         {
           "type": "STREAMING",
           "url": "https://www.crunchyroll.com/noragami"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 19815,
+      "title": {
+        "english": "No Game, No Life",
+        "romaji": "No Game No Life",
+        "native": "ノーゲーム・ノーライフ"
+      },
+      "description": "Bored with life and considering the real world to be just a “crappy game,” savvy sibling shut-ins Sora and Shiro have withdrawn into their own fantasy world filled with video games. \n<br><br>\nHowever, one day they find themselves summoned to another world by a boy who calls himself “God,” their abilities are about to be put to the ultimate test! Now not only their fates — but the fate of all of humanity — will be decided by a series of games that may just be the hardest these super-geniuses have ever faced!\n<br><br>\n(Source: Sentai Filmworks, edited)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19815-BqbuD0wyBS3P.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png",
+          "character": "Shiro",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png",
+          "character": "Sora",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png",
+          "character": "Jibril",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png",
+          "character": "Stephanie Dola",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png",
+          "character": "Izuna Hatsuse",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88004-lA45OjvaT5He.png",
+          "character": "Tet",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88001-wAbdFA9xAh7j.png",
+          "character": "Chlammy Zell",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88002-1MorDMgxtLMm.jpg",
+          "character": "Fiel Nilvalen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137440-DgBRYiOtFzUk.jpg",
+          "character": "Miko",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134187-DAcVgXbru47p.png",
+          "character": "Queen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139371-lRwPC5Bmbhy5.png",
+          "character": "Ino Hatsuse",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88267-kVzgU6CELd58.png",
+          "character": "Mahakoht Dola",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175514-ZrcJ1cNLDFcO.png",
+          "character": "Koukan",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175516-DEdc65vHCriS.png",
+          "character": "Touzoku",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175515-1jdEVOKdqv7V.png",
+          "character": "Senshi",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/5/69611l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 12,
+      "season": "SPRING",
+      "seasonYear": 2014,
+      "startDate": {
+        "year": 2014,
+        "month": 4,
+        "day": 9
+      },
+      "averageScore": 77,
+      "popularity": 491704,
+      "favourites": 15489,
+      "trailer": "TqMCYf1FibU",
+      "studios": [
+        "MADHOUSE"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://ngnl.jp/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.hulu.com/no-game-no-life"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hidive.com/tv/no-game-no-life"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/80052669"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JglGq-5PMtbewK96Z_7Au8J"
         }
       ],
       "nextAiring": null
@@ -5983,157 +6134,6 @@
       "nextAiring": null
     },
     {
-      "id": 19815,
-      "title": {
-        "english": "No Game, No Life",
-        "romaji": "No Game No Life",
-        "native": "ノーゲーム・ノーライフ"
-      },
-      "description": "Bored with life and considering the real world to be just a “crappy game,” savvy sibling shut-ins Sora and Shiro have withdrawn into their own fantasy world filled with video games. \n<br><br>\nHowever, one day they find themselves summoned to another world by a boy who calls himself “God,” their abilities are about to be put to the ultimate test! Now not only their fates — but the fate of all of humanity — will be decided by a series of games that may just be the hardest these super-geniuses have ever faced!\n<br><br>\n(Source: Sentai Filmworks, edited)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19815-BqbuD0wyBS3P.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82525-sKk2FGRKN4aK.png",
-          "character": "Shiro",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82523-JB9oevKyXWfc.png",
-          "character": "Sora",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87887-3QKmvQM5LTwY.png",
-          "character": "Jibril",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b82527-uwdWwl1qhzqC.png",
-          "character": "Stephanie Dola",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88003-tZKsjjzDWV8e.png",
-          "character": "Izuna Hatsuse",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88004-lA45OjvaT5He.png",
-          "character": "Tet",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88001-wAbdFA9xAh7j.png",
-          "character": "Chlammy Zell",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88002-1MorDMgxtLMm.jpg",
-          "character": "Fiel Nilvalen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137440-DgBRYiOtFzUk.jpg",
-          "character": "Miko",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134187-DAcVgXbru47p.png",
-          "character": "Queen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139371-lRwPC5Bmbhy5.png",
-          "character": "Ino Hatsuse",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88267-kVzgU6CELd58.png",
-          "character": "Mahakoht Dola",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175514-ZrcJ1cNLDFcO.png",
-          "character": "Koukan",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175516-DEdc65vHCriS.png",
-          "character": "Touzoku",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b175515-1jdEVOKdqv7V.png",
-          "character": "Senshi",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/12/59115l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/5/69611l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1074/111944l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Adventure",
-        "Comedy",
-        "Ecchi",
-        "Fantasy"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 12,
-      "season": "SPRING",
-      "seasonYear": 2014,
-      "startDate": {
-        "year": 2014,
-        "month": 4,
-        "day": 9
-      },
-      "averageScore": 77,
-      "popularity": 491599,
-      "favourites": 15489,
-      "trailer": "TqMCYf1FibU",
-      "studios": [
-        "MADHOUSE"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://ngnl.jp/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.hulu.com/no-game-no-life"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hidive.com/tv/no-game-no-life"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/80052669"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JglGq-5PMtbewK96Z_7Au8J"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 105333,
       "title": {
         "english": "Dr. STONE",
@@ -6284,7 +6284,7 @@
         "day": 5
       },
       "averageScore": 81,
-      "popularity": 487545,
+      "popularity": 487687,
       "favourites": 19412,
       "trailer": "7YZzYeBartM",
       "studios": [
@@ -7013,7 +7013,7 @@
         "day": 7
       },
       "averageScore": 72,
-      "popularity": 480028,
+      "popularity": 480153,
       "favourites": 11627,
       "trailer": "nsqpjtceIZo",
       "studios": [
@@ -7204,7 +7204,7 @@
         "day": 12
       },
       "averageScore": 78,
-      "popularity": 476791,
+      "popularity": 476933,
       "favourites": 7714,
       "trailer": "5VQwDC5jqzQ",
       "studios": [
@@ -7365,7 +7365,7 @@
         "day": 5
       },
       "averageScore": 73,
-      "popularity": 476395,
+      "popularity": 476504,
       "favourites": 8010,
       "trailer": "wxcvbL6o55M",
       "studios": [
@@ -8055,7 +8055,7 @@
         "day": 9
       },
       "averageScore": 81,
-      "popularity": 449680,
+      "popularity": 449764,
       "favourites": 14609,
       "trailer": "2ilVWE9uw88",
       "studios": [
@@ -8233,7 +8233,7 @@
         "day": 16
       },
       "averageScore": 84,
-      "popularity": 449411,
+      "popularity": 449555,
       "favourites": 11009,
       "trailer": "23riEOmDOgM",
       "studios": [
@@ -9072,13 +9072,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176903-EDFpyRNy1kIN.png",
-          "character": "Kawa no Kami",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279064-vMl5VUpUrDdh.jpg",
+          "character": "Aogaeru",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279064-vMl5VUpUrDdh.jpg",
-          "character": "Aogaeru",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176903-EDFpyRNy1kIN.png",
+          "character": "Kawa no Kami",
           "role": "SUPPORTING"
         },
         {
@@ -9387,13 +9387,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38984-nTBWABvnb24V.png",
-          "character": "Konekomaru Miwa",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b48449-LZibifWzcpoo.png",
+          "character": "Satan",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b48449-LZibifWzcpoo.png",
-          "character": "Satan",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38984-nTBWABvnb24V.png",
+          "character": "Konekomaru Miwa",
           "role": "SUPPORTING"
         }
       ],
@@ -9788,7 +9788,7 @@
         "day": 6
       },
       "averageScore": 76,
-      "popularity": 419664,
+      "popularity": 419789,
       "favourites": 10287,
       "trailer": "AOd3Gbe1Abg",
       "studios": [
@@ -10612,7 +10612,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 408132,
+      "popularity": 408223,
       "favourites": 4961,
       "trailer": "K0Ghr_rbJmQ",
       "studios": [
@@ -11810,7 +11810,7 @@
         "day": 11
       },
       "averageScore": 86,
-      "popularity": 389496,
+      "popularity": 389576,
       "favourites": 14351,
       "trailer": "_NkxM_uLUpw",
       "studios": [
@@ -12304,7 +12304,7 @@
         "day": 11
       },
       "averageScore": 82,
-      "popularity": 380985,
+      "popularity": 381117,
       "favourites": 20929,
       "trailer": "JoS7Z8MCD6E",
       "studios": [
@@ -12802,7 +12802,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 376884,
+      "popularity": 376966,
       "favourites": 13736,
       "trailer": "-ClQ7zkHtXY",
       "studios": [
@@ -13294,7 +13294,7 @@
         "day": 9
       },
       "averageScore": 66,
-      "popularity": 366339,
+      "popularity": 366408,
       "favourites": 4657,
       "trailer": null,
       "studios": [
@@ -14142,7 +14142,7 @@
         "day": 4
       },
       "averageScore": 75,
-      "popularity": 360503,
+      "popularity": 360579,
       "favourites": 5753,
       "trailer": null,
       "studios": [
@@ -14665,7 +14665,7 @@
         "day": 7
       },
       "averageScore": 76,
-      "popularity": 354683,
+      "popularity": 354777,
       "favourites": 11779,
       "trailer": "RuNAPPcjDr4",
       "studios": [
@@ -15950,7 +15950,7 @@
         "day": 5
       },
       "averageScore": 78,
-      "popularity": 333793,
+      "popularity": 333869,
       "favourites": 10870,
       "trailer": "u-bpwWPNEpE",
       "studios": [
@@ -16771,7 +16771,7 @@
         "day": 8
       },
       "averageScore": 83,
-      "popularity": 324445,
+      "popularity": 324540,
       "favourites": 9687,
       "trailer": "P_YtFPg9tNE",
       "studios": [
@@ -18103,7 +18103,7 @@
         "day": 19
       },
       "averageScore": 81,
-      "popularity": 313093,
+      "popularity": 313177,
       "favourites": 10615,
       "trailer": "Q6iK6DjV_iE",
       "studios": [
@@ -18279,7 +18279,7 @@
         "day": 4
       },
       "averageScore": 75,
-      "popularity": 313046,
+      "popularity": 313114,
       "favourites": 8159,
       "trailer": "ud0fDdXHnYc",
       "studios": [
@@ -19096,7 +19096,7 @@
         "day": 5
       },
       "averageScore": 79,
-      "popularity": 304245,
+      "popularity": 304322,
       "favourites": 10296,
       "trailer": null,
       "studios": [
@@ -19775,7 +19775,7 @@
         "day": 8
       },
       "averageScore": 51,
-      "popularity": 297667,
+      "popularity": 297728,
       "favourites": 2209,
       "trailer": "DXNXOsZqc28",
       "studios": [
@@ -19954,7 +19954,7 @@
         "day": 14
       },
       "averageScore": 81,
-      "popularity": 296613,
+      "popularity": 296703,
       "favourites": 6043,
       "trailer": "QqgqrrFbw3g",
       "studios": [
@@ -20040,13 +20040,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245467-xnhV5etjTvHZ.png",
-          "character": "Acrobatic Sarasara",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270704-FvYlWMLwLa0C.png",
+          "character": "Tarou",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270704-FvYlWMLwLa0C.png",
-          "character": "Tarou",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245467-xnhV5etjTvHZ.png",
+          "character": "Acrobatic Sarasara",
           "role": "SUPPORTING"
         },
         {
@@ -20422,7 +20422,7 @@
         "day": 4
       },
       "averageScore": 73,
-      "popularity": 292293,
+      "popularity": 292354,
       "favourites": 6356,
       "trailer": "9AMtVwWS0fM",
       "studios": [
@@ -21876,7 +21876,7 @@
         "day": 11
       },
       "averageScore": 65,
-      "popularity": 278102,
+      "popularity": 278163,
       "favourites": 5055,
       "trailer": "jZFEtc3CKHs",
       "studios": [
@@ -22215,7 +22215,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 277293,
+      "popularity": 277359,
       "favourites": 11805,
       "trailer": "DPEQxuMKGfE",
       "studios": [
@@ -22680,7 +22680,7 @@
         "day": 12
       },
       "averageScore": 83,
-      "popularity": 274859,
+      "popularity": 274935,
       "favourites": 8523,
       "trailer": "Lk3fJsIOnKw",
       "studios": [
@@ -24198,7 +24198,7 @@
         "day": 11
       },
       "averageScore": 83,
-      "popularity": 267204,
+      "popularity": 267249,
       "favourites": 5307,
       "trailer": "IZ8iIHpe4Lg",
       "studios": [
@@ -24832,13 +24832,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130862-jScLEFMkfo27.png",
-          "character": "Viktor Licht",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130785-zvGvLqecFUYX.png",
+          "character": "Leonard Burns",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130785-zvGvLqecFUYX.png",
-          "character": "Leonard Burns",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130862-jScLEFMkfo27.png",
+          "character": "Viktor Licht",
           "role": "SUPPORTING"
         }
       ],
@@ -26032,7 +26032,7 @@
         "day": 11
       },
       "averageScore": 78,
-      "popularity": 257981,
+      "popularity": 258053,
       "favourites": 7873,
       "trailer": "nLVy50LnLMM",
       "studios": [
@@ -26175,7 +26175,7 @@
         "day": 11
       },
       "averageScore": 82,
-      "popularity": 257548,
+      "popularity": 257610,
       "favourites": 9519,
       "trailer": "kaSio11XVhM",
       "studios": [
@@ -26339,7 +26339,7 @@
         "day": 3
       },
       "averageScore": 74,
-      "popularity": 257017,
+      "popularity": 257067,
       "favourites": 5101,
       "trailer": "BnfeVrAAS2k",
       "studios": [
@@ -27988,7 +27988,7 @@
         "day": 3
       },
       "averageScore": 81,
-      "popularity": 245276,
+      "popularity": 245326,
       "favourites": 7344,
       "trailer": "b6cmXXm89cI",
       "studios": [
@@ -28143,7 +28143,7 @@
         "day": 11
       },
       "averageScore": 73,
-      "popularity": 242668,
+      "popularity": 242715,
       "favourites": 4421,
       "trailer": "PuB1VpKbWtE",
       "studios": [
@@ -28768,7 +28768,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 238212,
+      "popularity": 238275,
       "favourites": 7167,
       "trailer": "61RuoLIlCUM",
       "studios": [
@@ -29258,7 +29258,7 @@
         "day": 10
       },
       "averageScore": 77,
-      "popularity": 235676,
+      "popularity": 235736,
       "favourites": 5940,
       "trailer": "n-35-JRzT7k",
       "studios": [
@@ -29909,7 +29909,7 @@
         "day": 4
       },
       "averageScore": 75,
-      "popularity": 233462,
+      "popularity": 233512,
       "favourites": 5968,
       "trailer": "ER8wXRhZW1k",
       "studios": [
@@ -30192,7 +30192,7 @@
         "day": 4
       },
       "averageScore": 72,
-      "popularity": 232430,
+      "popularity": 232481,
       "favourites": 5093,
       "trailer": "9qJyDlZst8c",
       "studios": [
@@ -30214,6 +30214,167 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/edb56aca-9c2d-44ea-94a5-f722680b9862"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 20458,
+      "title": {
+        "english": "The Irregular at Magic High School",
+        "romaji": "Mahouka Koukou no Rettousei",
+        "native": "魔法科高校の劣等生"
+      },
+      "description": "Magic is a product of neither legends nor fairy tales, but instead has become a technology of reality since a time unknown to people. Supernatural power became a technology systematized through magic, while magic became a technical skill. A \"Supernatural Power User\" became a \"Magic Technician.\" Magic Technicians (in short, Magicians) are nurtured through Magic High Schools and Universities.<br>\n<br>\nThis is a story about: <br>\n<br>\nTatsuya, a defective elder brother low achiever.<br>\nMiyuki, a perfect, flawless younger sister high achiever.<br>\nAfter both siblings entered a Magic High School,<br>\nThe stage of daily turbulence was unveiled—.",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20458-tGh343Ew10yU.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20458-6sHThFCwyd1T.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png",
+          "character": "Tatsuya Shiba",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55741-FX0mwEYDYZmw.png",
+          "character": "Miyuki Shiba",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88194-HE3sw1jDHN1L.png",
+          "character": "Mayumi Saegusa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72311-dfnWHh76AnU9.png",
+          "character": "Erika Chiba",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88188-PFLuypIzwfJR.png",
+          "character": "Shizuku Kitayama",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88191-xKYDdQ7Of16a.png",
+          "character": "Honoka Mitsui",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88197-udOwm5WkVfvH.png",
+          "character": "Mizuki Shibata",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88200-4TtqKvqX36N8.png",
+          "character": "Mari Watanabe",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88201-f8b04jB5haJw.png",
+          "character": "Mikihiko Yoshida",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88195-K4L9Uzx7ByGZ.png",
+          "character": "Leonhart Saijou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88184-cwGSKwJocrVf.png",
+          "character": "Masaki Ichijou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189575-uIyLuP83rBNc.png",
+          "character": "Kyouko Fujibayashi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78043-kpcs8PV9g5Wq.png",
+          "character": "Yakumo Kokonoe",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88190-mF7eGb0y7sMp.png",
+          "character": "Sayaka Mibu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213001-qaFn4a2bSTpG.png",
+          "character": "Maya Yotsuba",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/13/55413l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/11/61039l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/3/62245l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/9/62561l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/2/62707l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 26,
+      "season": "SPRING",
+      "seasonYear": 2014,
+      "startDate": {
+        "year": 2014,
+        "month": 4,
+        "day": 6
+      },
+      "averageScore": 70,
+      "popularity": 231842,
+      "favourites": 4602,
+      "trailer": "U-gkwdGooDU",
+      "studios": [
+        "MADHOUSE"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "http://www.crunchyroll.com/the-irregular-at-magic-high-school "
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.hulu.com/the-irregular-at-magic-high-school"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/80009361"
+        },
+        {
+          "type": "INFO",
+          "url": "https://mahouka.jp/1st/"
+        },
+        {
+          "type": "INFO",
+          "url": "https://mahouka.us/1st/"
         }
       ],
       "nextAiring": null
@@ -30375,167 +30536,6 @@
       "nextAiring": null
     },
     {
-      "id": 20458,
-      "title": {
-        "english": "The Irregular at Magic High School",
-        "romaji": "Mahouka Koukou no Rettousei",
-        "native": "魔法科高校の劣等生"
-      },
-      "description": "Magic is a product of neither legends nor fairy tales, but instead has become a technology of reality since a time unknown to people. Supernatural power became a technology systematized through magic, while magic became a technical skill. A \"Supernatural Power User\" became a \"Magic Technician.\" Magic Technicians (in short, Magicians) are nurtured through Magic High Schools and Universities.<br>\n<br>\nThis is a story about: <br>\n<br>\nTatsuya, a defective elder brother low achiever.<br>\nMiyuki, a perfect, flawless younger sister high achiever.<br>\nAfter both siblings entered a Magic High School,<br>\nThe stage of daily turbulence was unveiled—.",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20458-tGh343Ew10yU.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20458-6sHThFCwyd1T.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55743-g5JD7Dj6iP7R.png",
-          "character": "Tatsuya Shiba",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b55741-FX0mwEYDYZmw.png",
-          "character": "Miyuki Shiba",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88194-HE3sw1jDHN1L.png",
-          "character": "Mayumi Saegusa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b72311-dfnWHh76AnU9.png",
-          "character": "Erika Chiba",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88188-PFLuypIzwfJR.png",
-          "character": "Shizuku Kitayama",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88191-xKYDdQ7Of16a.png",
-          "character": "Honoka Mitsui",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88197-udOwm5WkVfvH.png",
-          "character": "Mizuki Shibata",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88200-4TtqKvqX36N8.png",
-          "character": "Mari Watanabe",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88201-f8b04jB5haJw.png",
-          "character": "Mikihiko Yoshida",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88195-K4L9Uzx7ByGZ.png",
-          "character": "Leonhart Saijou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88184-cwGSKwJocrVf.png",
-          "character": "Masaki Ichijou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b189575-uIyLuP83rBNc.png",
-          "character": "Kyouko Fujibayashi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78043-kpcs8PV9g5Wq.png",
-          "character": "Yakumo Kokonoe",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88190-mF7eGb0y7sMp.png",
-          "character": "Sayaka Mibu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213001-qaFn4a2bSTpG.png",
-          "character": "Maya Yotsuba",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/13/55413l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/11/61039l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/3/62245l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/9/62561l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/2/62707l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Romance",
-        "Sci-Fi",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 26,
-      "season": "SPRING",
-      "seasonYear": 2014,
-      "startDate": {
-        "year": 2014,
-        "month": 4,
-        "day": 6
-      },
-      "averageScore": 70,
-      "popularity": 231794,
-      "favourites": 4602,
-      "trailer": "U-gkwdGooDU",
-      "studios": [
-        "MADHOUSE"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "http://www.crunchyroll.com/the-irregular-at-magic-high-school "
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.hulu.com/the-irregular-at-magic-high-school"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/80009361"
-        },
-        {
-          "type": "INFO",
-          "url": "https://mahouka.jp/1st/"
-        },
-        {
-          "type": "INFO",
-          "url": "https://mahouka.us/1st/"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 20872,
       "title": {
         "english": "Plastic Memories",
@@ -30661,7 +30661,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 231135,
+      "popularity": 231181,
       "favourites": 5827,
       "trailer": "Rl6ypQrTzOI",
       "studios": [
@@ -30797,7 +30797,7 @@
         "day": 3
       },
       "averageScore": 85,
-      "popularity": 230702,
+      "popularity": 230758,
       "favourites": 5667,
       "trailer": "gzDKOxrT3-k",
       "studios": [
@@ -31182,6 +31182,152 @@
       "nextAiring": null
     },
     {
+      "id": 104157,
+      "title": {
+        "english": "Rascal Does Not Dream of a Dreaming Girl",
+        "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
+      },
+      "description": "In Fujisawa, where the skies are bright and the seas glisten, Sakuta Azusagawa is in his second year of high school. His blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted with the appearance of his first crush, Shouko Makinohara. For reasons unknown, he encounters two Shouko's: one in middle school and another who has become an adult.\n<br>\n<br>\nAs Sakuta finds himself helplessly living with the Shouko's, the adult Shouko leads him around by the nose, causing a huge rift in his relationship with Mai.\n<br>\n<br>\nIn the midst of all of this, he discovers that the middle school Shouko is suffering from a grave illness and his scar begins to throb...\n<br>\n<br>\n(Source: Aniplex USA)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104157-rk99XI56PaIC.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104157-PS7tfPpvJKhk.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png",
+          "character": "Mai Sakurajima",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png",
+          "character": "Sakuta Azusagawa",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127843-nz8GbQ9rhB8R.jpg",
+          "character": "Shouko Makinohara",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png",
+          "character": "Rio Futaba",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg",
+          "character": "Tomoe Koga",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png",
+          "character": "Kaede Azusagawa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127841-UY9wQq6dW9SY.png",
+          "character": "Nodoka Toyohama",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130307-QbUIGjAiQbP9.png",
+          "character": "Yuuma Kunimi",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130304-5VhLSgq1zYIQ.png",
+          "character": "Saki Kamisato",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130306-BbD2k4HNPG5Z.png",
+          "character": "Mai no Haha",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130305-73pXalS4f3j8.png",
+          "character": "Yousuke Maesawa",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285128-RZU9irEAq7sP.jpg",
+          "character": "Ryouko Hanawa",
+          "role": "BACKGROUND"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1833/99985l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1437/100691l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1774/111679l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "MOVIE",
+      "episodes": 1,
+      "season": "SPRING",
+      "seasonYear": 2019,
+      "startDate": {
+        "year": 2019,
+        "month": 6,
+        "day": 15
+      },
+      "averageScore": 84,
+      "popularity": 228226,
+      "favourites": 8410,
+      "trailer": "UbLBbxSm8hs",
+      "studios": [
+        "CloverWorks"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://ao-buta.com/yumemiru/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/play/34869"
+        },
+        {
+          "type": "INFO",
+          "url": "https://rascaldoesnotdream.com/dreaming-girl/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81228006"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/series/GYW4MG9G6/rascal-does-not-dream-of-bunny-girl-senpai"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 21049,
       "title": {
         "english": "ReLIFE",
@@ -31321,152 +31467,6 @@
         {
           "type": "STREAMING",
           "url": "http://www.crunchyroll.com/relife"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 104157,
-      "title": {
-        "english": "Rascal Does Not Dream of a Dreaming Girl",
-        "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
-        "native": "青春ブタ野郎はゆめみる少女の夢を見ない"
-      },
-      "description": "In Fujisawa, where the skies are bright and the seas glisten, Sakuta Azusagawa is in his second year of high school. His blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted with the appearance of his first crush, Shouko Makinohara. For reasons unknown, he encounters two Shouko's: one in middle school and another who has become an adult.\n<br>\n<br>\nAs Sakuta finds himself helplessly living with the Shouko's, the adult Shouko leads him around by the nose, causing a huge rift in his relationship with Mai.\n<br>\n<br>\nIn the midst of all of this, he discovers that the middle school Shouko is suffering from a grave illness and his scar begins to throb...\n<br>\n<br>\n(Source: Aniplex USA)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104157-rk99XI56PaIC.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104157-PS7tfPpvJKhk.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127222-Jh5hhP7vZ7s1.png",
-          "character": "Mai Sakurajima",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png",
-          "character": "Sakuta Azusagawa",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n127843-nz8GbQ9rhB8R.jpg",
-          "character": "Shouko Makinohara",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127633-FcCwWK5sQRhK.png",
-          "character": "Rio Futaba",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg",
-          "character": "Tomoe Koga",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127613-LBtFkMJfUWpg.png",
-          "character": "Kaede Azusagawa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127841-UY9wQq6dW9SY.png",
-          "character": "Nodoka Toyohama",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130307-QbUIGjAiQbP9.png",
-          "character": "Yuuma Kunimi",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130304-5VhLSgq1zYIQ.png",
-          "character": "Saki Kamisato",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130306-BbD2k4HNPG5Z.png",
-          "character": "Mai no Haha",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130305-73pXalS4f3j8.png",
-          "character": "Yousuke Maesawa",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b285128-RZU9irEAq7sP.jpg",
-          "character": "Ryouko Hanawa",
-          "role": "BACKGROUND"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1191/98976l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1833/99985l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1437/100691l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1774/111679l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Psychological",
-        "Romance",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "MOVIE",
-      "episodes": 1,
-      "season": "SPRING",
-      "seasonYear": 2019,
-      "startDate": {
-        "year": 2019,
-        "month": 6,
-        "day": 15
-      },
-      "averageScore": 84,
-      "popularity": 228164,
-      "favourites": 8410,
-      "trailer": "UbLBbxSm8hs",
-      "studios": [
-        "CloverWorks"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://ao-buta.com/yumemiru/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/play/34869"
-        },
-        {
-          "type": "INFO",
-          "url": "https://rascaldoesnotdream.com/dreaming-girl/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81228006"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/series/GYW4MG9G6/rascal-does-not-dream-of-bunny-girl-senpai"
         }
       ],
       "nextAiring": null
@@ -32033,7 +32033,7 @@
         "day": 31
       },
       "averageScore": 75,
-      "popularity": 225345,
+      "popularity": 225390,
       "favourites": 4369,
       "trailer": "udDIkl6z8X0",
       "studios": [
@@ -33830,7 +33830,7 @@
         "day": 11
       },
       "averageScore": 73,
-      "popularity": 219736,
+      "popularity": 219792,
       "favourites": 4470,
       "trailer": "HSvlOPMLQFQ",
       "studios": [
@@ -33972,7 +33972,7 @@
         "day": 8
       },
       "averageScore": 75,
-      "popularity": 219629,
+      "popularity": 219677,
       "favourites": 5051,
       "trailer": "J_MhrnxDwUA",
       "studios": [
@@ -34294,7 +34294,7 @@
         "day": 6
       },
       "averageScore": 68,
-      "popularity": 218846,
+      "popularity": 218898,
       "favourites": 4007,
       "trailer": null,
       "studios": [
@@ -35409,7 +35409,7 @@
         "day": 10
       },
       "averageScore": 77,
-      "popularity": 216832,
+      "popularity": 216871,
       "favourites": 7822,
       "trailer": "CKnXq1qaTG0",
       "studios": [
@@ -35757,7 +35757,7 @@
         "day": 6
       },
       "averageScore": 65,
-      "popularity": 215392,
+      "popularity": 215449,
       "favourites": 3143,
       "trailer": "gMZDGyihTyc",
       "studios": [
@@ -36550,7 +36550,7 @@
         "day": 5
       },
       "averageScore": 76,
-      "popularity": 214853,
+      "popularity": 214889,
       "favourites": 4196,
       "trailer": "IG1VhJ75r8k",
       "studios": [
@@ -37289,6 +37289,174 @@
       "nextAiring": null
     },
     {
+      "id": 16592,
+      "title": {
+        "english": "Danganronpa: The Animation",
+        "romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
+        "native": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation"
+      },
+      "description": "A group of 15 elite high school students are gathered at a very special, high class high school. To graduate from this high school essentially means you'll succeed in life, but graduating is very difficult. The school is presided over by a bear called Monokuma, and he explains to them that their graduation hinges around committing a murder. The only way to graduate is to kill one of your classmates and get away with it. If the other classmates discover the identity of the killer, the killer is the only one executed. However, if they fail to catch the killer, only the killer graduates and the others are annihilated. Which of the 15 will survive the bloodbath to come?\n",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16592-mFn1gfMXlKtw.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16592-tcRpZFHvgZjb.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b63845-43rWjycWhYFF.png",
+          "character": "Kyouko Kirigiri",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png",
+          "character": "Junko Enoshima",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg",
+          "character": "Celestia Ludenberg",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b63851-PnzyOWEPVPHD.jpg",
+          "character": "Makoto Naegi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73235-74a7Y1lzFnDv.jpg",
+          "character": "Monokuma",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65529-oy5acbdyUy4r.jpg",
+          "character": "Touko Fukawa",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65541-Nha4B0vJIkFA.png",
+          "character": "Byakuya Togami",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66573-a2VZm5cfacP5.png",
+          "character": "Chihiro Fujisaki",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65531-zem6Bi2RRK2Q.jpg",
+          "character": "Aoi Asahina",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b75434-KFXsL2xG9Ckm.jpg",
+          "character": "Sakura Oogami",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b63849-f6gLkSTqDuEG.png",
+          "character": "Sayaka Maizono",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65543-eyfH7fv9FMw9.jpg",
+          "character": "Kiyotaka Ishimaru",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65539-zX1oS4BXtgma.jpg",
+          "character": "Mondo Oowada",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65533-TTk8RyEQaoSe.jpg",
+          "character": "Yasuhiro Hagakure",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65537-SwnvmZnRJlTa.jpg",
+          "character": "Leon Kuwata",
+          "role": "MAIN"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/4/51463l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/54661l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/2/54683l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/4/57689l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/5/59107l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1097/99251l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1580/114693l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "SUMMER",
+      "seasonYear": 2013,
+      "startDate": {
+        "year": 2013,
+        "month": 6,
+        "day": 23
+      },
+      "averageScore": 68,
+      "popularity": 212340,
+      "favourites": 3128,
+      "trailer": "TmobY-jCjy4",
+      "studios": [
+        "Lerche"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "http://www.hulu.com/danganronpa-the-animation"
+        },
+        {
+          "type": "INFO",
+          "url": "http://www.nbcuni.co.jp/rondorobe/anime/danganronpa/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2oW4bATqEoAh2xpGMTSXKM"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/danganronpa-the-animation"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 437,
       "title": {
         "english": "Perfect Blue",
@@ -37454,174 +37622,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.crunchyroll.com/fr/series/GZJH3D8V3/perfect-blue"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 16592,
-      "title": {
-        "english": "Danganronpa: The Animation",
-        "romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
-        "native": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation"
-      },
-      "description": "A group of 15 elite high school students are gathered at a very special, high class high school. To graduate from this high school essentially means you'll succeed in life, but graduating is very difficult. The school is presided over by a bear called Monokuma, and he explains to them that their graduation hinges around committing a murder. The only way to graduate is to kill one of your classmates and get away with it. If the other classmates discover the identity of the killer, the killer is the only one executed. However, if they fail to catch the killer, only the killer graduates and the others are annihilated. Which of the 15 will survive the bloodbath to come?\n",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16592-mFn1gfMXlKtw.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16592-tcRpZFHvgZjb.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b63845-43rWjycWhYFF.png",
-          "character": "Kyouko Kirigiri",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png",
-          "character": "Junko Enoshima",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg",
-          "character": "Celestia Ludenberg",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b63851-PnzyOWEPVPHD.jpg",
-          "character": "Makoto Naegi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73235-74a7Y1lzFnDv.jpg",
-          "character": "Monokuma",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65529-oy5acbdyUy4r.jpg",
-          "character": "Touko Fukawa",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65541-Nha4B0vJIkFA.png",
-          "character": "Byakuya Togami",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b66573-a2VZm5cfacP5.png",
-          "character": "Chihiro Fujisaki",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65531-zem6Bi2RRK2Q.jpg",
-          "character": "Aoi Asahina",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b75434-KFXsL2xG9Ckm.jpg",
-          "character": "Sakura Oogami",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b63849-f6gLkSTqDuEG.png",
-          "character": "Sayaka Maizono",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65543-eyfH7fv9FMw9.jpg",
-          "character": "Kiyotaka Ishimaru",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65539-zX1oS4BXtgma.jpg",
-          "character": "Mondo Oowada",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65533-TTk8RyEQaoSe.jpg",
-          "character": "Yasuhiro Hagakure",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65537-SwnvmZnRJlTa.jpg",
-          "character": "Leon Kuwata",
-          "role": "MAIN"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/4/51463l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/12/54661l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/2/54683l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/4/57689l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/5/59107l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1097/99251l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1580/114693l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Psychological",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "SUMMER",
-      "seasonYear": 2013,
-      "startDate": {
-        "year": 2013,
-        "month": 6,
-        "day": 23
-      },
-      "averageScore": 68,
-      "popularity": 212289,
-      "favourites": 3128,
-      "trailer": "TmobY-jCjy4",
-      "studios": [
-        "Lerche"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "http://www.hulu.com/danganronpa-the-animation"
-        },
-        {
-          "type": "INFO",
-          "url": "http://www.nbcuni.co.jp/rondorobe/anime/danganronpa/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2oW4bATqEoAh2xpGMTSXKM"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/danganronpa-the-animation"
         }
       ],
       "nextAiring": null
@@ -38379,7 +38379,7 @@
         "day": 2
       },
       "averageScore": 81,
-      "popularity": 208648,
+      "popularity": 208697,
       "favourites": 7832,
       "trailer": "WUMAeUwxsCk",
       "studios": [
@@ -38700,7 +38700,7 @@
         "day": 5
       },
       "averageScore": 74,
-      "popularity": 207476,
+      "popularity": 207515,
       "favourites": 4778,
       "trailer": "2l4u3FEBwPs",
       "studios": [
@@ -39025,7 +39025,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 206377,
+      "popularity": 206404,
       "favourites": 5189,
       "trailer": "-tHbKBCTDFQ",
       "studios": [
@@ -40517,7 +40517,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 199926,
+      "popularity": 199974,
       "favourites": 6330,
       "trailer": "cj6NGP9nNwI",
       "studios": [
@@ -40928,7 +40928,7 @@
         "day": 13
       },
       "averageScore": 75,
-      "popularity": 197341,
+      "popularity": 197401,
       "favourites": 3612,
       "trailer": "NL2TRub294w",
       "studios": [
@@ -41117,7 +41117,7 @@
         "day": 10
       },
       "averageScore": 82,
-      "popularity": 197270,
+      "popularity": 197315,
       "favourites": 7816,
       "trailer": "M0CsMI-qqmI",
       "studios": [
@@ -41283,7 +41283,7 @@
         "day": 15
       },
       "averageScore": 84,
-      "popularity": 196954,
+      "popularity": 197018,
       "favourites": 8912,
       "trailer": "Tr1ahorojPg",
       "studios": [
