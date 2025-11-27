@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-26T18:19:28.627346",
+    "updatedAt": "2025-11-27T00:42:06.209562",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -169,7 +169,7 @@
       },
       "averageScore": 85,
       "popularity": 923138,
-      "favourites": 55764,
+      "favourites": 55763,
       "trailer": "LHtdKWJdif4\t",
       "studios": [
         "WIT STUDIO"
@@ -359,7 +359,7 @@
       },
       "averageScore": 82,
       "popularity": 876899,
-      "favourites": 42063,
+      "favourites": 42077,
       "trailer": "6vMuWuWlW4I",
       "studios": [
         "ufotable"
@@ -536,7 +536,7 @@
       },
       "averageScore": 84,
       "popularity": 840763,
-      "favourites": 44157,
+      "favourites": 44158,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
         "MADHOUSE"
@@ -723,7 +723,7 @@
       },
       "averageScore": 84,
       "popularity": 831521,
-      "favourites": 49300,
+      "favourites": 49308,
       "trailer": "pkKu9hLT-t8",
       "studios": [
         "MAPPA"
@@ -915,8 +915,8 @@
         "day": 3
       },
       "averageScore": 76,
-      "popularity": 777648,
-      "favourites": 20698,
+      "popularity": 777901,
+      "favourites": 20699,
       "trailer": "AhqVltWDqFA",
       "studios": [
         "bones"
@@ -1101,7 +1101,7 @@
       },
       "averageScore": 89,
       "popularity": 742982,
-      "favourites": 69814,
+      "favourites": 69836,
       "trailer": "d6kBeJjTGnY",
       "studios": [
         "MADHOUSE"
@@ -1272,7 +1272,7 @@
       },
       "averageScore": 83,
       "popularity": 689728,
-      "favourites": 24866,
+      "favourites": 24879,
       "trailer": "RzmFKUDOUgw",
       "studios": [
         "MADHOUSE"
@@ -1450,7 +1450,7 @@
       },
       "averageScore": 76,
       "popularity": 658108,
-      "favourites": 18099,
+      "favourites": 18102,
       "trailer": "XfQUjYsVBrE",
       "studios": [
         "Studio Pierrot"
@@ -1601,7 +1601,7 @@
       },
       "averageScore": 84,
       "popularity": 651011,
-      "favourites": 14354,
+      "favourites": 14356,
       "trailer": "zLaVP8IhIuc",
       "studios": [
         "WIT STUDIO"
@@ -1795,8 +1795,8 @@
         "day": 20
       },
       "averageScore": 88,
-      "popularity": 643138,
-      "favourites": 89649,
+      "popularity": 643323,
+      "favourites": 89678,
       "trailer": null,
       "studios": [
         "Toei Animation"
@@ -2005,7 +2005,7 @@
       },
       "averageScore": 90,
       "popularity": 641620,
-      "favourites": 52668,
+      "favourites": 52678,
       "trailer": null,
       "studios": [
         "bones"
@@ -2180,7 +2180,7 @@
       },
       "averageScore": 69,
       "popularity": 639980,
-      "favourites": 18264,
+      "favourites": 18270,
       "trailer": "C8Jl_-b7ju0",
       "studios": [
         "A-1 Pictures"
@@ -2371,8 +2371,8 @@
         "day": 3
       },
       "averageScore": 80,
-      "popularity": 638917,
-      "favourites": 28741,
+      "popularity": 639097,
+      "favourites": 28747,
       "trailer": "-G9BqkgZXRA",
       "studios": [
         "Studio Pierrot"
@@ -2551,8 +2551,8 @@
         "day": 26
       },
       "averageScore": 85,
-      "popularity": 629023,
-      "favourites": 34356,
+      "popularity": 629219,
+      "favourites": 34346,
       "trailer": "k4xGqY5IDBE",
       "studios": [
         "CoMix Wave"
@@ -2722,7 +2722,7 @@
       },
       "averageScore": 88,
       "popularity": 620257,
-      "favourites": 44637,
+      "favourites": 44638,
       "trailer": "Sy4bPCuzfiQ",
       "studios": [
         "Kyoto Animation"
@@ -2891,7 +2891,7 @@
       },
       "averageScore": 85,
       "popularity": 607999,
-      "favourites": 14333,
+      "favourites": 14334,
       "trailer": "EHzBhrncmac",
       "studios": [
         "WIT STUDIO"
@@ -3083,8 +3083,8 @@
         "day": 1
       },
       "averageScore": 79,
-      "popularity": 591006,
-      "favourites": 8586,
+      "popularity": 591218,
+      "favourites": 8585,
       "trailer": "tEPneR3KFK8",
       "studios": [
         "bones"
@@ -3251,7 +3251,7 @@
       },
       "averageScore": 83,
       "popularity": 574760,
-      "favourites": 17690,
+      "favourites": 17688,
       "trailer": "ApLudqucq-s",
       "studios": [
         "CloverWorks"
@@ -3445,7 +3445,7 @@
       },
       "averageScore": 86,
       "popularity": 567298,
-      "favourites": 19527,
+      "favourites": 19530,
       "trailer": "MUCN-JwUvbY",
       "studios": [
         "MAPPA"
@@ -3614,7 +3614,7 @@
       },
       "averageScore": 79,
       "popularity": 561605,
-      "favourites": 16234,
+      "favourites": 16233,
       "trailer": "vAuTJFzjNLs",
       "studios": [
         "Lerche"
@@ -3767,7 +3767,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 552377,
+      "popularity": 552534,
       "favourites": 28058,
       "trailer": "mV39saBlBLI",
       "studios": [
@@ -3952,7 +3952,7 @@
       },
       "averageScore": 84,
       "popularity": 542371,
-      "favourites": 26802,
+      "favourites": 26805,
       "trailer": "3aL0gDZtFbE",
       "studios": [
         "A-1 Pictures"
@@ -4084,7 +4084,7 @@
       },
       "averageScore": 81,
       "popularity": 541840,
-      "favourites": 19869,
+      "favourites": 19870,
       "trailer": "TZzMOC-4k6M",
       "studios": [
         "A-1 Pictures"
@@ -4236,7 +4236,7 @@
       },
       "averageScore": 79,
       "popularity": 541151,
-      "favourites": 8169,
+      "favourites": 8172,
       "trailer": "JezE6iZUWxo",
       "studios": [
         "bones"
@@ -4428,7 +4428,7 @@
       },
       "averageScore": 82,
       "popularity": 540474,
-      "favourites": 33168,
+      "favourites": 33183,
       "trailer": null,
       "studios": [
         "Studio Pierrot"
@@ -4607,7 +4607,7 @@
       },
       "averageScore": 89,
       "popularity": 540259,
-      "favourites": 23169,
+      "favourites": 23171,
       "trailer": "fJm2nD3cv_4",
       "studios": [
         "WIT STUDIO"
@@ -4775,7 +4775,7 @@
       },
       "averageScore": 81,
       "popularity": 535068,
-      "favourites": 27069,
+      "favourites": 27072,
       "trailer": "vFfXjuVA1Jk",
       "studios": [
         "WHITE FOX"
@@ -4941,7 +4941,7 @@
       },
       "averageScore": 89,
       "popularity": 527173,
-      "favourites": 44146,
+      "favourites": 44153,
       "trailer": "27OZc-ku6is",
       "studios": [
         "WHITE FOX"
@@ -5117,7 +5117,7 @@
       },
       "averageScore": 83,
       "popularity": 524752,
-      "favourites": 27953,
+      "favourites": 27962,
       "trailer": "9kLRkH9zC5k",
       "studios": [
         "Production I.G"
@@ -5288,8 +5288,8 @@
         "day": 12
       },
       "averageScore": 83,
-      "popularity": 516021,
-      "favourites": 27767,
+      "popularity": 516293,
+      "favourites": 27783,
       "trailer": "v4yLeNt-kCU",
       "studios": [
         "MAPPA"
@@ -5450,7 +5450,7 @@
       },
       "averageScore": 81,
       "popularity": 507026,
-      "favourites": 24973,
+      "favourites": 24969,
       "trailer": "o0TZj_d3Yfg",
       "studios": [
         "CloverWorks"
@@ -5640,7 +5640,7 @@
       },
       "averageScore": 79,
       "popularity": 503857,
-      "favourites": 23686,
+      "favourites": 23694,
       "trailer": "vUjAxk1qYzQ",
       "studios": [
         "Studio Pierrot"
@@ -5791,7 +5791,7 @@
       },
       "averageScore": 77,
       "popularity": 491897,
-      "favourites": 13411,
+      "favourites": 13413,
       "trailer": "IQnnwUXd_0U",
       "studios": [
         "bones"
@@ -5953,7 +5953,7 @@
       },
       "averageScore": 83,
       "popularity": 491791,
-      "favourites": 23669,
+      "favourites": 23673,
       "trailer": "IwpJJiQkZzI",
       "studios": [
         "A-1 Pictures"
@@ -6104,7 +6104,7 @@
       },
       "averageScore": 77,
       "popularity": 491704,
-      "favourites": 15489,
+      "favourites": 15496,
       "trailer": "TqMCYf1FibU",
       "studios": [
         "MADHOUSE"
@@ -6285,7 +6285,7 @@
       },
       "averageScore": 81,
       "popularity": 487687,
-      "favourites": 19412,
+      "favourites": 19415,
       "trailer": "7YZzYeBartM",
       "studios": [
         "TMS Entertainment"
@@ -6672,7 +6672,7 @@
       },
       "averageScore": 77,
       "popularity": 485364,
-      "favourites": 16299,
+      "favourites": 16302,
       "trailer": "ya570uUgQNc",
       "studios": [
         "J.C.STAFF"
@@ -6836,8 +6836,8 @@
         "day": 11
       },
       "averageScore": 85,
-      "popularity": 485112,
-      "favourites": 30239,
+      "popularity": 485264,
+      "favourites": 30253,
       "trailer": "_grmduuECm4",
       "studios": [
         "Kyoto Animation"
@@ -7205,7 +7205,7 @@
       },
       "averageScore": 78,
       "popularity": 476933,
-      "favourites": 7714,
+      "favourites": 7719,
       "trailer": "5VQwDC5jqzQ",
       "studios": [
         "bones"
@@ -7366,7 +7366,7 @@
       },
       "averageScore": 73,
       "popularity": 476504,
-      "favourites": 8010,
+      "favourites": 8014,
       "trailer": "wxcvbL6o55M",
       "studios": [
         "A-1 Pictures"
@@ -7539,7 +7539,7 @@
       },
       "averageScore": 87,
       "popularity": 460952,
-      "favourites": 29664,
+      "favourites": 29684,
       "trailer": "5xqEp7R9SYM",
       "studios": [
         "WIT STUDIO"
@@ -7720,7 +7720,7 @@
       },
       "averageScore": 79,
       "popularity": 458302,
-      "favourites": 18988,
+      "favourites": 18990,
       "trailer": "NU87y-38glA",
       "studios": [
         "Studio DEEN"
@@ -7875,8 +7875,8 @@
         "day": 10
       },
       "averageScore": 81,
-      "popularity": 455556,
-      "favourites": 24649,
+      "popularity": 455695,
+      "favourites": 24648,
       "trailer": "tryurXgGqkI",
       "studios": [
         "CloverWorks"
@@ -8056,7 +8056,7 @@
       },
       "averageScore": 81,
       "popularity": 449764,
-      "favourites": 14609,
+      "favourites": 14614,
       "trailer": "2ilVWE9uw88",
       "studios": [
         "MADHOUSE"
@@ -8234,7 +8234,7 @@
       },
       "averageScore": 84,
       "popularity": 449555,
-      "favourites": 11009,
+      "favourites": 11015,
       "trailer": "23riEOmDOgM",
       "studios": [
         "ufotable"
@@ -8413,7 +8413,7 @@
       },
       "averageScore": 68,
       "popularity": 442577,
-      "favourites": 13700,
+      "favourites": 13698,
       "trailer": "KNIS0mVawhc",
       "studios": [
         "TRIGGER",
@@ -8594,8 +8594,8 @@
         "day": 5
       },
       "averageScore": 79,
-      "popularity": 434836,
-      "favourites": 23696,
+      "popularity": 435001,
+      "favourites": 23707,
       "trailer": "0c4IoCA5fY0",
       "studios": [
         "Studio Pierrot"
@@ -8794,7 +8794,7 @@
       },
       "averageScore": 85,
       "popularity": 433198,
-      "favourites": 25161,
+      "favourites": 25172,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
         "Sunrise"
@@ -8981,8 +8981,8 @@
         "day": 3
       },
       "averageScore": 83,
-      "popularity": 430561,
-      "favourites": 32592,
+      "popularity": 430690,
+      "favourites": 32586,
       "trailer": "kOH2_8MkgZY",
       "studios": [
         "Gainax",
@@ -9136,8 +9136,8 @@
         "day": 20
       },
       "averageScore": 86,
-      "popularity": 427922,
-      "favourites": 17087,
+      "popularity": 428049,
+      "favourites": 17089,
       "trailer": "ByXuk9QqQkk",
       "studios": [
         "Studio Ghibli"
@@ -9281,7 +9281,7 @@
       },
       "averageScore": 80,
       "popularity": 424720,
-      "favourites": 12084,
+      "favourites": 12086,
       "trailer": "n9lr8jqI-24",
       "studios": [
         "MADHOUSE"
@@ -9451,7 +9451,7 @@
       },
       "averageScore": 72,
       "popularity": 421613,
-      "favourites": 6303,
+      "favourites": 6306,
       "trailer": "0HHNeeXrysA",
       "studios": [
         "A-1 Pictures"
@@ -9603,7 +9603,7 @@
       },
       "averageScore": 77,
       "popularity": 420755,
-      "favourites": 13719,
+      "favourites": 13722,
       "trailer": null,
       "studios": [
         "David Production"
@@ -9940,7 +9940,7 @@
       },
       "averageScore": 74,
       "popularity": 418890,
-      "favourites": 6419,
+      "favourites": 6420,
       "trailer": "NezvLw2gRAY",
       "studios": [
         "J.C.STAFF"
@@ -10145,8 +10145,8 @@
         "day": 3
       },
       "averageScore": 86,
-      "popularity": 416834,
-      "favourites": 25513,
+      "popularity": 416954,
+      "favourites": 25520,
       "trailer": "OhNwckCLzis",
       "studios": [
         "Sunrise"
@@ -10305,7 +10305,7 @@
       },
       "averageScore": 86,
       "popularity": 413730,
-      "favourites": 14311,
+      "favourites": 14315,
       "trailer": "XoJCOAU_72U",
       "studios": [
         "ufotable"
@@ -10459,7 +10459,7 @@
       },
       "averageScore": 70,
       "popularity": 413505,
-      "favourites": 6542,
+      "favourites": 6545,
       "trailer": "v2xJDuM9ZDM",
       "studios": [
         "MAPPA"
@@ -10613,7 +10613,7 @@
       },
       "averageScore": 65,
       "popularity": 408223,
-      "favourites": 4961,
+      "favourites": 4962,
       "trailer": "K0Ghr_rbJmQ",
       "studios": [
         "A-1 Pictures"
@@ -10964,7 +10964,7 @@
       },
       "averageScore": 77,
       "popularity": 403430,
-      "favourites": 11451,
+      "favourites": 11452,
       "trailer": null,
       "studios": [
         "P.A.WORKS"
@@ -11118,7 +11118,7 @@
       },
       "averageScore": 87,
       "popularity": 402382,
-      "favourites": 20081,
+      "favourites": 20079,
       "trailer": "Pr43Sayk37s",
       "studios": [
         "bones"
@@ -11291,8 +11291,8 @@
         "day": 11
       },
       "averageScore": 76,
-      "popularity": 399333,
-      "favourites": 12477,
+      "popularity": 399410,
+      "favourites": 12479,
       "trailer": "nYQUVwwD-H4",
       "studios": [
         "LIDENFILMS"
@@ -11473,7 +11473,7 @@
       },
       "averageScore": 80,
       "popularity": 393601,
-      "favourites": 18077,
+      "favourites": 18087,
       "trailer": "uOzwqb74K34",
       "studios": [
         "8-bit"
@@ -11663,7 +11663,7 @@
       },
       "averageScore": 68,
       "popularity": 390662,
-      "favourites": 7181,
+      "favourites": 7183,
       "trailer": "KfznTm8mJA4",
       "studios": [
         "Asread"
@@ -11963,7 +11963,7 @@
       },
       "averageScore": 87,
       "popularity": 389092,
-      "favourites": 18404,
+      "favourites": 18403,
       "trailer": "O6qVieflwqs",
       "studios": [
         "MAPPA"
@@ -12139,7 +12139,7 @@
       },
       "averageScore": 75,
       "popularity": 383338,
-      "favourites": 11717,
+      "favourites": 11718,
       "trailer": "hfmRxXVvFYA",
       "studios": [
         "P.A.WORKS"
@@ -12462,7 +12462,7 @@
       },
       "averageScore": 76,
       "popularity": 380330,
-      "favourites": 12717,
+      "favourites": 12719,
       "trailer": "iYsx6w5PNno",
       "studios": [
         "Lerche"
@@ -12626,7 +12626,7 @@
       },
       "averageScore": 77,
       "popularity": 378031,
-      "favourites": 13305,
+      "favourites": 13310,
       "trailer": "GGsohezPRXU",
       "studios": [
         "bones"
@@ -12803,7 +12803,7 @@
       },
       "averageScore": 79,
       "popularity": 376966,
-      "favourites": 13736,
+      "favourites": 13740,
       "trailer": "-ClQ7zkHtXY",
       "studios": [
         "TRIGGER"
@@ -12964,8 +12964,8 @@
         "day": 10
       },
       "averageScore": 86,
-      "popularity": 375264,
-      "favourites": 12140,
+      "popularity": 375404,
+      "favourites": 12143,
       "trailer": "EIVVnLlhzr0",
       "studios": [
         "MAPPA"
@@ -13129,7 +13129,7 @@
       },
       "averageScore": 78,
       "popularity": 367844,
-      "favourites": 9236,
+      "favourites": 9238,
       "trailer": "Ei7r95k5d_Q",
       "studios": [
         "J.C.STAFF"
@@ -13295,7 +13295,7 @@
       },
       "averageScore": 66,
       "popularity": 366408,
-      "favourites": 4657,
+      "favourites": 4655,
       "trailer": null,
       "studios": [
         "Studio Pierrot"
@@ -13818,7 +13818,7 @@
       },
       "averageScore": 85,
       "popularity": 363169,
-      "favourites": 9930,
+      "favourites": 9935,
       "trailer": "qK_ASmBoiz0",
       "studios": [
         "Production I.G"
@@ -13984,7 +13984,7 @@
       },
       "averageScore": 85,
       "popularity": 360699,
-      "favourites": 18764,
+      "favourites": 18765,
       "trailer": "AQbaZeby2zA",
       "studios": [
         "Kinema Citrus"
@@ -14311,8 +14311,8 @@
         "day": 24
       },
       "averageScore": 83,
-      "popularity": 357318,
-      "favourites": 9685,
+      "popularity": 357494,
+      "favourites": 9686,
       "trailer": "2docezZl574",
       "studios": [
         "MAPPA"
@@ -14493,7 +14493,7 @@
       },
       "averageScore": 91,
       "popularity": 355797,
-      "favourites": 42789,
+      "favourites": 42821,
       "trailer": "qgQunxD0qCk",
       "studios": [
         "MADHOUSE"
@@ -14666,7 +14666,7 @@
       },
       "averageScore": 76,
       "popularity": 354777,
-      "favourites": 11779,
+      "favourites": 11783,
       "trailer": "RuNAPPcjDr4",
       "studios": [
         "MADHOUSE"
@@ -14821,7 +14821,7 @@
       },
       "averageScore": 73,
       "popularity": 353327,
-      "favourites": 7496,
+      "favourites": 7499,
       "trailer": "sbcwRt0y4kY",
       "studios": [
         "J.C.STAFF"
@@ -14991,7 +14991,7 @@
       },
       "averageScore": 82,
       "popularity": 350334,
-      "favourites": 17104,
+      "favourites": 17109,
       "trailer": "HkIKAnwLZCw",
       "studios": [
         "A-1 Pictures"
@@ -15162,7 +15162,7 @@
       },
       "averageScore": 70,
       "popularity": 348073,
-      "favourites": 6123,
+      "favourites": 6128,
       "trailer": "12tJBLJ9uQA",
       "studios": [
         "P.A.WORKS"
@@ -15300,8 +15300,8 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 346401,
-      "favourites": 15711,
+      "popularity": 346545,
+      "favourites": 15713,
       "trailer": "8oveGY6h6T8",
       "studios": [
         "CloverWorks"
@@ -15479,7 +15479,7 @@
       },
       "averageScore": 77,
       "popularity": 339923,
-      "favourites": 11108,
+      "favourites": 11112,
       "trailer": null,
       "studios": [
         "bones"
@@ -15643,7 +15643,7 @@
       },
       "averageScore": 71,
       "popularity": 339461,
-      "favourites": 11144,
+      "favourites": 11148,
       "trailer": "mAAKPx-ndAg",
       "studios": [
         "Satelight",
@@ -15803,8 +15803,8 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 336437,
-      "favourites": 7963,
+      "popularity": 336535,
+      "favourites": 7962,
       "trailer": "9jVxMt845AY",
       "studios": [
         "Studio DEEN"
@@ -16123,7 +16123,7 @@
       },
       "averageScore": 81,
       "popularity": 332604,
-      "favourites": 12985,
+      "favourites": 12990,
       "trailer": "CPG64L4bSkI",
       "studios": [
         "MAPPA",
@@ -16285,7 +16285,7 @@
       },
       "averageScore": 83,
       "popularity": 331926,
-      "favourites": 9614,
+      "favourites": 9610,
       "trailer": "CQZR3XNqDwo",
       "studios": [
         "Lerche"
@@ -16473,7 +16473,7 @@
       },
       "averageScore": 85,
       "popularity": 331880,
-      "favourites": 22676,
+      "favourites": 22673,
       "trailer": "oXkkMhCuCMg",
       "studios": [
         "Gainax"
@@ -16618,8 +16618,8 @@
         "day": 8
       },
       "averageScore": 87,
-      "popularity": 330116,
-      "favourites": 10646,
+      "popularity": 330176,
+      "favourites": 10648,
       "trailer": "kJfU5boNUIE",
       "studios": [
         "Production I.G"
@@ -16772,7 +16772,7 @@
       },
       "averageScore": 83,
       "popularity": 324540,
-      "favourites": 9687,
+      "favourites": 9681,
       "trailer": "P_YtFPg9tNE",
       "studios": [
         "WHITE FOX"
@@ -17145,7 +17145,7 @@
       },
       "averageScore": 87,
       "popularity": 322125,
-      "favourites": 17368,
+      "favourites": 17375,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
         "Sunrise"
@@ -17266,7 +17266,7 @@
       },
       "averageScore": 84,
       "popularity": 320600,
-      "favourites": 15538,
+      "favourites": 15535,
       "trailer": "MmoBvmJA9XI",
       "studios": [
         "Studio VOLN"
@@ -17424,8 +17424,8 @@
         "day": 20
       },
       "averageScore": 85,
-      "popularity": 320033,
-      "favourites": 17284,
+      "popularity": 320146,
+      "favourites": 17298,
       "trailer": "iwROgK94zcM",
       "studios": [
         "Studio Ghibli"
@@ -17602,7 +17602,7 @@
       },
       "averageScore": 79,
       "popularity": 317461,
-      "favourites": 11317,
+      "favourites": 11322,
       "trailer": "9nfs-qYVv0o",
       "studios": [
         "Kyoto Animation"
@@ -17965,7 +17965,7 @@
       },
       "averageScore": 76,
       "popularity": 315393,
-      "favourites": 12435,
+      "favourites": 12437,
       "trailer": "g4LjvxtFieE",
       "studios": [
         "Science SARU"
@@ -18104,7 +18104,7 @@
       },
       "averageScore": 81,
       "popularity": 313177,
-      "favourites": 10615,
+      "favourites": 10617,
       "trailer": "Q6iK6DjV_iE",
       "studios": [
         "CoMix Wave"
@@ -18280,7 +18280,7 @@
       },
       "averageScore": 75,
       "popularity": 313114,
-      "favourites": 8159,
+      "favourites": 8162,
       "trailer": "ud0fDdXHnYc",
       "studios": [
         "Kyoto Animation"
@@ -18435,8 +18435,8 @@
         "day": 4
       },
       "averageScore": 83,
-      "popularity": 312660,
-      "favourites": 16128,
+      "popularity": 312767,
+      "favourites": 16130,
       "trailer": null,
       "studios": [
         "J.C.STAFF",
@@ -18601,7 +18601,7 @@
       },
       "averageScore": 81,
       "popularity": 309568,
-      "favourites": 8547,
+      "favourites": 8550,
       "trailer": "a9tq0aS5Zu8",
       "studios": [
         "ufotable"
@@ -18630,6 +18630,158 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-a92c9b0f-1aa2-42f4-9b73-29d0d51e27ba"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 129874,
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+        "native": "鬼滅の刃 無限列車編 (TV)"
+      },
+      "description": "In Demon Slayer: Kimetsu no Yaiba Mugen Train Arc, Tanjiro Kamado and his fellow Demon Slayer members embark on a mission aboard the Infinity Train. Their new mission is to investigate a series of mysterious disappearances, carried out by a demon that has been terrorizing passengers and killing the demon slayers who oppose it.\n<br><br>\n<i>Note: The first episode is entirely anime original. Episodes 2-7 are a re-edited version of the movie featuring new scenes and music.</i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129874-3ipZzS50i9Ta.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
+          "character": "Tanjirou Kamado",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
+          "character": "Nezuko Kamado",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
+          "character": "Inosuke Hashibira",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
+          "character": "Zenitsu Agatsuma",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png",
+          "character": "Kyoujurou Rengoku",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png",
+          "character": "Giyuu Tomioka",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png",
+          "character": "Shinobu Kochou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png",
+          "character": "Tengen Uzui",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
+          "character": "Mitsuri Kanroji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
+          "character": "Muichirou Tokitou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
+          "character": "Akaza",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
+          "character": "Obanai Iguro",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png",
+          "character": "Sanemi Shinazugawa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137778-H4Uzb9cSCvZ6.jpg",
+          "character": "Gyoumei Himejima",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139735-o4G63Po27zND.png",
+          "character": "Gyuutarou",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1201/118022l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 7,
+      "season": "FALL",
+      "seasonYear": 2021,
+      "startDate": {
+        "year": 2021,
+        "month": 10,
+        "day": 10
+      },
+      "averageScore": 82,
+      "popularity": 308944,
+      "favourites": 5733,
+      "trailer": "t6MXHczeEqc",
+      "studios": [
+        "ufotable"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://crunchyroll.com/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/us/title/81091393"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/play/1023002"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/1imq8t95p2d"
+        },
+        {
+          "type": "INFO",
+          "url": "https://kimetsu.com/anime/mugenresshahen_tv/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-mugen-train-arc"
         }
       ],
       "nextAiring": null
@@ -18778,7 +18930,7 @@
       },
       "averageScore": 82,
       "popularity": 308919,
-      "favourites": 15429,
+      "favourites": 15430,
       "trailer": "X63_YYZjKxA",
       "studios": [
         "Shaft"
@@ -18795,158 +18947,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.netflix.com/title/80060347"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 129874,
-      "title": {
-        "english": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
-        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
-        "native": "鬼滅の刃 無限列車編 (TV)"
-      },
-      "description": "In Demon Slayer: Kimetsu no Yaiba Mugen Train Arc, Tanjiro Kamado and his fellow Demon Slayer members embark on a mission aboard the Infinity Train. Their new mission is to investigate a series of mysterious disappearances, carried out by a demon that has been terrorizing passengers and killing the demon slayers who oppose it.\n<br><br>\n<i>Note: The first episode is entirely anime original. Episodes 2-7 are a re-edited version of the movie featuring new scenes and music.</i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129874-3ipZzS50i9Ta.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
-          "character": "Tanjirou Kamado",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
-          "character": "Nezuko Kamado",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
-          "character": "Inosuke Hashibira",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
-          "character": "Zenitsu Agatsuma",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129133-VlTPowwt68rJ.png",
-          "character": "Kyoujurou Rengoku",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png",
-          "character": "Giyuu Tomioka",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png",
-          "character": "Shinobu Kochou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png",
-          "character": "Tengen Uzui",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
-          "character": "Mitsuri Kanroji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
-          "character": "Muichirou Tokitou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
-          "character": "Akaza",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
-          "character": "Obanai Iguro",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-O1iYrnGLB71l.png",
-          "character": "Sanemi Shinazugawa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137778-H4Uzb9cSCvZ6.jpg",
-          "character": "Gyoumei Himejima",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b139735-o4G63Po27zND.png",
-          "character": "Gyuutarou",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1201/118022l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Mystery",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 7,
-      "season": "FALL",
-      "seasonYear": 2021,
-      "startDate": {
-        "year": 2021,
-        "month": 10,
-        "day": 10
-      },
-      "averageScore": 82,
-      "popularity": 308823,
-      "favourites": 5728,
-      "trailer": "t6MXHczeEqc",
-      "studios": [
-        "ufotable"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://crunchyroll.com/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/us/title/81091393"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/play/1023002"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/1imq8t95p2d"
-        },
-        {
-          "type": "INFO",
-          "url": "https://kimetsu.com/anime/mugenresshahen_tv/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-mugen-train-arc"
         }
       ],
       "nextAiring": null
@@ -19097,7 +19097,7 @@
       },
       "averageScore": 79,
       "popularity": 304322,
-      "favourites": 10296,
+      "favourites": 10301,
       "trailer": null,
       "studios": [
         "David Production"
@@ -19444,8 +19444,8 @@
         "day": 12
       },
       "averageScore": 77,
-      "popularity": 300993,
-      "favourites": 8959,
+      "popularity": 301067,
+      "favourites": 8955,
       "trailer": "okBHQWnYImg",
       "studios": [
         "Kyoto Animation"
@@ -19614,8 +19614,8 @@
         "day": 13
       },
       "averageScore": 85,
-      "popularity": 300701,
-      "favourites": 22353,
+      "popularity": 300861,
+      "favourites": 22367,
       "trailer": "ax5YUmkWf_Y",
       "studios": [
         "TRIGGER"
@@ -19955,7 +19955,7 @@
       },
       "averageScore": 81,
       "popularity": 296703,
-      "favourites": 6043,
+      "favourites": 6042,
       "trailer": "QqgqrrFbw3g",
       "studios": [
         "TMS Entertainment"
@@ -20122,7 +20122,7 @@
       },
       "averageScore": 84,
       "popularity": 296340,
-      "favourites": 15989,
+      "favourites": 16001,
       "trailer": "vnRmIBoyfBM",
       "studios": [
         "Science SARU"
@@ -20274,7 +20274,7 @@
       },
       "averageScore": 78,
       "popularity": 292591,
-      "favourites": 9631,
+      "favourites": 9633,
       "trailer": "FnM1TDuG9f4",
       "studios": [
         "A-1 Pictures"
@@ -20423,7 +20423,7 @@
       },
       "averageScore": 73,
       "popularity": 292354,
-      "favourites": 6356,
+      "favourites": 6357,
       "trailer": "9AMtVwWS0fM",
       "studios": [
         "WIT STUDIO"
@@ -20572,8 +20572,8 @@
         "day": 7
       },
       "averageScore": 88,
-      "popularity": 290310,
-      "favourites": 19215,
+      "popularity": 290416,
+      "favourites": 19221,
       "trailer": null,
       "studios": [
         "MADHOUSE"
@@ -20753,7 +20753,7 @@
       },
       "averageScore": 83,
       "popularity": 290149,
-      "favourites": 18357,
+      "favourites": 18362,
       "trailer": "6CTHwEZK2JA",
       "studios": [
         "Shaft"
@@ -20909,7 +20909,7 @@
       },
       "averageScore": 80,
       "popularity": 287455,
-      "favourites": 5612,
+      "favourites": 5614,
       "trailer": "nI_2PqGZb-c",
       "studios": [
         "bones"
@@ -21095,7 +21095,7 @@
       },
       "averageScore": 81,
       "popularity": 285774,
-      "favourites": 6104,
+      "favourites": 6108,
       "trailer": "jR1L1EK3kN0",
       "studios": [
         "WIT STUDIO",
@@ -21274,7 +21274,7 @@
       },
       "averageScore": 82,
       "popularity": 281900,
-      "favourites": 13041,
+      "favourites": 13046,
       "trailer": "t2kCCDiWlVg",
       "studios": [
         "MAPPA"
@@ -21287,171 +21287,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.amazon.com/dp/B07F8H7SHY/"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 114535,
-      "title": {
-        "english": "To Your Eternity",
-        "romaji": "Fumetsu no Anata e",
-        "native": "不滅のあなたへ"
-      },
-      "description": "In the beginning, an \"orb\" is cast unto Earth. \"It\" can do two things: change into the form of the thing that stimulates \"it\"; and come back to life after death. \"It\" morphs from orb to rock, then to wolf, and finally to boy, but roams about like a newborn who knows nothing. As a boy, \"it\" becomes Fushi.\n<br><br>\nThrough encounters with human kindness, Fushi not only gains survival skills but grows as a \"person\". But his journey is darkened by the inexplicable and destructive enemy Nokker and cruel partings with the people he loves.\n<br><br>\n(Source: Crunchyroll)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114535-y3NnjexcqKG1.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114535-ASUprf4AsNwC.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136548-FjWExC5ScBqW.jpg",
-          "character": "Fushi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg",
-          "character": "Gugu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136541-gXKd6OtbuffL.png",
-          "character": "March",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136544-LGUvcdc4cyPY.jpg",
-          "character": "Parona",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b201555-goJeA6E0Xuww.jpg",
-          "character": "Shounen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136550-fJiwFtdKLyCf.jpg",
-          "character": "Tonari",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136556-UUQtEPFxqpQM.jpg",
-          "character": "Pyoran",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163694-USBey19xBAZH.jpg",
-          "character": "Joaan",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136551-DgY4fAbFcW6A.jpg",
-          "character": "Rean Cropp",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136545-KsqBpXbhEUCd.png",
-          "character": "Hayase",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136553-9LprfeXY6qYP.png",
-          "character": "Kansatsu-sha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202665-h4leOYg9URal.jpg",
-          "character": "Upa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202861-4gIMUfqtKlmo.jpg",
-          "character": "Oniguma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202667-typId3TGOkMf.png",
-          "character": "Mia",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136555-q0JF1MY0Mo9r.jpg",
-          "character": "Sakejii",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1772/105306l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1415/111742l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1340/111743l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Psychological",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 20,
-      "season": "SPRING",
-      "seasonYear": 2021,
-      "startDate": {
-        "year": 2021,
-        "month": 4,
-        "day": 12
-      },
-      "averageScore": 81,
-      "popularity": 279437,
-      "favourites": 8749,
-      "trailer": "WHq46obaDR8",
-      "studios": [
-        "Brain's Base"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://www.anime-fumetsunoanatae.com/1st/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/to-your-eternity"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgxV0mDkMNtd0TczCCvLb-N"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/1s4l0ds33fl"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81333467"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://youtube.com/@-animeofficialtoyoureterni9458"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.max.com/shows/369ec761-967b-4de3-a466-e879ee3ed6c6"
         }
       ],
       "nextAiring": null
@@ -21587,8 +21422,8 @@
         "day": 1
       },
       "averageScore": 80,
-      "popularity": 279345,
-      "favourites": 8991,
+      "popularity": 279469,
+      "favourites": 8994,
       "trailer": "8BIaDDN-r3o",
       "studios": [
         "MAPPA"
@@ -21609,6 +21444,171 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/hells-paradise-ed1bbbfa-fb32-4b9a-83b8-04a42687ae59"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 114535,
+      "title": {
+        "english": "To Your Eternity",
+        "romaji": "Fumetsu no Anata e",
+        "native": "不滅のあなたへ"
+      },
+      "description": "In the beginning, an \"orb\" is cast unto Earth. \"It\" can do two things: change into the form of the thing that stimulates \"it\"; and come back to life after death. \"It\" morphs from orb to rock, then to wolf, and finally to boy, but roams about like a newborn who knows nothing. As a boy, \"it\" becomes Fushi.\n<br><br>\nThrough encounters with human kindness, Fushi not only gains survival skills but grows as a \"person\". But his journey is darkened by the inexplicable and destructive enemy Nokker and cruel partings with the people he loves.\n<br><br>\n(Source: Crunchyroll)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114535-y3NnjexcqKG1.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114535-ASUprf4AsNwC.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136548-FjWExC5ScBqW.jpg",
+          "character": "Fushi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg",
+          "character": "Gugu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136541-gXKd6OtbuffL.png",
+          "character": "March",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136544-LGUvcdc4cyPY.jpg",
+          "character": "Parona",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b201555-goJeA6E0Xuww.jpg",
+          "character": "Shounen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136550-fJiwFtdKLyCf.jpg",
+          "character": "Tonari",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136556-UUQtEPFxqpQM.jpg",
+          "character": "Pyoran",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b163694-USBey19xBAZH.jpg",
+          "character": "Joaan",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136551-DgY4fAbFcW6A.jpg",
+          "character": "Rean Cropp",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136545-KsqBpXbhEUCd.png",
+          "character": "Hayase",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136553-9LprfeXY6qYP.png",
+          "character": "Kansatsu-sha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202665-h4leOYg9URal.jpg",
+          "character": "Upa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202861-4gIMUfqtKlmo.jpg",
+          "character": "Oniguma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b202667-typId3TGOkMf.png",
+          "character": "Mia",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b136555-q0JF1MY0Mo9r.jpg",
+          "character": "Sakejii",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1772/105306l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1415/111742l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1340/111743l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 20,
+      "season": "SPRING",
+      "seasonYear": 2021,
+      "startDate": {
+        "year": 2021,
+        "month": 4,
+        "day": 12
+      },
+      "averageScore": 81,
+      "popularity": 279437,
+      "favourites": 8750,
+      "trailer": "WHq46obaDR8",
+      "studios": [
+        "Brain's Base"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://www.anime-fumetsunoanatae.com/1st/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/to-your-eternity"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgxV0mDkMNtd0TczCCvLb-N"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/1s4l0ds33fl"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81333467"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://youtube.com/@-animeofficialtoyoureterni9458"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.max.com/shows/369ec761-967b-4de3-a466-e879ee3ed6c6"
         }
       ],
       "nextAiring": null
@@ -21728,7 +21728,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 279015,
+      "popularity": 279086,
       "favourites": 7606,
       "trailer": "QpyQ_0i2NU8",
       "studios": [
@@ -21877,7 +21877,7 @@
       },
       "averageScore": 65,
       "popularity": 278163,
-      "favourites": 5055,
+      "favourites": 5053,
       "trailer": "jZFEtc3CKHs",
       "studios": [
         "TMS Entertainment"
@@ -22032,8 +22032,8 @@
         "day": 2
       },
       "averageScore": 84,
-      "popularity": 278050,
-      "favourites": 18178,
+      "popularity": 278130,
+      "favourites": 18183,
       "trailer": "NLZP_z2PxCw",
       "studios": [
         "David Production"
@@ -22216,7 +22216,7 @@
       },
       "averageScore": 82,
       "popularity": 277359,
-      "favourites": 11805,
+      "favourites": 11810,
       "trailer": "DPEQxuMKGfE",
       "studios": [
         "TMS Entertainment"
@@ -22367,7 +22367,7 @@
       },
       "averageScore": 69,
       "popularity": 276610,
-      "favourites": 6488,
+      "favourites": 6489,
       "trailer": "tYDDS0OzV_Q",
       "studios": [
         "TNK"
@@ -22520,7 +22520,7 @@
       },
       "averageScore": 61,
       "popularity": 276313,
-      "favourites": 2684,
+      "favourites": 2683,
       "trailer": "dZ36ToJLHtA",
       "studios": [
         "Studio Pierrot"
@@ -22681,7 +22681,7 @@
       },
       "averageScore": 83,
       "popularity": 274935,
-      "favourites": 8523,
+      "favourites": 8525,
       "trailer": "Lk3fJsIOnKw",
       "studios": [
         "8-bit"
@@ -22849,7 +22849,7 @@
       },
       "averageScore": 75,
       "popularity": 273539,
-      "favourites": 8624,
+      "favourites": 8625,
       "trailer": "pCwfEB6PbFk",
       "studios": [
         "Tezuka Productions"
@@ -23027,7 +23027,7 @@
       },
       "averageScore": 84,
       "popularity": 273421,
-      "favourites": 16073,
+      "favourites": 16080,
       "trailer": "gKWEUJ4r5do",
       "studios": [
         "Doga Kobo"
@@ -23183,7 +23183,7 @@
       },
       "averageScore": 69,
       "popularity": 270957,
-      "favourites": 4891,
+      "favourites": 4893,
       "trailer": "8i3Xvs4R0WY",
       "studios": [
         "MAPPA"
@@ -23367,8 +23367,8 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 270398,
-      "favourites": 11119,
+      "popularity": 270491,
+      "favourites": 11122,
       "trailer": "IVsII3dLbWc",
       "studios": [
         "8-bit"
@@ -23532,7 +23532,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 270346,
+      "popularity": 270420,
       "favourites": 11313,
       "trailer": "vPBU0xBjFFY",
       "studios": [
@@ -23696,7 +23696,7 @@
       },
       "averageScore": 71,
       "popularity": 270156,
-      "favourites": 5650,
+      "favourites": 5652,
       "trailer": "6sdxN30qNrw",
       "studios": [
         "WHITE FOX"
@@ -23865,8 +23865,8 @@
         "day": 12
       },
       "averageScore": 85,
-      "popularity": 268618,
-      "favourites": 11439,
+      "popularity": 268693,
+      "favourites": 11440,
       "trailer": "4OiMOHRDs14",
       "studios": [
         "Studio Ghibli"
@@ -24033,7 +24033,7 @@
       },
       "averageScore": 79,
       "popularity": 267814,
-      "favourites": 7368,
+      "favourites": 7370,
       "trailer": "q5qlX4lWst0",
       "studios": [
         "Brain's Base"
@@ -24199,7 +24199,7 @@
       },
       "averageScore": 83,
       "popularity": 267249,
-      "favourites": 5307,
+      "favourites": 5309,
       "trailer": "IZ8iIHpe4Lg",
       "studios": [
         "Production I.G"
@@ -24385,7 +24385,7 @@
       },
       "averageScore": 77,
       "popularity": 266639,
-      "favourites": 5926,
+      "favourites": 5928,
       "trailer": "9ZseZTshl2k",
       "studios": [
         "Kyoto Animation"
@@ -24533,7 +24533,7 @@
       },
       "averageScore": 82,
       "popularity": 266503,
-      "favourites": 14910,
+      "favourites": 14916,
       "trailer": "VSdS29SDvn4",
       "studios": [
         "A-1 Pictures"
@@ -24706,7 +24706,7 @@
       },
       "averageScore": 84,
       "popularity": 264220,
-      "favourites": 15207,
+      "favourites": 15215,
       "trailer": "uw2gV-oa1pQ",
       "studios": [
         "David Production"
@@ -24907,7 +24907,7 @@
       },
       "averageScore": 78,
       "popularity": 263760,
-      "favourites": 4625,
+      "favourites": 4624,
       "trailer": "JQc2JWkPgQo",
       "studios": [
         "David Production"
@@ -25097,7 +25097,7 @@
       },
       "averageScore": 85,
       "popularity": 263373,
-      "favourites": 14366,
+      "favourites": 14374,
       "trailer": null,
       "studios": [
         "Sunrise"
@@ -25250,7 +25250,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 261170,
+      "popularity": 261232,
       "favourites": 5740,
       "trailer": "_TpTn3o-_Yk",
       "studios": [
@@ -25392,7 +25392,7 @@
       },
       "averageScore": 73,
       "popularity": 260893,
-      "favourites": 2883,
+      "favourites": 2882,
       "trailer": "ULP_6faadB4",
       "studios": [
         "A-1 Pictures"
@@ -25550,7 +25550,7 @@
       },
       "averageScore": 75,
       "popularity": 259119,
-      "favourites": 5712,
+      "favourites": 5714,
       "trailer": "wHaHh_sX1IM",
       "studios": [
         "A-1 Pictures"
@@ -25735,7 +25735,7 @@
       },
       "averageScore": 77,
       "popularity": 258686,
-      "favourites": 7436,
+      "favourites": 7441,
       "trailer": null,
       "studios": [
         "J.C.STAFF"
@@ -25879,8 +25879,8 @@
         "day": 6
       },
       "averageScore": 84,
-      "popularity": 258419,
-      "favourites": 8753,
+      "popularity": 258492,
+      "favourites": 8755,
       "trailer": "yTjbZQyOesY",
       "studios": [
         "WHITE FOX"
@@ -26033,7 +26033,7 @@
       },
       "averageScore": 78,
       "popularity": 258053,
-      "favourites": 7873,
+      "favourites": 7877,
       "trailer": "nLVy50LnLMM",
       "studios": [
         "MAPPA"
@@ -26176,7 +26176,7 @@
       },
       "averageScore": 82,
       "popularity": 257610,
-      "favourites": 9519,
+      "favourites": 9524,
       "trailer": "kaSio11XVhM",
       "studios": [
         "David Production"
@@ -26509,7 +26509,7 @@
       },
       "averageScore": 66,
       "popularity": 255607,
-      "favourites": 3993,
+      "favourites": 3996,
       "trailer": "Kl6cNSBg3Wg",
       "studios": [
         "MADHOUSE"
@@ -26829,8 +26829,8 @@
         "day": 9
       },
       "averageScore": 89,
-      "popularity": 253563,
-      "favourites": 13985,
+      "popularity": 253634,
+      "favourites": 13987,
       "trailer": "RN4FFgHpAZo",
       "studios": [
         "A-1 Pictures"
@@ -27011,7 +27011,7 @@
       },
       "averageScore": 78,
       "popularity": 250877,
-      "favourites": 7640,
+      "favourites": 7641,
       "trailer": "ab4fs9No18g",
       "studios": [
         "J.C.STAFF"
@@ -27187,8 +27187,8 @@
         "day": 16
       },
       "averageScore": 80,
-      "popularity": 250179,
-      "favourites": 6459,
+      "popularity": 250264,
+      "favourites": 6465,
       "trailer": "92a7Hj0ijLs",
       "studios": [
         "Studio Ghibli"
@@ -27505,8 +27505,8 @@
         "day": 5
       },
       "averageScore": 81,
-      "popularity": 249228,
-      "favourites": 13990,
+      "popularity": 249359,
+      "favourites": 13992,
       "trailer": "L7LgAbGF-WY",
       "studios": [
         "Nexus"
@@ -27694,8 +27694,8 @@
         "day": 20
       },
       "averageScore": 84,
-      "popularity": 249178,
-      "favourites": 13066,
+      "popularity": 249249,
+      "favourites": 13067,
       "trailer": null,
       "studios": [
         "Manglobe"
@@ -27854,8 +27854,8 @@
         "day": 25
       },
       "averageScore": 68,
-      "popularity": 246378,
-      "favourites": 4491,
+      "popularity": 246442,
+      "favourites": 4496,
       "trailer": "3KgeAos9oNc",
       "studios": [
         "Arms"
@@ -27989,7 +27989,7 @@
       },
       "averageScore": 81,
       "popularity": 245326,
-      "favourites": 7344,
+      "favourites": 7349,
       "trailer": "b6cmXXm89cI",
       "studios": [
         "feel."
@@ -28144,7 +28144,7 @@
       },
       "averageScore": 73,
       "popularity": 242715,
-      "favourites": 4421,
+      "favourites": 4423,
       "trailer": "PuB1VpKbWtE",
       "studios": [
         "Shaft"
@@ -28284,8 +28284,8 @@
         "day": 2
       },
       "averageScore": 79,
-      "popularity": 239978,
-      "favourites": 2833,
+      "popularity": 240029,
+      "favourites": 2835,
       "trailer": "O_tsnSmpM-k",
       "studios": [
         "J.C.STAFF"
@@ -28438,8 +28438,8 @@
         "day": 11
       },
       "averageScore": 69,
-      "popularity": 239050,
-      "favourites": 4346,
+      "popularity": 239100,
+      "favourites": 4347,
       "trailer": "4rQ1CJQZvzQ",
       "studios": [
         "Telecom Animation Film"
@@ -28597,7 +28597,7 @@
       },
       "averageScore": 88,
       "popularity": 239005,
-      "favourites": 19883,
+      "favourites": 19894,
       "trailer": "oyHqh8ue4zw",
       "studios": [
         "OLM",
@@ -28950,8 +28950,8 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 237007,
-      "favourites": 5797,
+      "popularity": 237057,
+      "favourites": 5801,
       "trailer": "35cs5zFr2h8",
       "studios": [
         "bones"
@@ -29111,7 +29111,7 @@
       },
       "averageScore": 75,
       "popularity": 236392,
-      "favourites": 4110,
+      "favourites": 4111,
       "trailer": "c3Jt_EXwGBc",
       "studios": [
         "MADHOUSE"
@@ -29259,7 +29259,7 @@
       },
       "averageScore": 77,
       "popularity": 235736,
-      "favourites": 5940,
+      "favourites": 5941,
       "trailer": "n-35-JRzT7k",
       "studios": [
         "Orange"
@@ -29434,7 +29434,7 @@
       },
       "averageScore": 72,
       "popularity": 235443,
-      "favourites": 4769,
+      "favourites": 4768,
       "trailer": "EoipHZFNXv0",
       "studios": [
         "A-1 Pictures"
@@ -29592,7 +29592,7 @@
       },
       "averageScore": 76,
       "popularity": 234474,
-      "favourites": 6181,
+      "favourites": 6183,
       "trailer": "zl0Kiv0kuQQ",
       "studios": [
         "A-1 Pictures"
@@ -29781,7 +29781,7 @@
       },
       "averageScore": 72,
       "popularity": 233863,
-      "favourites": 3595,
+      "favourites": 3597,
       "trailer": "SlD-8h96pDw",
       "studios": [
         "Brain's Base"
@@ -29910,7 +29910,7 @@
       },
       "averageScore": 75,
       "popularity": 233512,
-      "favourites": 5968,
+      "favourites": 5969,
       "trailer": "ER8wXRhZW1k",
       "studios": [
         "J.C.STAFF"
@@ -30045,8 +30045,8 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 232928,
-      "favourites": 7609,
+      "popularity": 233009,
+      "favourites": 7618,
       "trailer": "JwaruTPKq9I",
       "studios": [
         "NUT"
@@ -30193,7 +30193,7 @@
       },
       "averageScore": 72,
       "popularity": 232481,
-      "favourites": 5093,
+      "favourites": 5095,
       "trailer": "9qJyDlZst8c",
       "studios": [
         "SILVER LINK."
@@ -30349,7 +30349,7 @@
       },
       "averageScore": 86,
       "popularity": 231964,
-      "favourites": 11720,
+      "favourites": 11723,
       "trailer": "byJ7pxxhaDY",
       "studios": [
         "A-1 Pictures"
@@ -30506,7 +30506,7 @@
       },
       "averageScore": 70,
       "popularity": 231842,
-      "favourites": 4602,
+      "favourites": 4604,
       "trailer": "U-gkwdGooDU",
       "studios": [
         "MADHOUSE"
@@ -30662,7 +30662,7 @@
       },
       "averageScore": 77,
       "popularity": 231181,
-      "favourites": 5827,
+      "favourites": 5823,
       "trailer": "Rl6ypQrTzOI",
       "studios": [
         "Doga Kobo"
@@ -30798,7 +30798,7 @@
       },
       "averageScore": 85,
       "popularity": 230758,
-      "favourites": 5667,
+      "favourites": 5668,
       "trailer": "gzDKOxrT3-k",
       "studios": [
         "Production I.G"
@@ -30853,13 +30853,13 @@
           "role": "MAIN"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b23-8TQAV1BRyqxa.png",
-          "character": "Kyouya Ootori",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22-Xikbs9JJ9Qop.png",
+          "character": "Hikaru Hitachiin",
           "role": "MAIN"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22-Xikbs9JJ9Qop.png",
-          "character": "Hikaru Hitachiin",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b23-8TQAV1BRyqxa.png",
+          "character": "Kyouya Ootori",
           "role": "MAIN"
         },
         {
@@ -30973,7 +30973,7 @@
       },
       "averageScore": 80,
       "popularity": 230158,
-      "favourites": 10630,
+      "favourites": 10632,
       "trailer": "ZM8a3QYtOfA",
       "studios": [
         "bones"
@@ -31160,7 +31160,7 @@
       },
       "averageScore": 80,
       "popularity": 229710,
-      "favourites": 11984,
+      "favourites": 11987,
       "trailer": null,
       "studios": [
         "Toei Animation"
@@ -31298,7 +31298,7 @@
       },
       "averageScore": 84,
       "popularity": 228226,
-      "favourites": 8410,
+      "favourites": 8413,
       "trailer": "UbLBbxSm8hs",
       "studios": [
         "CloverWorks"
@@ -31454,7 +31454,7 @@
       },
       "averageScore": 78,
       "popularity": 228189,
-      "favourites": 5496,
+      "favourites": 5498,
       "trailer": "fZCgXuxMAZY",
       "studios": [
         "TMS Entertainment"
@@ -31598,7 +31598,7 @@
       },
       "averageScore": 82,
       "popularity": 227930,
-      "favourites": 6700,
+      "favourites": 6698,
       "trailer": "S4VDmPgxpTs",
       "studios": [
         "8-bit"
@@ -31773,7 +31773,7 @@
       },
       "averageScore": 79,
       "popularity": 227260,
-      "favourites": 8732,
+      "favourites": 8741,
       "trailer": "ukO-ZdWS3j8",
       "studios": [
         "LIDENFILMS"
@@ -31929,7 +31929,7 @@
       },
       "averageScore": 67,
       "popularity": 226988,
-      "favourites": 2453,
+      "favourites": 2455,
       "trailer": "BA_fnEQ5PEk",
       "studios": [
         "Manglobe"
@@ -32034,7 +32034,7 @@
       },
       "averageScore": 75,
       "popularity": 225390,
-      "favourites": 4369,
+      "favourites": 4370,
       "trailer": "udDIkl6z8X0",
       "studios": [
         "CoMix Wave"
@@ -32177,7 +32177,7 @@
       },
       "averageScore": 71,
       "popularity": 225141,
-      "favourites": 3923,
+      "favourites": 3922,
       "trailer": "iPsu_sk-e7Q",
       "studios": [
         "CoMix Wave"
@@ -32317,7 +32317,7 @@
       },
       "averageScore": 87,
       "popularity": 224669,
-      "favourites": 9549,
+      "favourites": 9550,
       "trailer": "Ah7lTT-NKMw",
       "studios": [
         "bones"
@@ -32513,7 +32513,7 @@
       },
       "averageScore": 82,
       "popularity": 224190,
-      "favourites": 8550,
+      "favourites": 8552,
       "trailer": "7n_mFVPeApw",
       "studios": [
         "Production I.G"
@@ -32668,8 +32668,8 @@
         "day": 10
       },
       "averageScore": 88,
-      "popularity": 223361,
-      "favourites": 12259,
+      "popularity": 223482,
+      "favourites": 12264,
       "trailer": "6pX93dXfH9s",
       "studios": [
         "MAPPA"
@@ -32840,7 +32840,7 @@
       },
       "averageScore": 82,
       "popularity": 222645,
-      "favourites": 5487,
+      "favourites": 5491,
       "trailer": "WxCJMYbGtzA",
       "studios": [
         "bones"
@@ -33016,7 +33016,7 @@
       },
       "averageScore": 84,
       "popularity": 222458,
-      "favourites": 8499,
+      "favourites": 8500,
       "trailer": "A8D2db4PFN0",
       "studios": [
         "ufotable"
@@ -33196,8 +33196,8 @@
         "day": 19
       },
       "averageScore": 85,
-      "popularity": 222334,
-      "favourites": 15028,
+      "popularity": 222388,
+      "favourites": 15026,
       "trailer": "v1pWyWIu8x4",
       "studios": [
         "Gainax",
@@ -33359,7 +33359,7 @@
       },
       "averageScore": 78,
       "popularity": 220659,
-      "favourites": 6520,
+      "favourites": 6522,
       "trailer": "W9KZgJgo-x0",
       "studios": [
         "WIT STUDIO"
@@ -33523,7 +33523,7 @@
       },
       "averageScore": 78,
       "popularity": 220523,
-      "favourites": 7170,
+      "favourites": 7172,
       "trailer": "AlZmD15k-F4",
       "studios": [
         "MADHOUSE"
@@ -33684,7 +33684,7 @@
       },
       "averageScore": 70,
       "popularity": 220032,
-      "favourites": 1993,
+      "favourites": 1994,
       "trailer": "8fCIcho7N4k",
       "studios": [
         "MAPPA"
@@ -34135,7 +34135,7 @@
       },
       "averageScore": 69,
       "popularity": 219475,
-      "favourites": 4038,
+      "favourites": 4042,
       "trailer": "JToS6gmWzgw",
       "studios": [
         "Production I.G"
@@ -34295,7 +34295,7 @@
       },
       "averageScore": 68,
       "popularity": 218898,
-      "favourites": 4007,
+      "favourites": 4008,
       "trailer": null,
       "studios": [
         "AIC Plus+"
@@ -34608,8 +34608,8 @@
         "day": 9
       },
       "averageScore": 87,
-      "popularity": 218519,
-      "favourites": 23953,
+      "popularity": 218618,
+      "favourites": 23961,
       "trailer": "SyMMZF5zNW4",
       "studios": [
         "CloverWorks"
@@ -34786,7 +34786,7 @@
         "day": 6
       },
       "averageScore": 80,
-      "popularity": 218508,
+      "popularity": 218578,
       "favourites": 12356,
       "trailer": "lpv7Wv-sDAo",
       "studios": [
@@ -34931,8 +34931,8 @@
         "day": 6
       },
       "averageScore": 81,
-      "popularity": 218506,
-      "favourites": 4829,
+      "popularity": 218556,
+      "favourites": 4830,
       "trailer": "aeX94e7V0_w",
       "studios": [
         "bones"
@@ -35260,7 +35260,7 @@
       },
       "averageScore": 83,
       "popularity": 217730,
-      "favourites": 10122,
+      "favourites": 10125,
       "trailer": "CD6VdVDVDXI",
       "studios": [
         "Kyoto Animation"
@@ -35410,7 +35410,7 @@
       },
       "averageScore": 77,
       "popularity": 216871,
-      "favourites": 7822,
+      "favourites": 7819,
       "trailer": "CKnXq1qaTG0",
       "studios": [
         "Lerche"
@@ -35592,7 +35592,7 @@
       },
       "averageScore": 79,
       "popularity": 216331,
-      "favourites": 6977,
+      "favourites": 6980,
       "trailer": "_gJR6gfRYEQ",
       "studios": [
         "Production I.G"
@@ -35760,7 +35760,7 @@
       },
       "averageScore": 80,
       "popularity": 215507,
-      "favourites": 5365,
+      "favourites": 5370,
       "trailer": "7w5Vfjozzb8",
       "studios": [
         "ufotable"
@@ -36093,8 +36093,8 @@
         "day": 10
       },
       "averageScore": 79,
-      "popularity": 215288,
-      "favourites": 8212,
+      "popularity": 215334,
+      "favourites": 8210,
       "trailer": "guStf5P4Js0",
       "studios": [
         "bones"
@@ -36397,7 +36397,7 @@
       },
       "averageScore": 79,
       "popularity": 215089,
-      "favourites": 5929,
+      "favourites": 5928,
       "trailer": "0mM3lQytac4",
       "studios": [
         "Lerche"
@@ -36693,7 +36693,7 @@
       },
       "averageScore": 77,
       "popularity": 214524,
-      "favourites": 6656,
+      "favourites": 6659,
       "trailer": "de9OckSLP1o",
       "studios": [
         "Seven Arcs"
@@ -36861,7 +36861,7 @@
       },
       "averageScore": 71,
       "popularity": 213766,
-      "favourites": 4800,
+      "favourites": 4802,
       "trailer": "bMIarTOSN7o",
       "studios": [
         "SILVER LINK.",
@@ -36978,8 +36978,8 @@
         "day": 4
       },
       "averageScore": 74,
-      "popularity": 212909,
-      "favourites": 4356,
+      "popularity": 212954,
+      "favourites": 4355,
       "trailer": "NkqePv9i6Yw",
       "studios": [
         "Telecom Animation Film"
@@ -37121,8 +37121,8 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 212804,
-      "favourites": 7510,
+      "popularity": 212865,
+      "favourites": 7514,
       "trailer": "r5BL6gBZjOI",
       "studios": [
         "MAPPA"
@@ -37262,7 +37262,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 212531,
+      "popularity": 212585,
       "favourites": 2507,
       "trailer": "XmfXcVLA1d8",
       "studios": [
@@ -37284,6 +37284,176 @@
         {
           "type": "STREAMING",
           "url": "https://www.netflix.com/title/80165290"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 437,
+      "title": {
+        "english": "Perfect Blue",
+        "romaji": "PERFECT BLUE",
+        "native": "PERFECT BLUE"
+      },
+      "description": "Rising pop star Mima has quit singing to pursue a career as an actress and model, but her fans aren’t ready to see her go... Encouraged by her managers, Mima takes on a recurring role on a popular TV show, when suddenly her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima’s reality and fantasy meld into a frenzied paranoia. As her stalker closes in, in person and online, the threat he poses is more real than even Mima knows, in this iconic psychological thriller that has frequently been hailed as one of the most important animated films of all time.<br>\n<br>\n(Source: Shout! Factory)<br>\n<br>\n<i>Note: The film received an early premiere at the Fantasia Film Festival on August 5, 1997.</i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-69NMlXKFeuse.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/437-3yMVTyN7gl2A.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n4866-FcZMrcHzq5t7.png",
+          "character": "Mima Kirigoe",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14123-R6aMiSsfhkMw.png",
+          "character": "Uchida",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6111-hnTxQS826dXe.png",
+          "character": "Rumi Hidaka",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/40478.jpg",
+          "character": "Rei",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72193.jpg",
+          "character": "Yukiko",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72183.jpg",
+          "character": "Tejima",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72191.jpg",
+          "character": "Takao Shibuya",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72189.jpg",
+          "character": "Tadokoro",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72187.jpg",
+          "character": "Takashi Doi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72181.jpg",
+          "character": "Murano",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72185.jpg",
+          "character": "Sakuragi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221165-YSdYdzbyOL9Q.png",
+          "character": "Eri",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "character": "Kodomo",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "character": "Haha",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "character": "Kodomo",
+          "role": "BACKGROUND"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/7/5972l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/7/58303l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/6/62199l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/2/72396l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/10/83993l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1283/92592l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1679/97988l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1145/109503l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1982/114564l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1745/126459l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Horror",
+        "Psychological",
+        "Thriller"
+      ],
+      "status": "FINISHED",
+      "format": "MOVIE",
+      "episodes": 1,
+      "season": "WINTER",
+      "seasonYear": 1998,
+      "startDate": {
+        "year": 1998,
+        "month": 2,
+        "day": 28
+      },
+      "averageScore": 85,
+      "popularity": 212398,
+      "favourites": 13525,
+      "trailer": "UXQraSkOOGs",
+      "studios": [
+        "MADHOUSE"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/fr/series/GZJH3D8V3/perfect-blue"
         }
       ],
       "nextAiring": null
@@ -37457,176 +37627,6 @@
       "nextAiring": null
     },
     {
-      "id": 437,
-      "title": {
-        "english": "Perfect Blue",
-        "romaji": "PERFECT BLUE",
-        "native": "PERFECT BLUE"
-      },
-      "description": "Rising pop star Mima has quit singing to pursue a career as an actress and model, but her fans aren’t ready to see her go... Encouraged by her managers, Mima takes on a recurring role on a popular TV show, when suddenly her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima’s reality and fantasy meld into a frenzied paranoia. As her stalker closes in, in person and online, the threat he poses is more real than even Mima knows, in this iconic psychological thriller that has frequently been hailed as one of the most important animated films of all time.<br>\n<br>\n(Source: Shout! Factory)<br>\n<br>\n<i>Note: The film received an early premiere at the Fantasia Film Festival on August 5, 1997.</i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx437-69NMlXKFeuse.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/437-3yMVTyN7gl2A.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n4866-FcZMrcHzq5t7.png",
-          "character": "Mima Kirigoe",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b14123-R6aMiSsfhkMw.png",
-          "character": "Uchida",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b6111-hnTxQS826dXe.png",
-          "character": "Rumi Hidaka",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/40478.jpg",
-          "character": "Rei",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72193.jpg",
-          "character": "Yukiko",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72183.jpg",
-          "character": "Tejima",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72191.jpg",
-          "character": "Takao Shibuya",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72189.jpg",
-          "character": "Tadokoro",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72187.jpg",
-          "character": "Takashi Doi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72181.jpg",
-          "character": "Murano",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/72185.jpg",
-          "character": "Sakuragi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b221165-YSdYdzbyOL9Q.png",
-          "character": "Eri",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
-          "character": "Kodomo",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
-          "character": "Haha",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
-          "character": "Kodomo",
-          "role": "BACKGROUND"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/7/5972l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/7/58303l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/6/62199l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/2/72396l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/10/83993l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1283/92592l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1679/97988l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1145/109503l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1982/114564l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1745/126459l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Horror",
-        "Psychological",
-        "Thriller"
-      ],
-      "status": "FINISHED",
-      "format": "MOVIE",
-      "episodes": 1,
-      "season": "WINTER",
-      "seasonYear": 1998,
-      "startDate": {
-        "year": 1998,
-        "month": 2,
-        "day": 28
-      },
-      "averageScore": 85,
-      "popularity": 212330,
-      "favourites": 13525,
-      "trailer": "UXQraSkOOGs",
-      "studios": [
-        "MADHOUSE"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/fr/series/GZJH3D8V3/perfect-blue"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 102351,
       "title": {
         "english": "Tokyo Ghoul:re 2",
@@ -37744,7 +37744,7 @@
       },
       "averageScore": 62,
       "popularity": 211244,
-      "favourites": 2469,
+      "favourites": 2468,
       "trailer": "D8FvfKSyk9c",
       "studios": [
         "Studio Pierrot"
@@ -37893,7 +37893,7 @@
       },
       "averageScore": 78,
       "popularity": 209750,
-      "favourites": 2455,
+      "favourites": 2456,
       "trailer": "SELSLl0_Gmw",
       "studios": [
         "J.C.STAFF"
@@ -38053,7 +38053,7 @@
       },
       "averageScore": 78,
       "popularity": 209693,
-      "favourites": 4575,
+      "favourites": 4577,
       "trailer": "xTit5k75uvE",
       "studios": [
         "A-1 Pictures"
@@ -38225,8 +38225,8 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 209336,
-      "favourites": 5199,
+      "popularity": 209388,
+      "favourites": 5200,
       "trailer": "0i1AxFdlu0M",
       "studios": [
         "MADHOUSE"
@@ -38380,7 +38380,7 @@
       },
       "averageScore": 81,
       "popularity": 208697,
-      "favourites": 7832,
+      "favourites": 7835,
       "trailer": "WUMAeUwxsCk",
       "studios": [
         "WIT STUDIO"
@@ -38539,7 +38539,7 @@
       },
       "averageScore": 81,
       "popularity": 208685,
-      "favourites": 6559,
+      "favourites": 6561,
       "trailer": "ts5NGoDI1V0",
       "studios": [
         "Studio Bind"
@@ -38701,7 +38701,7 @@
       },
       "averageScore": 74,
       "popularity": 207515,
-      "favourites": 4778,
+      "favourites": 4779,
       "trailer": "2l4u3FEBwPs",
       "studios": [
         "bones"
@@ -38884,8 +38884,8 @@
         "day": 26
       },
       "averageScore": 78,
-      "popularity": 206888,
-      "favourites": 7216,
+      "popularity": 206933,
+      "favourites": 7214,
       "trailer": null,
       "studios": [
         "Toei Animation"
@@ -39026,7 +39026,7 @@
       },
       "averageScore": 77,
       "popularity": 206404,
-      "favourites": 5189,
+      "favourites": 5190,
       "trailer": "-tHbKBCTDFQ",
       "studios": [
         "Doga Kobo"
@@ -39211,7 +39211,7 @@
       },
       "averageScore": 56,
       "popularity": 205876,
-      "favourites": 3162,
+      "favourites": 3166,
       "trailer": "ppLE9xycGm4",
       "studios": [
         "Studio Pierrot"
@@ -39372,7 +39372,7 @@
       },
       "averageScore": 87,
       "popularity": 205701,
-      "favourites": 5634,
+      "favourites": 5638,
       "trailer": "hb-mo0URZBw",
       "studios": [
         "MAPPA"
@@ -39559,7 +39559,7 @@
         "day": 16
       },
       "averageScore": 79,
-      "popularity": 205434,
+      "popularity": 205500,
       "favourites": 6956,
       "trailer": "SyM8JyyUTjc",
       "studios": [
@@ -39710,7 +39710,7 @@
       },
       "averageScore": 82,
       "popularity": 204204,
-      "favourites": 10975,
+      "favourites": 10972,
       "trailer": "m-nN3SlHwZk",
       "studios": [
         "Zero-G"
@@ -39890,7 +39890,7 @@
       },
       "averageScore": 87,
       "popularity": 202599,
-      "favourites": 14059,
+      "favourites": 14063,
       "trailer": "IecYMqp1N4k",
       "studios": [
         "Kyoto Animation"
@@ -40043,7 +40043,7 @@
       },
       "averageScore": 74,
       "popularity": 201725,
-      "favourites": 1922,
+      "favourites": 1925,
       "trailer": "70W0u35wa48",
       "studios": [
         "bones"
@@ -40360,7 +40360,7 @@
       },
       "averageScore": 84,
       "popularity": 200004,
-      "favourites": 6509,
+      "favourites": 6511,
       "trailer": "IVVihb4-cHo",
       "studios": [
         "WHITE FOX"
@@ -40518,7 +40518,7 @@
       },
       "averageScore": 79,
       "popularity": 199974,
-      "favourites": 6330,
+      "favourites": 6332,
       "trailer": "cj6NGP9nNwI",
       "studios": [
         "Bibury Animation Studios"
@@ -41118,7 +41118,7 @@
       },
       "averageScore": 82,
       "popularity": 197315,
-      "favourites": 7816,
+      "favourites": 7818,
       "trailer": "M0CsMI-qqmI",
       "studios": [
         "feel."
@@ -41284,7 +41284,7 @@
       },
       "averageScore": 84,
       "popularity": 197018,
-      "favourites": 8912,
+      "favourites": 8913,
       "trailer": "Tr1ahorojPg",
       "studios": [
         "WIT STUDIO"
