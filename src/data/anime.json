@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-28T00:41:20.744370",
+    "updatedAt": "2025-11-28T06:21:42.948043",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -535,7 +535,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 840763,
+      "popularity": 841060,
       "favourites": 44667,
       "trailer": "NlJZ-YgAt-c",
       "studios": [
@@ -2551,7 +2551,7 @@
         "day": 26
       },
       "averageScore": 85,
-      "popularity": 629219,
+      "popularity": 629380,
       "favourites": 34578,
       "trailer": "k4xGqY5IDBE",
       "studios": [
@@ -2658,13 +2658,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124036-smBYAumpnds2.jpg",
-          "character": "Ito Nishimiya",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135852-mW3w0bGh7DFI.jpg",
+          "character": "Pedro",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135852-mW3w0bGh7DFI.jpg",
-          "character": "Pedro",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124036-smBYAumpnds2.jpg",
+          "character": "Ito Nishimiya",
           "role": "SUPPORTING"
         }
       ],
@@ -3083,7 +3083,7 @@
         "day": 1
       },
       "averageScore": 79,
-      "popularity": 591218,
+      "popularity": 591366,
       "favourites": 8663,
       "trailer": "tEPneR3KFK8",
       "studios": [
@@ -3564,8 +3564,8 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85297-8OfrLDyEL7Su.jpg",
-          "character": "Manami Okuda",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88805-HMHIQ3XQz8bN.png",
+          "character": "Ryuunosuke Chiba",
           "role": "SUPPORTING"
         }
       ],
@@ -3767,7 +3767,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 552534,
+      "popularity": 552704,
       "favourites": 28206,
       "trailer": "mV39saBlBLI",
       "studios": [
@@ -6394,13 +6394,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213881-NrUwR51qHdkV.png",
-          "character": "Ewen Egeburg",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
+          "character": "Bill Watkins",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
-          "character": "Bill Watkins",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213881-NrUwR51qHdkV.png",
+          "character": "Ewen Egeburg",
           "role": "SUPPORTING"
         },
         {
@@ -6836,7 +6836,7 @@
         "day": 11
       },
       "averageScore": 85,
-      "popularity": 485264,
+      "popularity": 485388,
       "favourites": 30486,
       "trailer": "_grmduuECm4",
       "studios": [
@@ -7875,7 +7875,7 @@
         "day": 10
       },
       "averageScore": 81,
-      "popularity": 455695,
+      "popularity": 455831,
       "favourites": 24780,
       "trailer": "tryurXgGqkI",
       "studios": [
@@ -7960,13 +7960,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22143-MTuyh4Ab0ruH.jpg",
-          "character": "Nobuko Izumi",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166301-p9VeiHIqwydh.png",
+          "character": "Uragami",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166301-p9VeiHIqwydh.png",
-          "character": "Uragami",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/22143-MTuyh4Ab0ruH.jpg",
+          "character": "Nobuko Izumi",
           "role": "SUPPORTING"
         },
         {
@@ -7975,13 +7975,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166297-fKnvGg7oLZn7.png",
-          "character": "Yuuko Tachikawa",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166310-XyLGh2HLPv5r.png",
+          "character": "Uda no Parasite",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166310-XyLGh2HLPv5r.png",
-          "character": "Uda no Parasite",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166297-fKnvGg7oLZn7.png",
+          "character": "Yuuko Tachikawa",
           "role": "SUPPORTING"
         },
         {
@@ -8296,13 +8296,13 @@
           "role": "MAIN"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124384-bsl6vVNhT2DR.jpg",
-          "character": "Miku",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124389-iJY8frLNdK7Y.jpg",
+          "character": "Mitsuru",
           "role": "MAIN"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124389-iJY8frLNdK7Y.jpg",
-          "character": "Mitsuru",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124384-bsl6vVNhT2DR.jpg",
+          "character": "Miku",
           "role": "MAIN"
         },
         {
@@ -8593,8 +8593,8 @@
         "month": 10,
         "day": 5
       },
-      "averageScore": 79,
-      "popularity": 435001,
+      "averageScore": 78,
+      "popularity": 435180,
       "favourites": 23861,
       "trailer": "0c4IoCA5fY0",
       "studios": [
@@ -8718,8 +8718,8 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1710-GA8qDtSsY4jN.png",
-          "character": "Schneizel el Britannia",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b11166-FLEJh0viRLwm.png",
+          "character": "Xingke Li",
           "role": "SUPPORTING"
         }
       ],
@@ -8793,7 +8793,7 @@
         "day": 6
       },
       "averageScore": 85,
-      "popularity": 433198,
+      "popularity": 433362,
       "favourites": 25958,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -9136,7 +9136,7 @@
         "day": 20
       },
       "averageScore": 86,
-      "popularity": 428049,
+      "popularity": 428200,
       "favourites": 17218,
       "trailer": "ByXuk9QqQkk",
       "studios": [
@@ -11291,7 +11291,7 @@
         "day": 11
       },
       "averageScore": 76,
-      "popularity": 399410,
+      "popularity": 399497,
       "favourites": 12546,
       "trailer": "nYQUVwwD-H4",
       "studios": [
@@ -11766,8 +11766,8 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134327-5tqYKvBaqRe2.png",
-          "character": "Tsubasa Tanuma ",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b134892-HSzCDOQagDJv.jpg",
+          "character": "Adolphe Pescarolo",
           "role": "SUPPORTING"
         }
       ],
@@ -13475,7 +13475,7 @@
         "day": 27
       },
       "averageScore": 73,
-      "popularity": 364748,
+      "popularity": 364871,
       "favourites": 5149,
       "trailer": "5AkQ0GxQTQM",
       "studios": [
@@ -14409,13 +14409,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
-          "character": "Wirbel",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
+          "character": "Lawine",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
-          "character": "Lawine",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
+          "character": "Wirbel",
           "role": "SUPPORTING"
         },
         {
@@ -14612,8 +14612,8 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128569-vRysqOLW66l0.jpg",
-          "character": "Hamusuke",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n128288-rxWuyLQkxYBL.jpg",
+          "character": "Yuri Alpha",
           "role": "SUPPORTING"
         }
       ],
@@ -15803,7 +15803,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 336535,
+      "popularity": 336612,
       "favourites": 8019,
       "trailer": "9jVxMt845AY",
       "studios": [
@@ -16235,8 +16235,8 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85297-8OfrLDyEL7Su.jpg",
-          "character": "Manami Okuda",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88805-HMHIQ3XQz8bN.png",
+          "character": "Ryuunosuke Chiba",
           "role": "SUPPORTING"
         }
       ],
@@ -16618,7 +16618,7 @@
         "day": 8
       },
       "averageScore": 87,
-      "popularity": 330176,
+      "popularity": 330249,
       "favourites": 10715,
       "trailer": "kJfU5boNUIE",
       "studios": [
@@ -17424,7 +17424,7 @@
         "day": 20
       },
       "averageScore": 85,
-      "popularity": 320146,
+      "popularity": 320275,
       "favourites": 17443,
       "trailer": "iwROgK94zcM",
       "studios": [
@@ -18435,7 +18435,7 @@
         "day": 4
       },
       "averageScore": 83,
-      "popularity": 312767,
+      "popularity": 312853,
       "favourites": 16279,
       "trailer": null,
       "studios": [
@@ -19269,7 +19269,7 @@
         "day": 2
       },
       "averageScore": 74,
-      "popularity": 301146,
+      "popularity": 301220,
       "favourites": 6458,
       "trailer": "RNyClma6awo",
       "studios": [
@@ -19444,7 +19444,7 @@
         "day": 12
       },
       "averageScore": 77,
-      "popularity": 301067,
+      "popularity": 301129,
       "favourites": 9025,
       "trailer": "okBHQWnYImg",
       "studios": [
@@ -19614,7 +19614,7 @@
         "day": 13
       },
       "averageScore": 85,
-      "popularity": 300861,
+      "popularity": 301024,
       "favourites": 22432,
       "trailer": "ax5YUmkWf_Y",
       "studios": [
@@ -21020,8 +21020,8 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b280308-LUyVNQje71td.jpg",
-          "character": "Keith Kepler",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
+          "character": "Emile Elman",
           "role": "SUPPORTING"
         }
       ],
@@ -21575,7 +21575,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 279522,
+      "popularity": 279610,
       "favourites": 8784,
       "trailer": "WHq46obaDR8",
       "studios": [
@@ -23182,7 +23182,7 @@
         "day": 6
       },
       "averageScore": 69,
-      "popularity": 271012,
+      "popularity": 271064,
       "favourites": 4917,
       "trailer": "8i3Xvs4R0WY",
       "studios": [
@@ -24233,6 +24233,158 @@
       "nextAiring": null
     },
     {
+      "id": 116589,
+      "title": {
+        "english": "86 EIGHTY-SIX",
+        "romaji": "86: Eighty Six",
+        "native": "86－エイティシックス－"
+      },
+      "description": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.<br>\n<br>\nDetermined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.<br>\n<br>\n(Source: Crunchyroll)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-qT34qzsZtk9V.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116589-SqwYWzaZCdD5.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141061-jqIhB9jmClQ3.png",
+          "character": "Vladilena Milizé",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141060-ZJFvHqBBSvhN.png",
+          "character": "Shinei Nouzen",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174873-FNf08aPYTVXY.jpg",
+          "character": "Kurena Kukumila",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174875-PvSTadcuATtH.png",
+          "character": "Anju Emma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174872-HrQxhw9BbfyI.jpg",
+          "character": "Raiden Shuga",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174874-19TPZgyNwDtj.jpg",
+          "character": "Theoto Rikka",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b237557-uBOohJFKv5h9.jpg",
+          "character": "Fido",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174878-UUIgGeJqHarv.png",
+          "character": "Kaie Taniya",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210923-q3ND01Sd08RP.png",
+          "character": "Henrietta von Penrose",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210911-YtxQQzl8DBug.png",
+          "character": "Daiya Irma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210922-hKvw63IJ5F41.png",
+          "character": "Mina Atomica",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210912-zBfDz63uEAAT.png",
+          "character": "Haruto Keats",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224075-0aCPb6n7K3AB.png",
+          "character": "Shourei Nouzen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210921-xyo41JTWoBeB.png",
+          "character": "Lev Aldrecht",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210918-NcX3CeUqourY.png",
+          "character": "Rin Rekka",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1536/106658l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1324/110843l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1162/113301l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 11,
+      "season": "SPRING",
+      "seasonYear": 2021,
+      "startDate": {
+        "year": 2021,
+        "month": 4,
+        "day": 11
+      },
+      "averageScore": 82,
+      "popularity": 266721,
+      "favourites": 14977,
+      "trailer": "VSdS29SDvn4",
+      "studios": [
+        "A-1 Pictures"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://anime-86.com/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/86-eighty-six"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/2aef2fzzzvp"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81442047"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 2167,
       "title": {
         "english": "Clannad",
@@ -24402,158 +24554,6 @@
         {
           "type": "INFO",
           "url": "https://www.tbs.co.jp/clannad/clannad1/index-j.html"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 116589,
-      "title": {
-        "english": "86 EIGHTY-SIX",
-        "romaji": "86: Eighty Six",
-        "native": "86－エイティシックス－"
-      },
-      "description": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.<br>\n<br>\nDetermined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.<br>\n<br>\n(Source: Crunchyroll)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-qT34qzsZtk9V.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116589-SqwYWzaZCdD5.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141061-jqIhB9jmClQ3.png",
-          "character": "Vladilena Milizé",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141060-ZJFvHqBBSvhN.png",
-          "character": "Shinei Nouzen",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174873-FNf08aPYTVXY.jpg",
-          "character": "Kurena Kukumila",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174875-PvSTadcuATtH.png",
-          "character": "Anju Emma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174872-HrQxhw9BbfyI.jpg",
-          "character": "Raiden Shuga",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174874-19TPZgyNwDtj.jpg",
-          "character": "Theoto Rikka",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b237557-uBOohJFKv5h9.jpg",
-          "character": "Fido",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b174878-UUIgGeJqHarv.png",
-          "character": "Kaie Taniya",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210923-q3ND01Sd08RP.png",
-          "character": "Henrietta von Penrose",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210911-YtxQQzl8DBug.png",
-          "character": "Daiya Irma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210922-hKvw63IJ5F41.png",
-          "character": "Mina Atomica",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210912-zBfDz63uEAAT.png",
-          "character": "Haruto Keats",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b224075-0aCPb6n7K3AB.png",
-          "character": "Shourei Nouzen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210921-xyo41JTWoBeB.png",
-          "character": "Lev Aldrecht",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210918-NcX3CeUqourY.png",
-          "character": "Rin Rekka",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1536/106658l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1324/110843l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1162/113301l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Drama",
-        "Mecha",
-        "Sci-Fi"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 11,
-      "season": "SPRING",
-      "seasonYear": 2021,
-      "startDate": {
-        "year": 2021,
-        "month": 4,
-        "day": 11
-      },
-      "averageScore": 82,
-      "popularity": 266604,
-      "favourites": 14977,
-      "trailer": "VSdS29SDvn4",
-      "studios": [
-        "A-1 Pictures"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://anime-86.com/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/86-eighty-six"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/2aef2fzzzvp"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81442047"
         }
       ],
       "nextAiring": null
@@ -25096,7 +25096,7 @@
         "day": 4
       },
       "averageScore": 85,
-      "popularity": 263373,
+      "popularity": 263440,
       "favourites": 14440,
       "trailer": null,
       "studios": [
@@ -25250,7 +25250,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 261232,
+      "popularity": 261288,
       "favourites": 5809,
       "trailer": "_TpTn3o-_Yk",
       "studios": [
@@ -25879,7 +25879,7 @@
         "day": 6
       },
       "averageScore": 84,
-      "popularity": 258492,
+      "popularity": 258549,
       "favourites": 8810,
       "trailer": "yTjbZQyOesY",
       "studios": [
@@ -26269,13 +26269,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87629-dW2MuHcSWLIl.png",
-          "character": "Shizuku Ninomiya",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87631-LAvyBujg4UO5.png",
+          "character": "Yayoi Kanbara",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b87631-LAvyBujg4UO5.png",
-          "character": "Yayoi Kanbara",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/87629-dW2MuHcSWLIl.png",
+          "character": "Shizuku Ninomiya",
           "role": "SUPPORTING"
         },
         {
@@ -26829,7 +26829,7 @@
         "day": 9
       },
       "averageScore": 89,
-      "popularity": 253634,
+      "popularity": 253699,
       "favourites": 14032,
       "trailer": "RN4FFgHpAZo",
       "studios": [
@@ -27187,7 +27187,7 @@
         "day": 16
       },
       "averageScore": 80,
-      "popularity": 250264,
+      "popularity": 250351,
       "favourites": 6516,
       "trailer": "92a7Hj0ijLs",
       "studios": [
@@ -27694,7 +27694,7 @@
         "day": 20
       },
       "averageScore": 84,
-      "popularity": 249249,
+      "popularity": 249349,
       "favourites": 13140,
       "trailer": null,
       "studios": [
@@ -27854,7 +27854,7 @@
         "day": 25
       },
       "averageScore": 68,
-      "popularity": 246442,
+      "popularity": 246532,
       "favourites": 4538,
       "trailer": "3KgeAos9oNc",
       "studios": [
@@ -28197,13 +28197,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
-          "character": "Ikumi Mito",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
+          "character": "Satoshi Isshiki",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
-          "character": "Satoshi Isshiki",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
+          "character": "Ikumi Mito",
           "role": "SUPPORTING"
         },
         {
@@ -28284,7 +28284,7 @@
         "day": 2
       },
       "averageScore": 79,
-      "popularity": 240029,
+      "popularity": 240058,
       "favourites": 2864,
       "trailer": "O_tsnSmpM-k",
       "studios": [
@@ -28589,7 +28589,7 @@
         "day": 11
       },
       "averageScore": 69,
-      "popularity": 239100,
+      "popularity": 239154,
       "favourites": 4360,
       "trailer": "4rQ1CJQZvzQ",
       "studios": [
@@ -30045,7 +30045,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 233009,
+      "popularity": 233080,
       "favourites": 7667,
       "trailer": "JwaruTPKq9I",
       "studios": [
@@ -30977,7 +30977,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 230158,
+      "popularity": 230222,
       "favourites": 10769,
       "trailer": "ZM8a3QYtOfA",
       "studios": [
@@ -31164,7 +31164,7 @@
         "day": 26
       },
       "averageScore": 80,
-      "popularity": 229710,
+      "popularity": 229781,
       "favourites": 12076,
       "trailer": null,
       "studios": [
@@ -31602,7 +31602,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 227983,
+      "popularity": 228043,
       "favourites": 6729,
       "trailer": "S4VDmPgxpTs",
       "studios": [
@@ -33438,13 +33438,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/20264.jpg",
-          "character": "Leigharch",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22186-inZE84OgoeVd.png",
+          "character": "Yolanda",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b22186-inZE84OgoeVd.png",
-          "character": "Yolanda",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/20264.jpg",
+          "character": "Leigharch",
           "role": "SUPPORTING"
         },
         {
@@ -33527,7 +33527,7 @@
         "day": 9
       },
       "averageScore": 78,
-      "popularity": 220523,
+      "popularity": 220617,
       "favourites": 7232,
       "trailer": "AlZmD15k-F4",
       "studios": [
@@ -34791,7 +34791,7 @@
         "day": 6
       },
       "averageScore": 80,
-      "popularity": 218578,
+      "popularity": 218683,
       "favourites": 12459,
       "trailer": "lpv7Wv-sDAo",
       "studios": [
@@ -34936,7 +34936,7 @@
         "day": 6
       },
       "averageScore": 81,
-      "popularity": 218556,
+      "popularity": 218597,
       "favourites": 4866,
       "trailer": "aeX94e7V0_w",
       "studios": [
@@ -35025,13 +35025,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142531-Z8b5Jee4R2FM.jpg",
-          "character": "Hermes",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88896-zhwTEI30T5XB.jpg",
+          "character": "Eina Tulle",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88896-zhwTEI30T5XB.jpg",
-          "character": "Eina Tulle",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142531-Z8b5Jee4R2FM.jpg",
+          "character": "Hermes",
           "role": "SUPPORTING"
         },
         {
@@ -36098,7 +36098,7 @@
         "day": 10
       },
       "averageScore": 79,
-      "popularity": 215334,
+      "popularity": 215366,
       "favourites": 8285,
       "trailer": "guStf5P4Js0",
       "studios": [
@@ -36697,7 +36697,7 @@
         "day": 3
       },
       "averageScore": 77,
-      "popularity": 214573,
+      "popularity": 214629,
       "favourites": 6694,
       "trailer": "de9OckSLP1o",
       "studios": [
@@ -36983,7 +36983,7 @@
         "day": 4
       },
       "averageScore": 74,
-      "popularity": 212954,
+      "popularity": 212992,
       "favourites": 4392,
       "trailer": "NkqePv9i6Yw",
       "studios": [
@@ -37126,7 +37126,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 212865,
+      "popularity": 212899,
       "favourites": 7599,
       "trailer": "r5BL6gBZjOI",
       "studios": [
@@ -37267,7 +37267,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 212585,
+      "popularity": 212637,
       "favourites": 2518,
       "trailer": "XmfXcVLA1d8",
       "studios": [
@@ -37449,7 +37449,7 @@
         "day": 28
       },
       "averageScore": 85,
-      "popularity": 212398,
+      "popularity": 212503,
       "favourites": 13616,
       "trailer": "UXQraSkOOGs",
       "studios": [
@@ -38230,7 +38230,7 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 209388,
+      "popularity": 209426,
       "favourites": 5246,
       "trailer": "0i1AxFdlu0M",
       "studios": [
@@ -38889,7 +38889,7 @@
         "day": 26
       },
       "averageScore": 78,
-      "popularity": 206933,
+      "popularity": 206996,
       "favourites": 7245,
       "trailer": null,
       "studios": [
@@ -39458,13 +39458,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88236-3uo82FeXbi6r.jpg",
-          "character": "Kiyoko",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142840-zAC5gjvWPu6i.png",
+          "character": "Miyako",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142840-zAC5gjvWPu6i.png",
-          "character": "Miyako",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88236-3uo82FeXbi6r.jpg",
+          "character": "Kiyoko",
           "role": "SUPPORTING"
         },
         {
