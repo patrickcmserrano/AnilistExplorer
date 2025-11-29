@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-29T00:41:06.160430",
+    "updatedAt": "2025-11-29T06:20:27.558960",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -461,13 +461,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3767-pSbmazo2I7ZD.png",
-          "character": "Shuuichi Aizawa",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
+          "character": "Stephen Loud",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
-          "character": "Stephen Loud",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3767-pSbmazo2I7ZD.png",
+          "character": "Shuuichi Aizawa",
           "role": "SUPPORTING"
         }
       ],
@@ -2004,7 +2004,7 @@
         "day": 5
       },
       "averageScore": 90,
-      "popularity": 641815,
+      "popularity": 642068,
       "favourites": 53161,
       "trailer": null,
       "studios": [
@@ -4940,7 +4940,7 @@
         "day": 6
       },
       "averageScore": 89,
-      "popularity": 527309,
+      "popularity": 527503,
       "favourites": 44618,
       "trailer": "27OZc-ku6is",
       "studios": [
@@ -5288,7 +5288,7 @@
         "day": 12
       },
       "averageScore": 83,
-      "popularity": 516561,
+      "popularity": 516776,
       "favourites": 27869,
       "trailer": "v4yLeNt-kCU",
       "studios": [
@@ -5639,7 +5639,7 @@
         "day": 3
       },
       "averageScore": 79,
-      "popularity": 504009,
+      "popularity": 504214,
       "favourites": 23819,
       "trailer": "vUjAxk1qYzQ",
       "studios": [
@@ -6671,7 +6671,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 485493,
+      "popularity": 485636,
       "favourites": 16422,
       "trailer": "ya570uUgQNc",
       "studios": [
@@ -7875,7 +7875,7 @@
         "day": 10
       },
       "averageScore": 81,
-      "popularity": 455831,
+      "popularity": 455971,
       "favourites": 24785,
       "trailer": "tryurXgGqkI",
       "studios": [
@@ -9450,7 +9450,7 @@
         "day": 17
       },
       "averageScore": 72,
-      "popularity": 421693,
+      "popularity": 421787,
       "favourites": 6363,
       "trailer": "0HHNeeXrysA",
       "studios": [
@@ -9939,7 +9939,7 @@
         "day": 10
       },
       "averageScore": 74,
-      "popularity": 419013,
+      "popularity": 419147,
       "favourites": 6464,
       "trailer": "NezvLw2gRAY",
       "studios": [
@@ -10963,7 +10963,7 @@
         "day": 3
       },
       "averageScore": 77,
-      "popularity": 403510,
+      "popularity": 403602,
       "favourites": 11562,
       "trailer": null,
       "studios": [
@@ -11291,7 +11291,7 @@
         "day": 11
       },
       "averageScore": 76,
-      "popularity": 399497,
+      "popularity": 399585,
       "favourites": 12547,
       "trailer": "nYQUVwwD-H4",
       "studios": [
@@ -13026,13 +13026,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
-          "character": "Ikumi Mito",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
+          "character": "Satoshi Isshiki",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
-          "character": "Satoshi Isshiki",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
+          "character": "Ikumi Mito",
           "role": "SUPPORTING"
         },
         {
@@ -13475,7 +13475,7 @@
         "day": 27
       },
       "averageScore": 73,
-      "popularity": 364871,
+      "popularity": 364981,
       "favourites": 5151,
       "trailer": "5AkQ0GxQTQM",
       "studios": [
@@ -13983,7 +13983,7 @@
         "day": 7
       },
       "averageScore": 85,
-      "popularity": 360800,
+      "popularity": 360933,
       "favourites": 18876,
       "trailer": "AQbaZeby2zA",
       "studios": [
@@ -15236,13 +15236,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260976-BJaZR85k4YFp.png",
-          "character": "Nobara",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306932-Kzkp153E7Z0v.png",
+          "character": "Suzuka Itou",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b306932-Kzkp153E7Z0v.png",
-          "character": "Suzuka Itou",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b260976-BJaZR85k4YFp.png",
+          "character": "Nobara",
           "role": "SUPPORTING"
         },
         {
@@ -15642,7 +15642,7 @@
         "day": 12
       },
       "averageScore": 71,
-      "popularity": 339544,
+      "popularity": 339658,
       "favourites": 11226,
       "trailer": "mAAKPx-ndAg",
       "studios": [
@@ -18929,7 +18929,7 @@
         "day": 3
       },
       "averageScore": 82,
-      "popularity": 308983,
+      "popularity": 309073,
       "favourites": 15530,
       "trailer": "X63_YYZjKxA",
       "studios": [
@@ -19269,7 +19269,7 @@
         "day": 2
       },
       "averageScore": 74,
-      "popularity": 301220,
+      "popularity": 301276,
       "favourites": 6458,
       "trailer": "RNyClma6awo",
       "studios": [
@@ -19295,6 +19295,164 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/tower-of-god-b2623f96-4b19-4b95-9dc4-443f4bfc2fa0"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 120377,
+      "title": {
+        "english": "Cyberpunk: Edgerunners",
+        "romaji": "Cyberpunk: Edgerunners",
+        "native": "サイバーパンク エッジランナーズ"
+      },
+      "description": "An original anime series set in in the universe of <i>Cyberpunk 2077</i>.<br>\n<br>\n<i>Cyberpunk: Edgerunners</i> tells a standalone, 10-episode story about a street kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an edgerunner—a mercenary outlaw also known as a cyberpunk.<br>\n<br>\n(Source: CD PROJEKT RED)<br>\n<br>\n<i>Note: The first episode received a pre-screening at Anime Expo on July 2, 2022. The first 3 dubbed episodes were streamed on Twitch as part of a co-stream promotion on September 12, a day before the show’s premiere.</i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120377-c15oLS8CA31s.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg",
+          "character": "Lucy",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png",
+          "character": "David Martinez",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg",
+          "character": "Rebecca",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png",
+          "character": "Maine",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg",
+          "character": "Kiwi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287420-AzHYB6Sjt2Vj.jpg",
+          "character": "Falco",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287490-Q8gZBPizCCGp.jpg",
+          "character": "Adam Smasher",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284166-nB27pcRfIxvj.png",
+          "character": "Gloria Martinez",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png",
+          "character": "Dorio",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284162-KnRpkNpdbqx8.png",
+          "character": "Pilar",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284164-U9A3c65rl1il.png",
+          "character": "Ripperdoc",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284165-sQpdUhtcWquN.jpg",
+          "character": "Faraday",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287455-RhQOyRmoFGSb.png",
+          "character": "Delamain",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287439-lMrTnG8AWzg1.jpg",
+          "character": "Jimmy Kurosaki",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287940-EImqVzV8sirU.png",
+          "character": "Julio",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1656/124329l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1129/135442l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1832/144899l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1786/144908l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "format": "ONA",
+      "episodes": 10,
+      "season": "SUMMER",
+      "seasonYear": 2022,
+      "startDate": {
+        "year": 2022,
+        "month": 9,
+        "day": 13
+      },
+      "averageScore": 85,
+      "popularity": 301167,
+      "favourites": 22440,
+      "trailer": "ax5YUmkWf_Y",
+      "studios": [
+        "TRIGGER"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/81054853"
+        },
+        {
+          "type": "INFO",
+          "url": "https://www.cyberpunk.net/ja/edgerunners"
+        },
+        {
+          "type": "INFO",
+          "url": "https://www.cyberpunk.net/en/edgerunners"
         }
       ],
       "nextAiring": null
@@ -19474,164 +19632,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.hulu.com/series/miss-kobayashis-dragon-maid-8649fd36-8025-412a-bec7-2e03fde2ea77"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 120377,
-      "title": {
-        "english": "Cyberpunk: Edgerunners",
-        "romaji": "Cyberpunk: Edgerunners",
-        "native": "サイバーパンク エッジランナーズ"
-      },
-      "description": "An original anime series set in in the universe of <i>Cyberpunk 2077</i>.<br>\n<br>\n<i>Cyberpunk: Edgerunners</i> tells a standalone, 10-episode story about a street kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an edgerunner—a mercenary outlaw also known as a cyberpunk.<br>\n<br>\n(Source: CD PROJEKT RED)<br>\n<br>\n<i>Note: The first episode received a pre-screening at Anime Expo on July 2, 2022. The first 3 dubbed episodes were streamed on Twitch as part of a co-stream promotion on September 12, a day before the show’s premiere.</i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120377-c15oLS8CA31s.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg",
-          "character": "Lucy",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png",
-          "character": "David Martinez",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg",
-          "character": "Rebecca",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png",
-          "character": "Maine",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg",
-          "character": "Kiwi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287420-AzHYB6Sjt2Vj.jpg",
-          "character": "Falco",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287490-Q8gZBPizCCGp.jpg",
-          "character": "Adam Smasher",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284166-nB27pcRfIxvj.png",
-          "character": "Gloria Martinez",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png",
-          "character": "Dorio",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284162-KnRpkNpdbqx8.png",
-          "character": "Pilar",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284164-U9A3c65rl1il.png",
-          "character": "Ripperdoc",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b284165-sQpdUhtcWquN.jpg",
-          "character": "Faraday",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287455-RhQOyRmoFGSb.png",
-          "character": "Delamain",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287439-lMrTnG8AWzg1.jpg",
-          "character": "Jimmy Kurosaki",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b287940-EImqVzV8sirU.png",
-          "character": "Julio",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1656/124329l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1129/135442l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1832/144899l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1786/144908l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Drama",
-        "Psychological",
-        "Sci-Fi"
-      ],
-      "status": "FINISHED",
-      "format": "ONA",
-      "episodes": 10,
-      "season": "SUMMER",
-      "seasonYear": 2022,
-      "startDate": {
-        "year": 2022,
-        "month": 9,
-        "day": 13
-      },
-      "averageScore": 85,
-      "popularity": 301024,
-      "favourites": 22440,
-      "trailer": "ax5YUmkWf_Y",
-      "studios": [
-        "TRIGGER"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/81054853"
-        },
-        {
-          "type": "INFO",
-          "url": "https://www.cyberpunk.net/ja/edgerunners"
-        },
-        {
-          "type": "INFO",
-          "url": "https://www.cyberpunk.net/en/edgerunners"
         }
       ],
       "nextAiring": null
@@ -20040,13 +20040,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270704-FvYlWMLwLa0C.png",
-          "character": "Tarou",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245467-xnhV5etjTvHZ.png",
+          "character": "Acrobatic Sarasara",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b245467-xnhV5etjTvHZ.png",
-          "character": "Acrobatic Sarasara",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b270704-FvYlWMLwLa0C.png",
+          "character": "Tarou",
           "role": "SUPPORTING"
         },
         {
@@ -20752,7 +20752,7 @@
         "day": 7
       },
       "averageScore": 83,
-      "popularity": 290225,
+      "popularity": 290340,
       "favourites": 18585,
       "trailer": "6CTHwEZK2JA",
       "studios": [
@@ -21575,7 +21575,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 279610,
+      "popularity": 279692,
       "favourites": 8785,
       "trailer": "WHq46obaDR8",
       "studios": [
@@ -23182,7 +23182,7 @@
         "day": 6
       },
       "averageScore": 69,
-      "popularity": 271064,
+      "popularity": 271128,
       "favourites": 4918,
       "trailer": "8i3Xvs4R0WY",
       "studios": [
@@ -24032,7 +24032,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 267869,
+      "popularity": 267936,
       "favourites": 7415,
       "trailer": "q5qlX4lWst0",
       "studios": [
@@ -24358,7 +24358,7 @@
         "day": 11
       },
       "averageScore": 82,
-      "popularity": 266721,
+      "popularity": 266825,
       "favourites": 14986,
       "trailer": "VSdS29SDvn4",
       "studios": [
@@ -25250,7 +25250,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 261288,
+      "popularity": 261329,
       "favourites": 5811,
       "trailer": "_TpTn3o-_Yk",
       "studios": [
@@ -25340,13 +25340,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131566-2v1OVoEuhaiA.jpg",
-          "character": "Derieri",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131559-MmROAidOkGqL.jpg",
+          "character": "Zeldris",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131559-MmROAidOkGqL.jpg",
-          "character": "Zeldris",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b131566-2v1OVoEuhaiA.jpg",
+          "character": "Derieri",
           "role": "SUPPORTING"
         },
         {
@@ -25734,7 +25734,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 258732,
+      "popularity": 258812,
       "favourites": 7514,
       "trailer": null,
       "studios": [
@@ -25879,7 +25879,7 @@
         "day": 6
       },
       "averageScore": 84,
-      "popularity": 258549,
+      "popularity": 258615,
       "favourites": 8811,
       "trailer": "yTjbZQyOesY",
       "studios": [
@@ -26508,7 +26508,7 @@
         "day": 5
       },
       "averageScore": 66,
-      "popularity": 255665,
+      "popularity": 255750,
       "favourites": 4045,
       "trailer": "Kl6cNSBg3Wg",
       "studios": [
@@ -26829,7 +26829,7 @@
         "day": 9
       },
       "averageScore": 89,
-      "popularity": 253699,
+      "popularity": 253766,
       "favourites": 14037,
       "trailer": "RN4FFgHpAZo",
       "studios": [
@@ -27334,7 +27334,7 @@
         "day": 3
       },
       "averageScore": 78,
-      "popularity": 249993,
+      "popularity": 250070,
       "favourites": 10330,
       "trailer": "mFHue76hqt0",
       "studios": [
@@ -28589,7 +28589,7 @@
         "day": 11
       },
       "averageScore": 69,
-      "popularity": 239154,
+      "popularity": 239199,
       "favourites": 4361,
       "trailer": "4rQ1CJQZvzQ",
       "studios": [
@@ -29433,7 +29433,7 @@
         "day": 3
       },
       "averageScore": 72,
-      "popularity": 235506,
+      "popularity": 235589,
       "favourites": 4833,
       "trailer": "EoipHZFNXv0",
       "studios": [
@@ -31602,7 +31602,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 228043,
+      "popularity": 228101,
       "favourites": 6729,
       "trailer": "S4VDmPgxpTs",
       "studios": [
@@ -31933,7 +31933,7 @@
         "day": 17
       },
       "averageScore": 67,
-      "popularity": 227046,
+      "popularity": 227112,
       "favourites": 2469,
       "trailer": "BA_fnEQ5PEk",
       "studios": [
@@ -35596,7 +35596,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 216395,
+      "popularity": 216490,
       "favourites": 7027,
       "trailer": "_gJR6gfRYEQ",
       "studios": [
@@ -36098,7 +36098,7 @@
         "day": 10
       },
       "averageScore": 79,
-      "popularity": 215366,
+      "popularity": 215400,
       "favourites": 8282,
       "trailer": "guStf5P4Js0",
       "studios": [
@@ -36697,7 +36697,7 @@
         "day": 3
       },
       "averageScore": 77,
-      "popularity": 214629,
+      "popularity": 214697,
       "favourites": 6697,
       "trailer": "de9OckSLP1o",
       "studios": [
@@ -37815,13 +37815,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
-          "character": "Ikumi Mito",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
+          "character": "Satoshi Isshiki",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
-          "character": "Satoshi Isshiki",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
+          "character": "Ikumi Mito",
           "role": "SUPPORTING"
         },
         {
@@ -39215,7 +39215,7 @@
         "day": 5
       },
       "averageScore": 56,
-      "popularity": 205906,
+      "popularity": 205947,
       "favourites": 3181,
       "trailer": "ppLE9xycGm4",
       "studios": [
@@ -39894,7 +39894,7 @@
         "day": 3
       },
       "averageScore": 87,
-      "popularity": 202647,
+      "popularity": 202700,
       "favourites": 14178,
       "trailer": "IecYMqp1N4k",
       "studios": [
