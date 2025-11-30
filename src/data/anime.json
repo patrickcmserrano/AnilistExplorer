@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-30T06:20:43.729225",
+    "updatedAt": "2025-11-30T12:21:32.834505",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -722,7 +722,7 @@
         "day": 3
       },
       "averageScore": 84,
-      "popularity": 832356,
+      "popularity": 832642,
       "favourites": 49581,
       "trailer": "pkKu9hLT-t8",
       "studios": [
@@ -1100,7 +1100,7 @@
         "day": 2
       },
       "averageScore": 89,
-      "popularity": 743484,
+      "popularity": 743751,
       "favourites": 70386,
       "trailer": "d6kBeJjTGnY",
       "studios": [
@@ -3083,7 +3083,7 @@
         "day": 1
       },
       "averageScore": 79,
-      "popularity": 591542,
+      "popularity": 591687,
       "favourites": 8667,
       "trailer": "tEPneR3KFK8",
       "studios": [
@@ -3444,7 +3444,7 @@
         "day": 7
       },
       "averageScore": 86,
-      "popularity": 567790,
+      "popularity": 567949,
       "favourites": 19734,
       "trailer": "MUCN-JwUvbY",
       "studios": [
@@ -4940,7 +4940,7 @@
         "day": 6
       },
       "averageScore": 89,
-      "popularity": 527503,
+      "popularity": 527685,
       "favourites": 44626,
       "trailer": "27OZc-ku6is",
       "studios": [
@@ -6526,6 +6526,159 @@
       "nextAiring": null
     },
     {
+      "id": 21827,
+      "title": {
+        "english": "Violet Evergarden",
+        "romaji": "Violet Evergarden",
+        "native": "ヴァイオレット・エヴァーガーデン"
+      },
+      "description": "A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation. Violet Evergarden, a young girl formerly known as “the weapon”, has left the battlefield to start a new life at CH Postal Service. There, she is deeply moved by the work of “Auto Memories Dolls”, who carry people's thoughts and convert them into words. Violet begins her journey as an Auto Memories Doll, and comes face to face with various people's emotions and differing shapes of love. There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning but she searches to find it.<br>\n<br>\n(Source: Anime News Network)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21827-ROucgYiiiSpR.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png",
+          "character": "Violet Evergarden",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png",
+          "character": "Gilbert Bougainvillea",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg",
+          "character": "Benedict Blue",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg",
+          "character": "Cattleya Baudelaire",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg",
+          "character": "Claudia Hodgins",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124793-dLsKOcQbMu85.png",
+          "character": "Iris Cannary",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124789-DLp0QEJZeiQ8.png",
+          "character": "Dietfried Bougainvillea",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129999-jMLXrlIQ98GK.png",
+          "character": "Leon Stephanotis",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124810-CuoTUTc7U08r.jpg",
+          "character": "Luculia Marlborough",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124792-NWFK2r8zIxYX.jpg",
+          "character": "Erica Brown",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142149-YY3OJb6VnZNy.png",
+          "character": "Charlotte Abelfreyja Drossel",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213148-YPki9cHn5qrw.jpg",
+          "character": "Ann Magnolia",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124807-cTrQjEhuQC5e.jpg",
+          "character": "Roland",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223023-wV9gimuZXbHn.png",
+          "character": "Oscar Webster",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124791-UZv7eQrf3b2J.jpg",
+          "character": "Bridget",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1503/95089l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1833/145304l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1035/145305l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1594/145306l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1349/145307l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "WINTER",
+      "seasonYear": 2018,
+      "startDate": {
+        "year": 2018,
+        "month": 1,
+        "day": 11
+      },
+      "averageScore": 85,
+      "popularity": 485661,
+      "favourites": 30489,
+      "trailer": "_grmduuECm4",
+      "studios": [
+        "Kyoto Animation"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/80182123"
+        },
+        {
+          "type": "INFO",
+          "url": "http://tv.violet-evergarden.jp/"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 4224,
       "title": {
         "english": "Toradora!",
@@ -6697,159 +6850,6 @@
         {
           "type": "STREAMING",
           "url": "https://tubitv.com/series/300007821/toradora"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 21827,
-      "title": {
-        "english": "Violet Evergarden",
-        "romaji": "Violet Evergarden",
-        "native": "ヴァイオレット・エヴァーガーデン"
-      },
-      "description": "A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation. Violet Evergarden, a young girl formerly known as “the weapon”, has left the battlefield to start a new life at CH Postal Service. There, she is deeply moved by the work of “Auto Memories Dolls”, who carry people's thoughts and convert them into words. Violet begins her journey as an Auto Memories Doll, and comes face to face with various people's emotions and differing shapes of love. There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning but she searches to find it.<br>\n<br>\n(Source: Anime News Network)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21827-ROucgYiiiSpR.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b90169-4wr1Zehnsac8.png",
-          "character": "Violet Evergarden",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124790-QR7zyemTK0zq.png",
-          "character": "Gilbert Bougainvillea",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124788-upZ5vtGwndzt.jpg",
-          "character": "Benedict Blue",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124787-1HuZGawvoejp.jpg",
-          "character": "Cattleya Baudelaire",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124799-htaqVGZd83GW.jpg",
-          "character": "Claudia Hodgins",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124793-dLsKOcQbMu85.png",
-          "character": "Iris Cannary",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124789-DLp0QEJZeiQ8.png",
-          "character": "Dietfried Bougainvillea",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b129999-jMLXrlIQ98GK.png",
-          "character": "Leon Stephanotis",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124810-CuoTUTc7U08r.jpg",
-          "character": "Luculia Marlborough",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124792-NWFK2r8zIxYX.jpg",
-          "character": "Erica Brown",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b142149-YY3OJb6VnZNy.png",
-          "character": "Charlotte Abelfreyja Drossel",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213148-YPki9cHn5qrw.jpg",
-          "character": "Ann Magnolia",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/124807-cTrQjEhuQC5e.jpg",
-          "character": "Roland",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b223023-wV9gimuZXbHn.png",
-          "character": "Oscar Webster",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124791-UZv7eQrf3b2J.jpg",
-          "character": "Bridget",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1503/95089l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1833/145304l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1035/145305l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1594/145306l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1349/145307l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Slice of Life"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "WINTER",
-      "seasonYear": 2018,
-      "startDate": {
-        "year": 2018,
-        "month": 1,
-        "day": 11
-      },
-      "averageScore": 85,
-      "popularity": 485557,
-      "favourites": 30489,
-      "trailer": "_grmduuECm4",
-      "studios": [
-        "Kyoto Animation"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/80182123"
-        },
-        {
-          "type": "INFO",
-          "url": "http://tv.violet-evergarden.jp/"
         }
       ],
       "nextAiring": null
@@ -8233,7 +8233,7 @@
         "day": 16
       },
       "averageScore": 84,
-      "popularity": 449936,
+      "popularity": 450066,
       "favourites": 11102,
       "trailer": "23riEOmDOgM",
       "studios": [
@@ -9450,7 +9450,7 @@
         "day": 17
       },
       "averageScore": 72,
-      "popularity": 421787,
+      "popularity": 421888,
       "favourites": 6367,
       "trailer": "0HHNeeXrysA",
       "studios": [
@@ -10963,7 +10963,7 @@
         "day": 3
       },
       "averageScore": 77,
-      "popularity": 403602,
+      "popularity": 403702,
       "favourites": 11561,
       "trailer": null,
       "studios": [
@@ -11662,7 +11662,7 @@
         "day": 9
       },
       "averageScore": 68,
-      "popularity": 390852,
+      "popularity": 390963,
       "favourites": 7266,
       "trailer": "KfznTm8mJA4",
       "studios": [
@@ -11810,7 +11810,7 @@
         "day": 11
       },
       "averageScore": 85,
-      "popularity": 389841,
+      "popularity": 389923,
       "favourites": 14466,
       "trailer": "_NkxM_uLUpw",
       "studios": [
@@ -13833,7 +13833,7 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 363336,
+      "popularity": 363405,
       "favourites": 9527,
       "trailer": "oDWkt8wcYh8",
       "studios": [
@@ -15161,7 +15161,7 @@
         "day": 10
       },
       "averageScore": 70,
-      "popularity": 348264,
+      "popularity": 348361,
       "favourites": 6195,
       "trailer": "12tJBLJ9uQA",
       "studios": [
@@ -15642,7 +15642,7 @@
         "day": 12
       },
       "averageScore": 71,
-      "popularity": 339658,
+      "popularity": 339761,
       "favourites": 11232,
       "trailer": "mAAKPx-ndAg",
       "studios": [
@@ -15803,7 +15803,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 336710,
+      "popularity": 336766,
       "favourites": 8014,
       "trailer": "9jVxMt845AY",
       "studios": [
@@ -16618,7 +16618,7 @@
         "day": 8
       },
       "averageScore": 87,
-      "popularity": 330329,
+      "popularity": 330383,
       "favourites": 10715,
       "trailer": "kJfU5boNUIE",
       "studios": [
@@ -17628,6 +17628,191 @@
       "nextAiring": null
     },
     {
+      "id": 10087,
+      "title": {
+        "english": "Fate/Zero",
+        "romaji": "Fate/Zero",
+        "native": "Fate/Zero"
+      },
+      "description": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated \"Magus Killer\" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.\n<br><br>\nKiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.\n<br><br>\nBased on the light novel written by Gen Urobuchi, <i>Fate/Zero</i> depicts the events of the Fourth Holy Grail War—10 years prior to <i>Fate/stay night</i>. Witness a battle royale in which no one is guaranteed to survive.\n<br><br>\n(Source: MAL Rewrite)\n<br><br>\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10087-M4Hd9qrHGrXk.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10087-32MFY9VnJQ7I.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
+          "character": "Artoria Pendragon",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
+          "character": "Gilgamesh",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png",
+          "character": "Kiritsugu Emiya",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16021-w5Jn1eb807vt.png",
+          "character": "Iskandar",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png",
+          "character": "Kirei Kotomine",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16023-gfwOgU1743ff.png",
+          "character": "Waver Velvet",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b15164-BPfYcnNR3PwN.png",
+          "character": "Irisviel von Einzbern",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16022-rdonZr99a9XO.png",
+          "character": "Diarmuid  Ua Duibhne",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16026-cicpiktY4SOs.png",
+          "character": "Kariya Matou",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16024-MZXEjshw6q6B.png",
+          "character": "Gilles de Rais",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16019-nFljwebXHDqc.png",
+          "character": "Ryuunosuke Uryuu",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16017-YvEqC99MKJzv.png",
+          "character": "Tokiomi Toosaka",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16028-ISNmfeK28uCj.png",
+          "character": "Kayneth Archibald El-Melloi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png",
+          "character": "Sakura Matou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png",
+          "character": "Rin Tohsaka",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/3/35097l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/6/35999l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/4/36001l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/36473l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/11/38539l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/9/38541l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1345/98624l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1980/105168l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1887/117644l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "FALL",
+      "seasonYear": 2011,
+      "startDate": {
+        "year": 2011,
+        "month": 10,
+        "day": 2
+      },
+      "averageScore": 81,
+      "popularity": 315728,
+      "favourites": 10308,
+      "trailer": "n-7PFiut1HI",
+      "studios": [
+        "ufotable"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "http://www.hulu.com/fatezero"
+        },
+        {
+          "type": "INFO",
+          "url": "http://www.fate-zero.jp/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.crunchyroll.com/fatezero"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/70304256"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.iq.com/album/fate-zero-y16naz6369?frmrp=play&frmb=album_information&frmrs=album"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/35414"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 98460,
       "title": {
         "english": "Devilman Crybaby",
@@ -17793,191 +17978,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.netflix.com/mx/title/80174974"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 10087,
-      "title": {
-        "english": "Fate/Zero",
-        "romaji": "Fate/Zero",
-        "native": "Fate/Zero"
-      },
-      "description": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated \"Magus Killer\" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.\n<br><br>\nKiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.\n<br><br>\nBased on the light novel written by Gen Urobuchi, <i>Fate/Zero</i> depicts the events of the Fourth Holy Grail War—10 years prior to <i>Fate/stay night</i>. Witness a battle royale in which no one is guaranteed to survive.\n<br><br>\n(Source: MAL Rewrite)\n<br><br>\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10087-M4Hd9qrHGrXk.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10087-32MFY9VnJQ7I.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b497-Yg5pNmC8kxzs.png",
-          "character": "Artoria Pendragon",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b2514-hnE6LEdqm7Su.png",
-          "character": "Gilgamesh",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b10010-fNspzan5MzNk.png",
-          "character": "Kiritsugu Emiya",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16021-w5Jn1eb807vt.png",
-          "character": "Iskandar",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b506-qeg0TqitdCMS.png",
-          "character": "Kirei Kotomine",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16023-gfwOgU1743ff.png",
-          "character": "Waver Velvet",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b15164-BPfYcnNR3PwN.png",
-          "character": "Irisviel von Einzbern",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16022-rdonZr99a9XO.png",
-          "character": "Diarmuid  Ua Duibhne",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16026-cicpiktY4SOs.png",
-          "character": "Kariya Matou",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16024-MZXEjshw6q6B.png",
-          "character": "Gilles de Rais",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16019-nFljwebXHDqc.png",
-          "character": "Ryuunosuke Uryuu",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16017-YvEqC99MKJzv.png",
-          "character": "Tokiomi Toosaka",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16028-ISNmfeK28uCj.png",
-          "character": "Kayneth Archibald El-Melloi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b500-NQrLbnBr1sDv.png",
-          "character": "Sakura Matou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b498-lwawtSpLyATL.png",
-          "character": "Rin Tohsaka",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/3/35097l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/6/35999l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/4/36001l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/12/36473l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/11/38539l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/9/38541l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1345/98624l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1980/105168l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1887/117644l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "FALL",
-      "seasonYear": 2011,
-      "startDate": {
-        "year": 2011,
-        "month": 10,
-        "day": 2
-      },
-      "averageScore": 81,
-      "popularity": 315630,
-      "favourites": 10308,
-      "trailer": "n-7PFiut1HI",
-      "studios": [
-        "ufotable"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "http://www.hulu.com/fatezero"
-        },
-        {
-          "type": "INFO",
-          "url": "http://www.fate-zero.jp/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.crunchyroll.com/fatezero"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/70304256"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.iq.com/album/fate-zero-y16naz6369?frmrp=play&frmb=album_information&frmrs=album"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/35414"
         }
       ],
       "nextAiring": null
@@ -18435,7 +18435,7 @@
         "day": 4
       },
       "averageScore": 83,
-      "popularity": 312977,
+      "popularity": 313052,
       "favourites": 16287,
       "trailer": null,
       "studios": [
@@ -19143,6 +19143,163 @@
       "nextAiring": null
     },
     {
+      "id": 115230,
+      "title": {
+        "english": "Tower of God",
+        "romaji": "Kami no Tou: Tower of God",
+        "native": "神之塔 -Tower of God-"
+      },
+      "description": "There is a tower that summons chosen people called \"Regulars\" with the promise of granting their deepest desires. Whether it be wealth, fame, authority, or something that surpasses them all—everything awaits those who reach the top.<br>\n<br>\nTwenty-Fifth Bam is a boy who had only known a dark cave, a dirty cloth, and an unreachable light his entire life. So when a girl named Rachel came to him through the light, his entire world changed. Becoming close friends with Rachel, he learned various things about the outside world from her. But when Rachel says she must leave him to climb the Tower, his world shatters around him. Vowing to follow after her no matter what it takes, he sets his sight on the tower, and a miracle occurs.<br>\n<br>\nThus begins the journey of Bam, a young boy who was not chosen by the Tower but opened its gates by himself. They call his kind \"Irregulars\"—beings that have shaken the very foundation of the Tower each time they set foot inside it.\n",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115230-wjDIxW77TLv3.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png",
+          "character": "Aguero Agnis Khun",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png",
+          "character": "Twenty-Fifth Baam",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84783-m1qgQvKVAoNn.jpg",
+          "character": "Rak Wraithraiser",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135466-vgW4DewsSkER.jpg",
+          "character": "Rachel",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124138-2WCq8CD8FEsv.png",
+          "character": "Endorsi Jahad",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84777-xeZZ3a9YM2Cn.png",
+          "character": "Yuri Ha Jahad",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135467-AyW5hucXmmea.jpg",
+          "character": "Hwaryun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137948-NYeFyFDeIoHd.png",
+          "character": "Lero-Ro",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137952-UEsMgoUb7bHQ.png",
+          "character": "Hatz",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135470-4glp1GObkU7P.png",
+          "character": "Anaak Jahad",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137957-qvngtbgmEyGT.png",
+          "character": "Shibisu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137958-FjrhxrKil0MA.jpg",
+          "character": "Lauroe Phonsekal",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141286-BCNl8KMkVQ2j.png",
+          "character": "Yu Han Sung",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84775-z3qbgw45QGW8.png",
+          "character": "Headon",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166496-altPHvQIN8D5.png",
+          "character": "Serena Rinnen",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1714/105925l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1702/106229l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1031/106877l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1269/110115l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "SPRING",
+      "seasonYear": 2020,
+      "startDate": {
+        "year": 2020,
+        "month": 4,
+        "day": 2
+      },
+      "averageScore": 74,
+      "popularity": 301346,
+      "favourites": 6459,
+      "trailer": "RNyClma6awo",
+      "studios": [
+        "Telecom Animation Film"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "https://tog-anime.com/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/tower-of-god"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://netflix.com/title/81329313"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/35839"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/tower-of-god-b2623f96-4b19-4b95-9dc4-443f4bfc2fa0"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 120377,
       "title": {
         "english": "Cyberpunk: Edgerunners",
@@ -19301,163 +19458,6 @@
       "nextAiring": null
     },
     {
-      "id": 115230,
-      "title": {
-        "english": "Tower of God",
-        "romaji": "Kami no Tou: Tower of God",
-        "native": "神之塔 -Tower of God-"
-      },
-      "description": "There is a tower that summons chosen people called \"Regulars\" with the promise of granting their deepest desires. Whether it be wealth, fame, authority, or something that surpasses them all—everything awaits those who reach the top.<br>\n<br>\nTwenty-Fifth Bam is a boy who had only known a dark cave, a dirty cloth, and an unreachable light his entire life. So when a girl named Rachel came to him through the light, his entire world changed. Becoming close friends with Rachel, he learned various things about the outside world from her. But when Rachel says she must leave him to climb the Tower, his world shatters around him. Vowing to follow after her no matter what it takes, he sets his sight on the tower, and a miracle occurs.<br>\n<br>\nThus begins the journey of Bam, a young boy who was not chosen by the Tower but opened its gates by himself. They call his kind \"Irregulars\"—beings that have shaken the very foundation of the Tower each time they set foot inside it.\n",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/115230-wjDIxW77TLv3.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84781-sNnhOZ1SZ66f.png",
-          "character": "Aguero Agnis Khun",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84769-NaLHptr4KXKd.png",
-          "character": "Twenty-Fifth Baam",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84783-m1qgQvKVAoNn.jpg",
-          "character": "Rak Wraithraiser",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135466-vgW4DewsSkER.jpg",
-          "character": "Rachel",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b124138-2WCq8CD8FEsv.png",
-          "character": "Endorsi Jahad",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84777-xeZZ3a9YM2Cn.png",
-          "character": "Yuri Ha Jahad",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135467-AyW5hucXmmea.jpg",
-          "character": "Hwaryun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137948-NYeFyFDeIoHd.png",
-          "character": "Lero-Ro",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137952-UEsMgoUb7bHQ.png",
-          "character": "Hatz",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135470-4glp1GObkU7P.png",
-          "character": "Anaak Jahad",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137957-qvngtbgmEyGT.png",
-          "character": "Shibisu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b137958-FjrhxrKil0MA.jpg",
-          "character": "Lauroe Phonsekal",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b141286-BCNl8KMkVQ2j.png",
-          "character": "Yu Han Sung",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84775-z3qbgw45QGW8.png",
-          "character": "Headon",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b166496-altPHvQIN8D5.png",
-          "character": "Serena Rinnen",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1714/105925l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1702/106229l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1031/106877l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1269/110115l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Mystery"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "SPRING",
-      "seasonYear": 2020,
-      "startDate": {
-        "year": 2020,
-        "month": 4,
-        "day": 2
-      },
-      "averageScore": 74,
-      "popularity": 301276,
-      "favourites": 6459,
-      "trailer": "RNyClma6awo",
-      "studios": [
-        "Telecom Animation Film"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "https://tog-anime.com/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/tower-of-god"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://netflix.com/title/81329313"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/35839"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/tower-of-god-b2623f96-4b19-4b95-9dc4-443f4bfc2fa0"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 21776,
       "title": {
         "english": "Miss Kobayashi's Dragon Maid",
@@ -19602,7 +19602,7 @@
         "day": 12
       },
       "averageScore": 77,
-      "popularity": 301208,
+      "popularity": 301271,
       "favourites": 9025,
       "trailer": "okBHQWnYImg",
       "studios": [
@@ -19946,7 +19946,7 @@
         "day": 4
       },
       "averageScore": 84,
-      "popularity": 296931,
+      "popularity": 297140,
       "favourites": 16022,
       "trailer": "vnRmIBoyfBM",
       "studios": [
@@ -20129,7 +20129,7 @@
         "day": 14
       },
       "averageScore": 81,
-      "popularity": 296909,
+      "popularity": 296989,
       "favourites": 6084,
       "trailer": "QqgqrrFbw3g",
       "studios": [
@@ -20752,7 +20752,7 @@
         "day": 7
       },
       "averageScore": 83,
-      "popularity": 290340,
+      "popularity": 290429,
       "favourites": 18589,
       "trailer": "6CTHwEZK2JA",
       "studios": [
@@ -21575,7 +21575,7 @@
         "day": 12
       },
       "averageScore": 81,
-      "popularity": 279692,
+      "popularity": 279805,
       "favourites": 8790,
       "trailer": "WHq46obaDR8",
       "studios": [
@@ -21875,8 +21875,8 @@
         "month": 7,
         "day": 11
       },
-      "averageScore": 66,
-      "popularity": 278341,
+      "averageScore": 65,
+      "popularity": 278401,
       "favourites": 5081,
       "trailer": "jZFEtc3CKHs",
       "studios": [
@@ -22366,7 +22366,7 @@
         "day": 6
       },
       "averageScore": 69,
-      "popularity": 276798,
+      "popularity": 276883,
       "favourites": 6529,
       "trailer": "tYDDS0OzV_Q",
       "studios": [
@@ -23182,7 +23182,7 @@
         "day": 6
       },
       "averageScore": 69,
-      "popularity": 271128,
+      "popularity": 271175,
       "favourites": 4920,
       "trailer": "8i3Xvs4R0WY",
       "studios": [
@@ -24032,7 +24032,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 267936,
+      "popularity": 268005,
       "favourites": 7421,
       "trailer": "q5qlX4lWst0",
       "studios": [
@@ -24358,7 +24358,7 @@
         "day": 11
       },
       "averageScore": 82,
-      "popularity": 266825,
+      "popularity": 266932,
       "favourites": 14991,
       "trailer": "VSdS29SDvn4",
       "studios": [
@@ -24906,7 +24906,7 @@
         "day": 4
       },
       "averageScore": 78,
-      "popularity": 263969,
+      "popularity": 264019,
       "favourites": 4655,
       "trailer": "JQc2JWkPgQo",
       "studios": [
@@ -25734,7 +25734,7 @@
         "day": 2
       },
       "averageScore": 77,
-      "popularity": 258812,
+      "popularity": 258879,
       "favourites": 7510,
       "trailer": null,
       "studios": [
@@ -26508,7 +26508,7 @@
         "day": 5
       },
       "averageScore": 66,
-      "popularity": 255750,
+      "popularity": 255832,
       "favourites": 4045,
       "trailer": "Kl6cNSBg3Wg",
       "studios": [
@@ -27334,7 +27334,7 @@
         "day": 3
       },
       "averageScore": 78,
-      "popularity": 250070,
+      "popularity": 250137,
       "favourites": 10329,
       "trailer": "mFHue76hqt0",
       "studios": [
@@ -30045,7 +30045,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 233240,
+      "popularity": 233333,
       "favourites": 7673,
       "trailer": "JwaruTPKq9I",
       "studios": [
@@ -30192,7 +30192,7 @@
         "day": 4
       },
       "averageScore": 72,
-      "popularity": 232649,
+      "popularity": 232715,
       "favourites": 5141,
       "trailer": "9qJyDlZst8c",
       "studios": [
@@ -30353,7 +30353,7 @@
         "day": 5
       },
       "averageScore": 86,
-      "popularity": 232434,
+      "popularity": 232603,
       "favourites": 11717,
       "trailer": "byJ7pxxhaDY",
       "studios": [
@@ -30802,7 +30802,7 @@
         "day": 3
       },
       "averageScore": 85,
-      "popularity": 230905,
+      "popularity": 230947,
       "favourites": 5709,
       "trailer": "gzDKOxrT3-k",
       "studios": [
@@ -31602,7 +31602,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 228101,
+      "popularity": 228162,
       "favourites": 6727,
       "trailer": "S4VDmPgxpTs",
       "studios": [
@@ -31933,7 +31933,7 @@
         "day": 17
       },
       "averageScore": 67,
-      "popularity": 227112,
+      "popularity": 227182,
       "favourites": 2473,
       "trailer": "BA_fnEQ5PEk",
       "studios": [
@@ -34139,7 +34139,7 @@
         "day": 14
       },
       "averageScore": 69,
-      "popularity": 219596,
+      "popularity": 219657,
       "favourites": 4094,
       "trailer": "JToS6gmWzgw",
       "studios": [
@@ -34936,7 +34936,7 @@
         "day": 6
       },
       "averageScore": 81,
-      "popularity": 218643,
+      "popularity": 218681,
       "favourites": 4868,
       "trailer": "aeX94e7V0_w",
       "studios": [
@@ -35264,7 +35264,7 @@
         "day": 3
       },
       "averageScore": 83,
-      "popularity": 217835,
+      "popularity": 217901,
       "favourites": 10180,
       "trailer": "CD6VdVDVDXI",
       "studios": [
@@ -35596,7 +35596,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 216490,
+      "popularity": 216569,
       "favourites": 7031,
       "trailer": "_gJR6gfRYEQ",
       "studios": [
@@ -35934,7 +35934,7 @@
         "day": 6
       },
       "averageScore": 65,
-      "popularity": 215598,
+      "popularity": 215659,
       "favourites": 3155,
       "trailer": "gMZDGyihTyc",
       "studios": [
@@ -36697,7 +36697,7 @@
         "day": 3
       },
       "averageScore": 77,
-      "popularity": 214697,
+      "popularity": 214749,
       "favourites": 6701,
       "trailer": "de9OckSLP1o",
       "studios": [
@@ -36983,7 +36983,7 @@
         "day": 4
       },
       "averageScore": 74,
-      "popularity": 213033,
+      "popularity": 213069,
       "favourites": 4393,
       "trailer": "NkqePv9i6Yw",
       "studios": [
@@ -37126,7 +37126,7 @@
         "day": 6
       },
       "averageScore": 77,
-      "popularity": 212947,
+      "popularity": 212981,
       "favourites": 7603,
       "trailer": "r5BL6gBZjOI",
       "studios": [
@@ -37267,7 +37267,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 212694,
+      "popularity": 212747,
       "favourites": 2521,
       "trailer": "XmfXcVLA1d8",
       "studios": [
@@ -38230,7 +38230,7 @@
         "day": 15
       },
       "averageScore": 80,
-      "popularity": 209482,
+      "popularity": 209525,
       "favourites": 5243,
       "trailer": "0i1AxFdlu0M",
       "studios": [
@@ -38567,7 +38567,7 @@
         "day": 2
       },
       "averageScore": 81,
-      "popularity": 208839,
+      "popularity": 208899,
       "favourites": 7883,
       "trailer": "WUMAeUwxsCk",
       "studios": [
@@ -40229,6 +40229,164 @@
       "nextAiring": null
     },
     {
+      "id": 109261,
+      "title": {
+        "english": "The Quintessential Quintuplets 2",
+        "romaji": "Go-toubun no Hanayome ∬",
+        "native": "五等分の花嫁∬"
+      },
+      "description": "Through their tutor Fuutarou Uesugi's diligent guidance, the Nakano quintuplets' academic performance shows signs of improvement, even if their path to graduation is still rocky. However, as they continue to cause various situations that delay any actual tutoring, Fuutarou becomes increasingly involved with their personal lives, further complicating their relationship with each other.\n<br><br>\nOn another note, Fuutarou slowly begins to realize the existence of a possible connection between him and the past he believes to have shared with one of the five girls. With everyone's feelings beginning to develop and overlap, will they be able to keep their bond strictly to that of a teacher and his students—or will it mature into something else entirely?\n<br><br>\n(Source: MAL Rewrite)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109261-65rKxMDlcU9r.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109261-UfxQjnmmfAOp.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126375-dEe9IyQ9By09.png",
+          "character": "Itsuki Nakano",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126373-CWeyXb822uDN.png",
+          "character": "Miku Nakano",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126372-DtorHRgQaYUJ.png",
+          "character": "Nino Nakano",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126374-Aal36iSQ5nKz.png",
+          "character": "Yotsuba Nakano",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126371-0KQpl80s8kXQ.png",
+          "character": "Ichika Nakano",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128063-0h9piZcxa2zt.png",
+          "character": "Fuutarou Uesugi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130111-1yzV9Z9X7xwe.png",
+          "character": "Raiha Uesugi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130110-GG3wMoAToHYF.png",
+          "character": "Isanari Uesugi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135383-lOnQOjuLpWrr.jpg",
+          "character": "Maruo Nakano",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154885-LGd2FnCAVHeQ.png",
+          "character": "Takebayashi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157107-3LaunQHpBjkJ.jpg",
+          "character": "Itsutsuko no Sofu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157189-3usaBJodo4hs.jpg",
+          "character": "Fukkatsu no Tenchou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157106-xhl6A5ymcZ71.png",
+          "character": "Shimoda",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157114-nor8ubz9NS59.png",
+          "character": "Eba",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157144-eeqJzAn8dbgA.png",
+          "character": "Maeda",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1322/100904l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1562/100914l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1234/106118l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1171/111431l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1657/138319l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 12,
+      "season": "WINTER",
+      "seasonYear": 2021,
+      "startDate": {
+        "year": 2021,
+        "month": 1,
+        "day": 8
+      },
+      "averageScore": 79,
+      "popularity": 200181,
+      "favourites": 6375,
+      "trailer": "cj6NGP9nNwI",
+      "studios": [
+        "Bibury Animation Studios"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://www.tbs.co.jp/anime/5hanayome/2nd/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/the-quintessential-quintuplets"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/id/media/36538"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 21127,
       "title": {
         "english": "Steins;Gate 0",
@@ -40382,164 +40540,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.bilibili.tv/en/media/37208"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 109261,
-      "title": {
-        "english": "The Quintessential Quintuplets 2",
-        "romaji": "Go-toubun no Hanayome ∬",
-        "native": "五等分の花嫁∬"
-      },
-      "description": "Through their tutor Fuutarou Uesugi's diligent guidance, the Nakano quintuplets' academic performance shows signs of improvement, even if their path to graduation is still rocky. However, as they continue to cause various situations that delay any actual tutoring, Fuutarou becomes increasingly involved with their personal lives, further complicating their relationship with each other.\n<br><br>\nOn another note, Fuutarou slowly begins to realize the existence of a possible connection between him and the past he believes to have shared with one of the five girls. With everyone's feelings beginning to develop and overlap, will they be able to keep their bond strictly to that of a teacher and his students—or will it mature into something else entirely?\n<br><br>\n(Source: MAL Rewrite)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109261-65rKxMDlcU9r.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109261-UfxQjnmmfAOp.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126375-dEe9IyQ9By09.png",
-          "character": "Itsuki Nakano",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126373-CWeyXb822uDN.png",
-          "character": "Miku Nakano",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126372-DtorHRgQaYUJ.png",
-          "character": "Nino Nakano",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126374-Aal36iSQ5nKz.png",
-          "character": "Yotsuba Nakano",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126371-0KQpl80s8kXQ.png",
-          "character": "Ichika Nakano",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b128063-0h9piZcxa2zt.png",
-          "character": "Fuutarou Uesugi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130111-1yzV9Z9X7xwe.png",
-          "character": "Raiha Uesugi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n130110-GG3wMoAToHYF.png",
-          "character": "Isanari Uesugi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b135383-lOnQOjuLpWrr.jpg",
-          "character": "Maruo Nakano",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b154885-LGd2FnCAVHeQ.png",
-          "character": "Takebayashi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157107-3LaunQHpBjkJ.jpg",
-          "character": "Itsutsuko no Sofu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157189-3usaBJodo4hs.jpg",
-          "character": "Fukkatsu no Tenchou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157106-xhl6A5ymcZ71.png",
-          "character": "Shimoda",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157114-nor8ubz9NS59.png",
-          "character": "Eba",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157144-eeqJzAn8dbgA.png",
-          "character": "Maeda",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1322/100904l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1562/100914l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1234/106118l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1171/111431l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1657/138319l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Slice of Life"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 12,
-      "season": "WINTER",
-      "seasonYear": 2021,
-      "startDate": {
-        "year": 2021,
-        "month": 1,
-        "day": 8
-      },
-      "averageScore": 79,
-      "popularity": 200128,
-      "favourites": 6375,
-      "trailer": "cj6NGP9nNwI",
-      "studios": [
-        "Bibury Animation Studios"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://www.tbs.co.jp/anime/5hanayome/2nd/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/the-quintessential-quintuplets"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/id/media/36538"
         }
       ],
       "nextAiring": null
@@ -40933,7 +40933,7 @@
         "day": 13
       },
       "averageScore": 75,
-      "popularity": 197544,
+      "popularity": 197590,
       "favourites": 3653,
       "trailer": "NL2TRub294w",
       "studios": [
@@ -41288,7 +41288,7 @@
         "day": 15
       },
       "averageScore": 84,
-      "popularity": 197182,
+      "popularity": 197235,
       "favourites": 8931,
       "trailer": "Tr1ahorojPg",
       "studios": [
