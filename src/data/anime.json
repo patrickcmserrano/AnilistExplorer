@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-11-30T12:21:32.834505",
+    "updatedAt": "2025-11-30T18:19:34.180874",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -915,7 +915,7 @@
         "day": 3
       },
       "averageScore": 76,
-      "popularity": 778386,
+      "popularity": 778601,
       "favourites": 20872,
       "trailer": "AhqVltWDqFA",
       "studios": [
@@ -1271,7 +1271,7 @@
         "day": 5
       },
       "averageScore": 83,
-      "popularity": 690291,
+      "popularity": 690469,
       "favourites": 25072,
       "trailer": "RzmFKUDOUgw",
       "studios": [
@@ -1844,8 +1844,8 @@
         }
       ],
       "nextAiring": {
-        "episode": 1151,
-        "airingAt": 1764512160
+        "episode": 1152,
+        "airingAt": 1765116960
       }
     },
     {
@@ -2004,7 +2004,7 @@
         "day": 5
       },
       "averageScore": 90,
-      "popularity": 642068,
+      "popularity": 642314,
       "favourites": 53179,
       "trailer": null,
       "studios": [
@@ -2551,7 +2551,7 @@
         "day": 26
       },
       "averageScore": 85,
-      "popularity": 629571,
+      "popularity": 629742,
       "favourites": 34579,
       "trailer": "k4xGqY5IDBE",
       "studios": [
@@ -3767,7 +3767,7 @@
         "day": 12
       },
       "averageScore": 84,
-      "popularity": 552901,
+      "popularity": 553045,
       "favourites": 28233,
       "trailer": "mV39saBlBLI",
       "studios": [
@@ -4083,7 +4083,7 @@
         "day": 8
       },
       "averageScore": 81,
-      "popularity": 542282,
+      "popularity": 542420,
       "favourites": 20054,
       "trailer": "TZzMOC-4k6M",
       "studios": [
@@ -4265,6 +4265,181 @@
         {
           "type": "STREAMING",
           "url": "https://www.crunchyroll.com/my-hero-academia-dubs"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 104578,
+      "title": {
+        "english": "Attack on Titan Season 3 Part 2",
+        "romaji": "Shingeki no Kyojin Season 3 Part 2",
+        "native": "進撃の巨人 Season３ Part.2"
+      },
+      "description": "The battle to retake Wall Maria begins now! With Eren’s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally unlock the secrets of the basement—and the world. But danger lies in wait as Reiner, Bertholdt, and the Beast Titan have plans of their own. Could this be humanity’s final battle for survival?<br>\n<br>\n(Source: Funimation)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-k61nx3LPjvgd.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104578-z7SadpYEuAsy.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+          "character": "Levi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+          "character": "Eren Yeager",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+          "character": "Mikasa Ackerman",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+          "character": "Armin Arlert",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+          "character": "Erwin Smith",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+          "character": "Hange Zoe",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg",
+          "character": "Sasha Blouse",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+          "character": "Reiner Braun",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+          "character": "Jean Kirstein",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+          "character": "Annie Leonhart",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+          "character": "Krista Lenz",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
+          "character": "Zeke",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png",
+          "character": "Ymir",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "character": "Narrator",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+          "character": "Connie Springer",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1159/95649l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1391/106896l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1123/106897l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1217/106898l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1220/106899l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1148/109389l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 10,
+      "season": "SPRING",
+      "seasonYear": 2019,
+      "startDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 29
+      },
+      "averageScore": 89,
+      "popularity": 540887,
+      "favourites": 23437,
+      "trailer": "fJm2nD3cv_4",
+      "studios": [
+        "WIT STUDIO"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://shingeki.tv/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/attack-on-titan"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.hulu.com/series/attack-on-titan-9c91ffa3-dc20-48bf-8bc5-692e37c76d88"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.adultswim.com/videos/attack-on-titan"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/70299043"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/attack-on-titan-dubs"
         }
       ],
       "nextAiring": null
@@ -4466,181 +4641,6 @@
       "nextAiring": null
     },
     {
-      "id": 104578,
-      "title": {
-        "english": "Attack on Titan Season 3 Part 2",
-        "romaji": "Shingeki no Kyojin Season 3 Part 2",
-        "native": "進撃の巨人 Season３ Part.2"
-      },
-      "description": "The battle to retake Wall Maria begins now! With Eren’s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally unlock the secrets of the basement—and the world. But danger lies in wait as Reiner, Bertholdt, and the Beast Titan have plans of their own. Could this be humanity’s final battle for survival?<br>\n<br>\n(Source: Funimation)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-k61nx3LPjvgd.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104578-z7SadpYEuAsy.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
-          "character": "Levi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
-          "character": "Eren Yeager",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
-          "character": "Mikasa Ackerman",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
-          "character": "Armin Arlert",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
-          "character": "Erwin Smith",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
-          "character": "Hange Zoe",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg",
-          "character": "Sasha Blouse",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
-          "character": "Reiner Braun",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
-          "character": "Jean Kirstein",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
-          "character": "Annie Leonhart",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
-          "character": "Krista Lenz",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
-          "character": "Zeke",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png",
-          "character": "Ymir",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
-          "character": "Narrator",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
-          "character": "Connie Springer",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1159/95649l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1391/106896l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1123/106897l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1217/106898l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1220/106899l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1148/109389l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Mystery"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 10,
-      "season": "SPRING",
-      "seasonYear": 2019,
-      "startDate": {
-        "year": 2019,
-        "month": 4,
-        "day": 29
-      },
-      "averageScore": 89,
-      "popularity": 540716,
-      "favourites": 23437,
-      "trailer": "fJm2nD3cv_4",
-      "studios": [
-        "WIT STUDIO"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://shingeki.tv/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/attack-on-titan"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.hulu.com/series/attack-on-titan-9c91ffa3-dc20-48bf-8bc5-692e37c76d88"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.adultswim.com/videos/attack-on-titan"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/70299043"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/attack-on-titan-dubs"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 21355,
       "title": {
         "english": "Re:ZERO -Starting Life in Another World-",
@@ -4774,7 +4774,7 @@
         "day": 4
       },
       "averageScore": 81,
-      "popularity": 535557,
+      "popularity": 535699,
       "favourites": 27267,
       "trailer": "vFfXjuVA1Jk",
       "studios": [
@@ -6284,7 +6284,7 @@
         "day": 5
       },
       "averageScore": 81,
-      "popularity": 488098,
+      "popularity": 488248,
       "favourites": 19552,
       "trailer": "7YZzYeBartM",
       "studios": [
@@ -6526,6 +6526,182 @@
       "nextAiring": null
     },
     {
+      "id": 4224,
+      "title": {
+        "english": "Toradora!",
+        "romaji": "Toradora!",
+        "native": "とらドラ！"
+      },
+      "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n<br><br>\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n<br><br>\n<i>Toradora!</i> is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4224-iPUOHdMde27j.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png",
+          "character": "Taiga Aisaka",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png",
+          "character": "Ryuuji Takasu",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png",
+          "character": "Ami Kawashima",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg",
+          "character": "Minori Kushieda",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png",
+          "character": "Yuusaku Kitamura",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png",
+          "character": "Yasuko Takasu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17059-fy0NnkTih1s5.jpg",
+          "character": "Inko-chan",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/16833.jpg",
+          "character": "Sumire Kanou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17823-EI5fCOcNDeX4.png",
+          "character": "Kouji Haruta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16402-hNoi2ydS82X6.png",
+          "character": "Yuri Koigakubo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19153-A8q9ieU9kEkr.png",
+          "character": "Hisamitsu Noto",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17319.jpg",
+          "character": "Maya Kihara",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20339-uWCbCCDItfRE.png",
+          "character": "Sakura Kanou",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/19863.jpg",
+          "character": "Nanako Kashii",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b86597-fSJgfgSkJvmS.png",
+          "character": "Stalker Otoko",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/2/18510l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/5/22125l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/10/22724l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/3/22727l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/9/79524l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/11/86891l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1356/94686l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 25,
+      "season": "FALL",
+      "seasonYear": 2008,
+      "startDate": {
+        "year": 2008,
+        "month": 10,
+        "day": 2
+      },
+      "averageScore": 77,
+      "popularity": 485754,
+      "favourites": 16423,
+      "trailer": "ya570uUgQNc",
+      "studios": [
+        "J.C.STAFF"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "http://www.crunchyroll.com/toradora"
+        },
+        {
+          "type": "INFO",
+          "url": "http://www.tv-tokyo.co.jp/anime/toradora/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.amazon.com/dp/B07L7D9ZTJ/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/80049275"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://tubitv.com/series/300007821/toradora"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 21827,
       "title": {
         "english": "Violet Evergarden",
@@ -6674,182 +6850,6 @@
         {
           "type": "INFO",
           "url": "http://tv.violet-evergarden.jp/"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 4224,
-      "title": {
-        "english": "Toradora!",
-        "romaji": "Toradora!",
-        "native": "とらドラ！"
-      },
-      "description": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\n<br><br>\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!\n<br><br>\n<i>Toradora!</i> is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4224-iPUOHdMde27j.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12064-7PDN3ylIeAZn.png",
-          "character": "Taiga Aisaka",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12295-d45uTNeJHuus.png",
-          "character": "Ryuuji Takasu",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b13725-Vk30kjvVT82z.png",
-          "character": "Ami Kawashima",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12305-AdKOcp0az9mq.jpg",
-          "character": "Minori Kushieda",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12306-Nb1orOh4UkpT.png",
-          "character": "Yuusaku Kitamura",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b12307-MfkPmovIGCm9.png",
-          "character": "Yasuko Takasu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17059-fy0NnkTih1s5.jpg",
-          "character": "Inko-chan",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/16833.jpg",
-          "character": "Sumire Kanou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17823-EI5fCOcNDeX4.png",
-          "character": "Kouji Haruta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b16402-hNoi2ydS82X6.png",
-          "character": "Yuri Koigakubo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b19153-A8q9ieU9kEkr.png",
-          "character": "Hisamitsu Noto",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/17319.jpg",
-          "character": "Maya Kihara",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b20339-uWCbCCDItfRE.png",
-          "character": "Sakura Kanou",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/19863.jpg",
-          "character": "Nanako Kashii",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b86597-fSJgfgSkJvmS.png",
-          "character": "Stalker Otoko",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/2/18510l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/5/22125l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/13/22128l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/10/22724l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/3/22727l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/9/79524l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/11/86891l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1356/94686l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Slice of Life"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 25,
-      "season": "FALL",
-      "seasonYear": 2008,
-      "startDate": {
-        "year": 2008,
-        "month": 10,
-        "day": 2
-      },
-      "averageScore": 77,
-      "popularity": 485636,
-      "favourites": 16423,
-      "trailer": "ya570uUgQNc",
-      "studios": [
-        "J.C.STAFF"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "http://www.crunchyroll.com/toradora"
-        },
-        {
-          "type": "INFO",
-          "url": "http://www.tv-tokyo.co.jp/anime/toradora/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.amazon.com/dp/B07L7D9ZTJ/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/80049275"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://tubitv.com/series/300007821/toradora"
         }
       ],
       "nextAiring": null
@@ -7719,7 +7719,7 @@
         "day": 14
       },
       "averageScore": 79,
-      "popularity": 458689,
+      "popularity": 458776,
       "favourites": 19087,
       "trailer": "NU87y-38glA",
       "studios": [
@@ -9788,7 +9788,7 @@
         "day": 6
       },
       "averageScore": 76,
-      "popularity": 420153,
+      "popularity": 420290,
       "favourites": 10357,
       "trailer": "AOd3Gbe1Abg",
       "studios": [
@@ -12304,7 +12304,7 @@
         "day": 11
       },
       "averageScore": 82,
-      "popularity": 381468,
+      "popularity": 381597,
       "favourites": 21021,
       "trailer": "JoS7Z8MCD6E",
       "studios": [
@@ -12625,7 +12625,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 378301,
+      "popularity": 378392,
       "favourites": 13408,
       "trailer": "GGsohezPRXU",
       "studios": [
@@ -14492,7 +14492,7 @@
         "day": 29
       },
       "averageScore": 91,
-      "popularity": 356498,
+      "popularity": 356801,
       "favourites": 42924,
       "trailer": "qgQunxD0qCk",
       "studios": [
@@ -15478,7 +15478,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 340189,
+      "popularity": 340327,
       "favourites": 11235,
       "trailer": null,
       "studios": [
@@ -16154,167 +16154,6 @@
       "nextAiring": null
     },
     {
-      "id": 21170,
-      "title": {
-        "english": "Assassination Classroom Second Season",
-        "romaji": "Ansatsu Kyoushitsu 2nd Season",
-        "native": "暗殺教室 第２期"
-      },
-      "description": "The second season of <i>Ansatsu Kyoushitsu</i>.<br>\n<br>\nThe students return as school is back in session for the second semester. Following their exploits on the island during summer vacation, Class 3-E continues to sharpen their blades with their sights set on their teacher, the slippery Koro-sensei. They have more to worry about than just their teacher, however, as enemy assassins, both old and new, are out for the increased bounty on the octopus' head.<br>\n<br>\nMoreover, their rivals in Class A, as well as Kunugigaoka Junior High's fearsome principal, stand to block Class E from achieving academic excellence. With all of these obstacles opposing them, the group must continue to work together in order to overcome their foes and accomplish their goal of successfully assassinating their teacher.\n",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-kbcfTTZGSaFt.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21170-3sLTirZD2J4K.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png",
-          "character": "Koro-sensei",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png",
-          "character": "Nagisa Shiota",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg",
-          "character": "Karma Akabane",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73881-Ukr6cBzK8dsi.png",
-          "character": "Tadaomi Karasuma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73883-ajlj28kkjxlb.jpg",
-          "character": "Irina Jelavic",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/85291-io7X60xBW1LK.jpg",
-          "character": "Kaede Kayano",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88798-Ku8MvtmkRWiL.png",
-          "character": "Rio Nakamura",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85293-VJJa4wciJTcl.jpg",
-          "character": "Itona Horibe",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74832-88SvstxVuDGn.png",
-          "character": "Ritsu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85801-g9riqQUgVilK.jpg",
-          "character": "Yuma Isogai",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89352-zIHiE6CEKdv3.jpg",
-          "character": "Gakushuu Asano",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88797-2VttDgoBtz0X.png",
-          "character": "Hiroto Maehara",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/85803-bsBxjH7Z9wqc.jpg",
-          "character": "Yukiko Kanzaki",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85299-2dScCDdb30uf.jpg",
-          "character": "Tomohito Sugino",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88805-HMHIQ3XQz8bN.png",
-          "character": "Ryuunosuke Chiba",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/10/77349l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/3/79883l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/12/80052l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1746/128535l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 25,
-      "season": "WINTER",
-      "seasonYear": 2016,
-      "startDate": {
-        "year": 2016,
-        "month": 1,
-        "day": 8
-      },
-      "averageScore": 83,
-      "popularity": 332179,
-      "favourites": 9712,
-      "trailer": "CQZR3XNqDwo",
-      "studios": [
-        "Lerche"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://www.ansatsu-anime.com"
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.hulu.com/assassination-classroom"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/80045948"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/assassination-classroom"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1QGs4v-QtvNHpC_N8ZjkEs"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 2001,
       "title": {
         "english": "Gurren Lagann",
@@ -16472,7 +16311,7 @@
         "day": 1
       },
       "averageScore": 85,
-      "popularity": 332136,
+      "popularity": 332290,
       "favourites": 22895,
       "trailer": "oXkkMhCuCMg",
       "studios": [
@@ -16494,6 +16333,167 @@
         {
           "type": "INFO",
           "url": "https://gurren-lagann15th.com/"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 21170,
+      "title": {
+        "english": "Assassination Classroom Second Season",
+        "romaji": "Ansatsu Kyoushitsu 2nd Season",
+        "native": "暗殺教室 第２期"
+      },
+      "description": "The second season of <i>Ansatsu Kyoushitsu</i>.<br>\n<br>\nThe students return as school is back in session for the second semester. Following their exploits on the island during summer vacation, Class 3-E continues to sharpen their blades with their sights set on their teacher, the slippery Koro-sensei. They have more to worry about than just their teacher, however, as enemy assassins, both old and new, are out for the increased bounty on the octopus' head.<br>\n<br>\nMoreover, their rivals in Class A, as well as Kunugigaoka Junior High's fearsome principal, stand to block Class E from achieving academic excellence. With all of these obstacles opposing them, the group must continue to work together in order to overcome their foes and accomplish their goal of successfully assassinating their teacher.\n",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-kbcfTTZGSaFt.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21170-3sLTirZD2J4K.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-jimrOw0RGtoB.png",
+          "character": "Koro-sensei",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png",
+          "character": "Nagisa Shiota",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg",
+          "character": "Karma Akabane",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/73881-Ukr6cBzK8dsi.png",
+          "character": "Tadaomi Karasuma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b73883-ajlj28kkjxlb.jpg",
+          "character": "Irina Jelavic",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/85291-io7X60xBW1LK.jpg",
+          "character": "Kaede Kayano",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88798-Ku8MvtmkRWiL.png",
+          "character": "Rio Nakamura",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85293-VJJa4wciJTcl.jpg",
+          "character": "Itona Horibe",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/74832-88SvstxVuDGn.png",
+          "character": "Ritsu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85801-g9riqQUgVilK.jpg",
+          "character": "Yuma Isogai",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89352-zIHiE6CEKdv3.jpg",
+          "character": "Gakushuu Asano",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88797-2VttDgoBtz0X.png",
+          "character": "Hiroto Maehara",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/85803-bsBxjH7Z9wqc.jpg",
+          "character": "Yukiko Kanzaki",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b85299-2dScCDdb30uf.jpg",
+          "character": "Tomohito Sugino",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88805-HMHIQ3XQz8bN.png",
+          "character": "Ryuunosuke Chiba",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/10/77349l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/3/79883l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/80052l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1746/128535l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 25,
+      "season": "WINTER",
+      "seasonYear": 2016,
+      "startDate": {
+        "year": 2016,
+        "month": 1,
+        "day": 8
+      },
+      "averageScore": 83,
+      "popularity": 332244,
+      "favourites": 9712,
+      "trailer": "CQZR3XNqDwo",
+      "studios": [
+        "Lerche"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://www.ansatsu-anime.com"
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.hulu.com/assassination-classroom"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/80045948"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/assassination-classroom"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1QGs4v-QtvNHpC_N8ZjkEs"
         }
       ],
       "nextAiring": null
@@ -16771,7 +16771,7 @@
         "day": 8
       },
       "averageScore": 83,
-      "popularity": 324774,
+      "popularity": 324867,
       "favourites": 9749,
       "trailer": "P_YtFPg9tNE",
       "studios": [
@@ -17144,7 +17144,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 322331,
+      "popularity": 322446,
       "favourites": 17989,
       "trailer": "Ab9ztHX-DVg",
       "studios": [
@@ -18103,7 +18103,7 @@
         "day": 19
       },
       "averageScore": 81,
-      "popularity": 313409,
+      "popularity": 313484,
       "favourites": 10680,
       "trailer": "Q6iK6DjV_iE",
       "studios": [
@@ -18929,7 +18929,7 @@
         "day": 3
       },
       "averageScore": 82,
-      "popularity": 309073,
+      "popularity": 309162,
       "favourites": 15532,
       "trailer": "X63_YYZjKxA",
       "studios": [
@@ -19775,7 +19775,7 @@
         "day": 8
       },
       "averageScore": 51,
-      "popularity": 297885,
+      "popularity": 297939,
       "favourites": 2239,
       "trailer": "DXNXOsZqc28",
       "studios": [
@@ -20908,7 +20908,7 @@
         "day": 3
       },
       "averageScore": 80,
-      "popularity": 287623,
+      "popularity": 287663,
       "favourites": 5674,
       "trailer": "nI_2PqGZb-c",
       "studios": [
@@ -22032,7 +22032,7 @@
         "day": 2
       },
       "averageScore": 84,
-      "popularity": 278297,
+      "popularity": 278372,
       "favourites": 18357,
       "trailer": "NLZP_z2PxCw",
       "studios": [
@@ -22215,7 +22215,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 277566,
+      "popularity": 277638,
       "favourites": 11900,
       "trailer": "DPEQxuMKGfE",
       "studios": [
@@ -22680,7 +22680,7 @@
         "day": 12
       },
       "averageScore": 83,
-      "popularity": 275125,
+      "popularity": 275208,
       "favourites": 8576,
       "trailer": "Lk3fJsIOnKw",
       "studios": [
@@ -24198,7 +24198,7 @@
         "day": 11
       },
       "averageScore": 83,
-      "popularity": 267417,
+      "popularity": 267471,
       "favourites": 5363,
       "trailer": "IZ8iIHpe4Lg",
       "studios": [
@@ -24536,7 +24536,7 @@
         "day": 5
       },
       "averageScore": 77,
-      "popularity": 266797,
+      "popularity": 266878,
       "favourites": 5992,
       "trailer": "9ZseZTshl2k",
       "studios": [
@@ -28284,7 +28284,7 @@
         "day": 2
       },
       "averageScore": 79,
-      "popularity": 240117,
+      "popularity": 240154,
       "favourites": 2864,
       "trailer": "O_tsnSmpM-k",
       "studios": [
@@ -28442,7 +28442,7 @@
         "day": 22
       },
       "averageScore": 88,
-      "popularity": 239525,
+      "popularity": 239698,
       "favourites": 19943,
       "trailer": "oyHqh8ue4zw",
       "studios": [
@@ -29258,7 +29258,7 @@
         "day": 10
       },
       "averageScore": 77,
-      "popularity": 235886,
+      "popularity": 235937,
       "favourites": 6007,
       "trailer": "n-35-JRzT7k",
       "studios": [
@@ -29433,7 +29433,7 @@
         "day": 3
       },
       "averageScore": 72,
-      "popularity": 235589,
+      "popularity": 235654,
       "favourites": 4832,
       "trailer": "EoipHZFNXv0",
       "studios": [
@@ -31187,6 +31187,150 @@
       "nextAiring": null
     },
     {
+      "id": 21049,
+      "title": {
+        "english": "ReLIFE",
+        "romaji": "ReLIFE",
+        "native": "ReLIFE"
+      },
+      "description": "The story follows Kaizaki Arata, a 27-year-old jobless man, who fails at every job interview he had after quitting his last company. His life changes after he met Yoake Ryou of the ReLife Research Institute, who offered him a drug that can change his appearance to 17-years-old and to become a subject in an experiment for one year. Thus, he begins his life as a high school student once more.\n",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21049-4AHSLeiDE9eg.png",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21049-PeKXMMYru3Xl.png",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89426-9VS3dWDKDs4v.jpg",
+          "character": "Chizuru Hishiro",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89425-vLPRybM1gNa7.png",
+          "character": "Arata Kaizaki",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89428-8UUfkFTy5jGR.png",
+          "character": "An Onoya",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89632-vwI8zFb4zB9m.jpg",
+          "character": "Rena Kariu",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89427-1maEZa0szSC9.jpg",
+          "character": "Ryou Yoake",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89633-3HzqMb9xJe8V.jpg",
+          "character": "Kazuomi Ooga",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89838-HwwE8BHT69Mb.png",
+          "character": "Honoka Tamarai",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89839-ZptT0LZzebaN.jpg",
+          "character": "Akira Inukai",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143179-6vUsqhm1via8.jpg",
+          "character": "Kokoro Amatsu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89840-0FdYSJRVQahH.jpg",
+          "character": "Nobunaga Asaji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192604-nCLfRMfEHh7c.jpg",
+          "character": "Saiki Michiru",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157963-YNZ6JcPNLIzP.jpg",
+          "character": "Rumi Naomi",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215257-OzH301HjigP2.jpg",
+          "character": "Koushi Usa",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157964-iPymsL9B0pHN.jpg",
+          "character": "Kento Amagase",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157965-papSHrNzSuTV.jpg",
+          "character": "Zen Kamioka",
+          "role": "BACKGROUND"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/3/79236l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/3/82149l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/2/82150l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/82151l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "format": "ONA",
+      "episodes": 13,
+      "season": "SUMMER",
+      "seasonYear": 2016,
+      "startDate": {
+        "year": 2016,
+        "month": 6,
+        "day": 24
+      },
+      "averageScore": 78,
+      "popularity": 228443,
+      "favourites": 5530,
+      "trailer": "fZCgXuxMAZY",
+      "studios": [
+        "TMS Entertainment"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://relife-anime.com/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.crunchyroll.com/relife"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 104157,
       "title": {
         "english": "Rascal Does Not Dream of a Dreaming Girl",
@@ -31328,150 +31472,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.crunchyroll.com/series/GYW4MG9G6/rascal-does-not-dream-of-bunny-girl-senpai"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 21049,
-      "title": {
-        "english": "ReLIFE",
-        "romaji": "ReLIFE",
-        "native": "ReLIFE"
-      },
-      "description": "The story follows Kaizaki Arata, a 27-year-old jobless man, who fails at every job interview he had after quitting his last company. His life changes after he met Yoake Ryou of the ReLife Research Institute, who offered him a drug that can change his appearance to 17-years-old and to become a subject in an experiment for one year. Thus, he begins his life as a high school student once more.\n",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21049-4AHSLeiDE9eg.png",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21049-PeKXMMYru3Xl.png",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89426-9VS3dWDKDs4v.jpg",
-          "character": "Chizuru Hishiro",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89425-vLPRybM1gNa7.png",
-          "character": "Arata Kaizaki",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89428-8UUfkFTy5jGR.png",
-          "character": "An Onoya",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89632-vwI8zFb4zB9m.jpg",
-          "character": "Rena Kariu",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89427-1maEZa0szSC9.jpg",
-          "character": "Ryou Yoake",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89633-3HzqMb9xJe8V.jpg",
-          "character": "Kazuomi Ooga",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89838-HwwE8BHT69Mb.png",
-          "character": "Honoka Tamarai",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89839-ZptT0LZzebaN.jpg",
-          "character": "Akira Inukai",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b143179-6vUsqhm1via8.jpg",
-          "character": "Kokoro Amatsu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/89840-0FdYSJRVQahH.jpg",
-          "character": "Nobunaga Asaji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b192604-nCLfRMfEHh7c.jpg",
-          "character": "Saiki Michiru",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157963-YNZ6JcPNLIzP.jpg",
-          "character": "Rumi Naomi",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b215257-OzH301HjigP2.jpg",
-          "character": "Koushi Usa",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157964-iPymsL9B0pHN.jpg",
-          "character": "Kento Amagase",
-          "role": "BACKGROUND"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b157965-papSHrNzSuTV.jpg",
-          "character": "Zen Kamioka",
-          "role": "BACKGROUND"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/3/79236l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/3/82149l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/2/82150l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/12/82151l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Slice of Life"
-      ],
-      "status": "FINISHED",
-      "format": "ONA",
-      "episodes": 13,
-      "season": "SUMMER",
-      "seasonYear": 2016,
-      "startDate": {
-        "year": 2016,
-        "month": 6,
-        "day": 24
-      },
-      "averageScore": 78,
-      "popularity": 228376,
-      "favourites": 5530,
-      "trailer": "fZCgXuxMAZY",
-      "studios": [
-        "TMS Entertainment"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://relife-anime.com/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.crunchyroll.com/relife"
         }
       ],
       "nextAiring": null
@@ -35414,7 +35414,7 @@
         "day": 10
       },
       "averageScore": 77,
-      "popularity": 216999,
+      "popularity": 217036,
       "favourites": 7947,
       "trailer": "CKnXq1qaTG0",
       "studios": [
@@ -35764,7 +35764,7 @@
         "day": 12
       },
       "averageScore": 80,
-      "popularity": 215881,
+      "popularity": 216020,
       "favourites": 5376,
       "trailer": "7w5Vfjozzb8",
       "studios": [
@@ -36865,7 +36865,7 @@
         "day": 3
       },
       "averageScore": 71,
-      "popularity": 213953,
+      "popularity": 214007,
       "favourites": 4840,
       "trailer": "bMIarTOSN7o",
       "studios": [
@@ -39894,7 +39894,7 @@
         "day": 3
       },
       "averageScore": 87,
-      "popularity": 202700,
+      "popularity": 202747,
       "favourites": 14180,
       "trailer": "IecYMqp1N4k",
       "studios": [
@@ -40190,7 +40190,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 201754,
+      "popularity": 201825,
       "favourites": 5052,
       "trailer": "2VvZIEXmltw",
       "studios": [
@@ -40224,6 +40224,164 @@
         {
           "type": "STREAMING",
           "url": "https://www.youtube.com/playlist?list=PLpm1VVK4UL15NugQluXlDlUMjDbTCjIn7"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 21127,
+      "title": {
+        "english": "Steins;Gate 0",
+        "romaji": "Steins;Gate 0",
+        "native": "シュタインズ・ゲート ゼロ"
+      },
+      "description": "The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his adventures alone.<br>\n<br>\nWhile working as a receptionist at a college technology forum, Okabe meets the short, spunky Maho Hiyajo, who\nlater turns out to be the interpreter at the forum's presentation, conducted by Professor Alexis Leskinen. In front of a stunned crowd, Alexis and Maho unveil Amadeus—a revolutionary AI capable of storing a person's memories and creating a perfect simulation of that person complete with their personality and quirks. Meeting with Maho and Alexis after the presentation, Okabe learns that the two were Kurisu's colleagues in university, and that they have simulated her in Amadeus. Hired by Alexis to research the simulation's behavior, Okabe is given the chance to interact with the shadow of a long-lost dear friend. Dangerously tangled in the past, Okabe must face the harsh reality and carefully maneuver around the disastrous consequences that come with disturbing the natural flow of time.\n",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21127-7ARWZkDXKiiD.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21127-6jTjz7ndTHOi.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png",
+          "character": "Kurisu Makise",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png",
+          "character": "Rintarou Okabe",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png",
+          "character": "Mayuri Shiina",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png",
+          "character": "Suzuha Amane",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35258-FeTGR4LEUNvt.png",
+          "character": "Itaru Hashida",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83419-p2gjgTL37GTU.jpg",
+          "character": "Maho Hiyajou",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png",
+          "character": "Luka Urushibara",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35256-A729dmHEgSYQ.png",
+          "character": "Rumiho Akiha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png",
+          "character": "Moeka Kiryuu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38558-E4By0N5JXskJ.png",
+          "character": "Yuugo Tennouji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126104-51UIwJ3ZnbTi.png",
+          "character": "Kagari Shiina",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38559-s2jG8GbHLdI2.png",
+          "character": "Nae Tennouji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126105-rQd5KLcYgtvi.png",
+          "character": "Alexis Leskinen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57403-r7ox34brRVJL.jpg",
+          "character": "Yuki Amane",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126251-DCxqXhRRQIaF.jpg",
+          "character": "Kaede Kurushima",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1653/93519l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1768/93520l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1375/93521l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1743/93541l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1554/98995l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1242/143749l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 23,
+      "season": "SPRING",
+      "seasonYear": 2018,
+      "startDate": {
+        "year": 2018,
+        "month": 4,
+        "day": 12
+      },
+      "averageScore": 84,
+      "popularity": 200215,
+      "favourites": 6604,
+      "trailer": "IVVihb4-cHo",
+      "studios": [
+        "WHITE FOX"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://steinsgate0-anime.com/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.crunchyroll.com/steinsgate-0"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/37208"
         }
       ],
       "nextAiring": null
@@ -40382,164 +40540,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.bilibili.tv/id/media/36538"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 21127,
-      "title": {
-        "english": "Steins;Gate 0",
-        "romaji": "Steins;Gate 0",
-        "native": "シュタインズ・ゲート ゼロ"
-      },
-      "description": "The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his adventures alone.<br>\n<br>\nWhile working as a receptionist at a college technology forum, Okabe meets the short, spunky Maho Hiyajo, who\nlater turns out to be the interpreter at the forum's presentation, conducted by Professor Alexis Leskinen. In front of a stunned crowd, Alexis and Maho unveil Amadeus—a revolutionary AI capable of storing a person's memories and creating a perfect simulation of that person complete with their personality and quirks. Meeting with Maho and Alexis after the presentation, Okabe learns that the two were Kurisu's colleagues in university, and that they have simulated her in Amadeus. Hired by Alexis to research the simulation's behavior, Okabe is given the chance to interact with the shadow of a long-lost dear friend. Dangerously tangled in the past, Okabe must face the harsh reality and carefully maneuver around the disastrous consequences that come with disturbing the natural flow of time.\n",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21127-7ARWZkDXKiiD.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21127-6jTjz7ndTHOi.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b34470-Jw2LXZBL5R8i.png",
-          "character": "Kurisu Makise",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35252-DY9TW6pusqeh.png",
-          "character": "Rintarou Okabe",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35253-u6QVgLLyHq2W.png",
-          "character": "Mayuri Shiina",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35255-Ra9Aq5Kn9lYq.png",
-          "character": "Suzuha Amane",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35258-FeTGR4LEUNvt.png",
-          "character": "Itaru Hashida",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b83419-p2gjgTL37GTU.jpg",
-          "character": "Maho Hiyajou",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b30919-5PjiA4ucfuuJ.png",
-          "character": "Luka Urushibara",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35256-A729dmHEgSYQ.png",
-          "character": "Rumiho Akiha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b35257-uepVZyOvuqhi.png",
-          "character": "Moeka Kiryuu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38558-E4By0N5JXskJ.png",
-          "character": "Yuugo Tennouji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126104-51UIwJ3ZnbTi.png",
-          "character": "Kagari Shiina",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b38559-s2jG8GbHLdI2.png",
-          "character": "Nae Tennouji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126105-rQd5KLcYgtvi.png",
-          "character": "Alexis Leskinen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b57403-r7ox34brRVJL.jpg",
-          "character": "Yuki Amane",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126251-DCxqXhRRQIaF.jpg",
-          "character": "Kaede Kurushima",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1653/93519l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1768/93520l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1375/93521l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1743/93541l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1554/98995l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1242/143749l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Drama",
-        "Psychological",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 23,
-      "season": "SPRING",
-      "seasonYear": 2018,
-      "startDate": {
-        "year": 2018,
-        "month": 4,
-        "day": 12
-      },
-      "averageScore": 84,
-      "popularity": 200169,
-      "favourites": 6604,
-      "trailer": "IVVihb4-cHo",
-      "studios": [
-        "WHITE FOX"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://steinsgate0-anime.com/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.crunchyroll.com/steinsgate-0"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/37208"
         }
       ],
       "nextAiring": null
@@ -41122,7 +41122,7 @@
         "day": 10
       },
       "averageScore": 82,
-      "popularity": 197431,
+      "popularity": 197476,
       "favourites": 7874,
       "trailer": "M0CsMI-qqmI",
       "studios": [
