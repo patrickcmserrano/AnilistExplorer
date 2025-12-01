@@ -1,0 +1,96 @@
+---
+import Layout from '../layouts/Layout.astro';
+import AnimeListPage from '../components/AnimeListPage';
+import animeData from '../data/anime.json';
+
+export const prerender = true;
+
+// Handle both old format and new format
+let animeArray: any[] = [];
+if (Array.isArray(animeData)) {
+  animeArray = animeData;
+} else if (animeData?.anime && Array.isArray(animeData.anime)) {
+  animeArray = animeData.anime;
+} else {
+  animeArray = Object.values(animeData || {});
+}
+---
+
+<Layout title="Favorites - Anime Explorer">
+  <main class="container mx-auto px-4 py-6">
+    <!-- Header with Navigation -->
+    <div class="mb-8">
+      <div class="flex items-center gap-4 mb-4">
+        <a href="/" class="text-blue-400 hover:text-blue-300 transition">← Voltar</a>
+        <a href="/watch-later" class="text-blue-400 hover:text-blue-300 transition">🕒 Watch Later</a>
+      </div>
+    </div>
+
+    <!-- Favorites List Component -->
+    <div id="favorites-container"></div>
+
+    <script is:inline define:vars={{ animeArray }}>
+      // Wait for component to mount and pass data
+      window.addEventListener('DOMContentLoaded', () => {
+        // Import localStorage utilities
+        const FAVORITES_KEY = 'anilist_favorites';
+        
+        function getFavoritesItems() {
+          try {
+            const item = localStorage.getItem(FAVORITES_KEY);
+            return item ? JSON.parse(item) : [];
+          } catch (error) {
+            console.warn('Failed to load favorites items:', error);
+            return [];
+          }
+        }
+
+        function clearFavorites() {
+          try {
+            localStorage.setItem(FAVORITES_KEY, JSON.stringify([]));
+            // Reload page to update
+            window.location.reload();
+          } catch (error) {
+            console.error('Failed to clear favorites:', error);
+          }
+        }
+
+        // Get saved favorites items
+        const savedItems = getFavoritesItems();
+        const savedIds = savedItems.map(item => String(item.id));
+        
+        // Match with anime data
+        const favoritesAnimes = animeArray.filter(anime => 
+          savedIds.includes(String(anime.id || anime.anilist_id))
+        );
+
+        // Sort by most recently added (savedItems is already in that order)
+        const sortedAnimes = savedIds.map(id => 
+          favoritesAnimes.find(a => String(a.id || a.anilist_id) === id)
+        ).filter(Boolean);
+
+        // Store globally for React component
+        window.__FAVORITES_ANIMES__ = sortedAnimes;
+        window.__CLEAR_FAVORITES__ = clearFavorites;
+      });
+    </script>
+
+    <AnimeListPage 
+      client:load 
+      animes={[]}
+      listType="favorites"
+    />
+  </main>
+</Layout>
+
+<script>
+  // Pass data to React component after it mounts
+  if (typeof window !== 'undefined') {
+    const checkAndUpdate = setInterval(() => {
+      if ((window as any).__FAVORITES_ANIMES__) {
+        // Component will read from window.__FAVORITES_ANIMES__
+        clearInterval(checkAndUpdate);
+      }
+    }, 100);
+  }
+</script>

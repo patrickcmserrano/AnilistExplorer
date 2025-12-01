@@ -1,4 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
+import AnimeCardQuickActions from './AnimeCardQuickActions';
+
 
 // Get base URL from Astro's environment
 const BASE_URL = import.meta.env.BASE_URL || '/';
@@ -46,8 +48,8 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
   // Sort animes helper function
   const sortAnimes = useCallback((animes: Anime[], method: string) => {
     const sorted = [...animes];
-    
-    switch(method) {
+
+    switch (method) {
       case 'popularity':
         sorted.sort((a, b) => (b.popularity || 0) - (a.popularity || 0));
         break;
@@ -72,7 +74,7 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
         });
         break;
     }
-    
+
     return sorted;
   }, []);
 
@@ -93,7 +95,7 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
         setDisplayedAnimes(sorted.slice(0, ITEMS_PER_PAGE));
       };
     }
-    
+
     return () => {
       if (typeof window !== 'undefined') {
         delete (window as any).updateInfiniteGrid;
@@ -104,11 +106,11 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
   // Load more animes from existing data
   const loadMore = useCallback(() => {
     if (isLoadingMore) return;
-    
+
     const sorted = sortAnimes(allAnimes, sortMethod);
     const nextPage = currentPage + 1;
     const endIndex = nextPage * ITEMS_PER_PAGE;
-    
+
     if (endIndex <= sorted.length) {
       setIsLoadingMore(true);
       setTimeout(() => {
@@ -144,7 +146,7 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
     <div className="w-full">
       <div className="mb-6 space-y-3">
         <div className="text-xs text-gray-500 font-medium uppercase tracking-wider">Ordenar por</div>
-        
+
         <div className="flex gap-2 flex-wrap">
           {[
             { value: 'popularity', label: '🔥 Mais Populares' },
@@ -156,11 +158,10 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
             <button
               key={option.value}
               onClick={() => setSortMethod(option.value)}
-              className={`px-3 py-2 text-sm rounded-lg font-medium transition-all whitespace-nowrap ${
-                sortMethod === option.value
-                  ? 'bg-gradient-to-r from-blue-600 to-purple-600 text-white shadow-lg ring-2 ring-blue-400/50'
-                  : 'bg-gray-800/50 text-gray-300 border border-gray-700/50 hover:bg-gray-700/50 hover:border-gray-600/50'
-              }`}
+              className={`px-3 py-2 text-sm rounded-lg font-medium transition-all whitespace-nowrap ${sortMethod === option.value
+                ? 'bg-gradient-to-r from-blue-600 to-purple-600 text-white shadow-lg ring-2 ring-blue-400/50'
+                : 'bg-gray-800/50 text-gray-300 border border-gray-700/50 hover:bg-gray-700/50 hover:border-gray-600/50'
+                }`}
             >
               {option.label}
             </button>
@@ -177,7 +178,7 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
       </div>
 
       {/* Anime Grid */}
-      <div 
+      <div
         ref={gridRef}
         className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4"
       >
@@ -186,18 +187,28 @@ export default function InfiniteAnimeGrid({ animes: initialAnimes, sortBy = 'pop
             const title = anime.base_title || anime.title?.english || anime.title?.romaji || 'Unknown';
             const coverImage = anime.coverImage || anime.cover_image;
             const uniqueKey = `anime-${anime.id}-${idx}`;
-            
+
             return (
               <a key={uniqueKey} href={`${BASE_URL}anime/${anime.id}/`} className="group block">
                 <article className="relative aspect-[2/3] rounded-lg overflow-hidden shadow-lg ring-2 ring-transparent hover:ring-blue-500/50 transition-all">
-                  <img 
-                    src={coverImage || '/placeholder-anime.svg'} 
-                    alt={title} 
-                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300" 
-                    loading="lazy" 
+                  <img
+                    src={coverImage || '/placeholder-anime.svg'}
+                    alt={title}
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
+                    loading="lazy"
                     onError={(e) => { e.currentTarget.src = '/placeholder-anime.svg'; }}
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity">
+                    {/* Quick Action Buttons - Top Right */}
+                    <div className="absolute top-2 right-2 z-10">
+                      <AnimeCardQuickActions
+                        animeId={anime.id}
+                        animeTitle={title}
+                        animeCover={coverImage}
+                      />
+                    </div>
+
+                    {/* Card Info - Bottom */}
                     <div className="absolute bottom-0 left-0 right-0 p-3">
                       <h3 className="text-white font-semibold text-sm line-clamp-2 mb-1">{title}</h3>
                       <div className="flex items-center justify-between text-xs mb-1">

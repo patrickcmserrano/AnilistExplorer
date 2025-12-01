@@ -1,0 +1,96 @@
+---
+import Layout from '../layouts/Layout.astro';
+import AnimeListPage from '../components/AnimeListPage';
+import animeData from '../data/anime.json';
+
+export const prerender = true;
+
+// Handle both old format and new format
+let animeArray: any[] = [];
+if (Array.isArray(animeData)) {
+  animeArray = animeData;
+} else if (animeData?.anime && Array.isArray(animeData.anime)) {
+  animeArray = animeData.anime;
+} else {
+  animeArray = Object.values(animeData || {});
+}
+---
+
+<Layout title="Watch Later - Anime Explorer">
+  <main class="container mx-auto px-4 py-6">
+    <!-- Header with Navigation -->
+    <div class="mb-8">
+      <div class="flex items-center gap-4 mb-4">
+        <a href="/" class="text-blue-400 hover:text-blue-300 transition">← Voltar</a>
+        <a href="/favorites" class="text-pink-400 hover:text-pink-300 transition">❤️ Favoritos</a>
+      </div>
+    </div>
+
+    <!-- Watch Later List Component -->
+    <div id="watch-later-container"></div>
+
+    <script is:inline define:vars={{ animeArray }}>
+      // Wait for component to mount and pass data
+      window.addEventListener('DOMContentLoaded', () => {
+        // Import localStorage utilities
+        const WATCH_LATER_KEY = 'anilist_watch_later';
+        
+        function getWatchLaterItems() {
+          try {
+            const item = localStorage.getItem(WATCH_LATER_KEY);
+            return item ? JSON.parse(item) : [];
+          } catch (error) {
+            console.warn('Failed to load watch later items:', error);
+            return [];
+          }
+        }
+
+        function clearWatchLater() {
+          try {
+            localStorage.setItem(WATCH_LATER_KEY, JSON.stringify([]));
+            // Reload page to update
+            window.location.reload();
+          } catch (error) {
+            console.error('Failed to clear watch later:', error);
+          }
+        }
+
+        // Get saved watch later items
+        const savedItems = getWatchLaterItems();
+        const savedIds = savedItems.map(item => String(item.id));
+        
+        // Match with anime data
+        const watchLaterAnimes = animeArray.filter(anime => 
+          savedIds.includes(String(anime.id || anime.anilist_id))
+        );
+
+        // Sort by most recently added (savedItems is already in that order)
+        const sortedAnimes = savedIds.map(id => 
+          watchLaterAnimes.find(a => String(a.id || a.anilist_id) === id)
+        ).filter(Boolean);
+
+        // Store globally for React component
+        window.__WATCH_LATER_ANIMES__ = sortedAnimes;
+        window.__CLEAR_WATCH_LATER__ = clearWatchLater;
+      });
+    </script>
+
+    <AnimeListPage 
+      client:load 
+      animes={[]}
+      listType="watch-later"
+    />
+  </main>
+</Layout>
+
+<script>
+  // Pass data to React component after it mounts
+  if (typeof window !== 'undefined') {
+    const checkAndUpdate = setInterval(() => {
+      if ((window as any).__WATCH_LATER_ANIMES__) {
+        // Component will read from window.__WATCH_LATER_ANIMES__
+        clearInterval(checkAndUpdate);
+      }
+    }, 100);
+  }
+</script>
