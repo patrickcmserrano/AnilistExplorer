@@ -2,7 +2,7 @@
   "metadata": {
     "source": "AniList API",
     "url": "https://anilist.co",
-    "updatedAt": "2025-12-01T00:50:37.754087",
+    "updatedAt": "2025-12-01T06:23:12.963898",
     "description": "Legal anime metadata from AniList - No piracy content",
     "disclaimer": "This data contains only public metadata. Always use official legal platforms to watch anime.",
     "totalAnimes": 250,
@@ -461,13 +461,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
-          "character": "Stephen Loud",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3767-pSbmazo2I7ZD.png",
+          "character": "Shuuichi Aizawa",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3767-pSbmazo2I7ZD.png",
-          "character": "Shuuichi Aizawa",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n3770-tvFv3ulGAmjt.png",
+          "character": "Stephen Loud",
           "role": "SUPPORTING"
         }
       ],
@@ -1449,7 +1449,7 @@
         "day": 4
       },
       "averageScore": 76,
-      "popularity": 658714,
+      "popularity": 658926,
       "favourites": 18300,
       "trailer": "XfQUjYsVBrE",
       "studios": [
@@ -1795,7 +1795,7 @@
         "day": 20
       },
       "averageScore": 88,
-      "popularity": 643794,
+      "popularity": 644142,
       "favourites": 89850,
       "trailer": null,
       "studios": [
@@ -2371,7 +2371,7 @@
         "day": 3
       },
       "averageScore": 80,
-      "popularity": 639545,
+      "popularity": 639851,
       "favourites": 28975,
       "trailer": "-G9BqkgZXRA",
       "studios": [
@@ -2890,7 +2890,7 @@
         "day": 23
       },
       "averageScore": 85,
-      "popularity": 608521,
+      "popularity": 608736,
       "favourites": 14523,
       "trailer": "EHzBhrncmac",
       "studios": [
@@ -4235,7 +4235,7 @@
         "day": 7
       },
       "averageScore": 79,
-      "popularity": 541621,
+      "popularity": 541832,
       "favourites": 8254,
       "trailer": "JezE6iZUWxo",
       "studios": [
@@ -5116,7 +5116,7 @@
         "day": 6
       },
       "averageScore": 83,
-      "popularity": 525164,
+      "popularity": 525317,
       "favourites": 28173,
       "trailer": "9kLRkH9zC5k",
       "studios": [
@@ -5670,6 +5670,153 @@
       "nextAiring": null
     },
     {
+      "id": 20447,
+      "title": {
+        "english": "Noragami",
+        "romaji": "Noragami",
+        "native": "ノラガミ"
+      },
+      "description": "Minor god Yato is down on his luck. Fed up with his slacker lifestyle, his partner abruptly quits. He has no money, no worshippers, and no shrine to call home. But just when things are starting to seem hopeless, a bus accident forces him to cross paths with Hiyori Iki, a sweet and perky high school girl. After the accident, Hiyori's soul has a bad habit of slipping out of her body, and after enlisting Yato's help to get her back to normal, she begins to fall into the world of spirits and gods.<br>\n<br>\nBut Hiyori's not the only one who's keeping tabs on Yato. A god from Yato's past is back, and he's not interested in a friendly reunion.<br>\n<br>\n(Source: Funimation)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20447-nlgQQzcgWbgw.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png",
+          "character": "Yato",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png",
+          "character": "Hiyori Iki",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png",
+          "character": "Yukine",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-ClhB8m8xWBQf.jpg",
+          "character": "Bishamon",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png",
+          "character": "Kofuku Ebisu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88240-Q1aOkqfeFQpV.png",
+          "character": "Kazuma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88692-LebZeeQq1cqW.png",
+          "character": "Nora",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88691-3558v8r2PdLj.png",
+          "character": "Daikoku",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89120-MDy3OOROXTUG.png",
+          "character": "Ebisu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88690-7i53juMPaNjR.png",
+          "character": "Rabo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121705-mz3J8uWgIG7F.png",
+          "character": "Mayu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88689-9OTDNG9R1zjC.png",
+          "character": "Tenjin",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89301-1kEosHwb6M5T.png",
+          "character": "Kuraha",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176886-A8EsLbQUQrpZ.png",
+          "character": "Tsuyu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89304-Em5i0pTwlRCU.png",
+          "character": "Tsuguha",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1009/98400l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 12,
+      "season": "WINTER",
+      "seasonYear": 2014,
+      "startDate": {
+        "year": 2014,
+        "month": 1,
+        "day": 5
+      },
+      "averageScore": 77,
+      "popularity": 492360,
+      "favourites": 13548,
+      "trailer": "IQnnwUXd_0U",
+      "studios": [
+        "bones"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://noragami-anime.net/1/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.hulu.com/noragami"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.amazon.com/Bidden-Calamity-English-Subtitled/dp/B00KTQI9OE/ref=sr_1_1?dchild=1&keywords=noragami&qid=1617827212&s=instant-video&sr=1-1&tag=techblast0f-20"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.crunchyroll.com/noragami"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
       "id": 101921,
       "title": {
         "english": "Kaguya-sama: Love is War",
@@ -5836,153 +5983,6 @@
       "nextAiring": null
     },
     {
-      "id": 20447,
-      "title": {
-        "english": "Noragami",
-        "romaji": "Noragami",
-        "native": "ノラガミ"
-      },
-      "description": "Minor god Yato is down on his luck. Fed up with his slacker lifestyle, his partner abruptly quits. He has no money, no worshippers, and no shrine to call home. But just when things are starting to seem hopeless, a bus accident forces him to cross paths with Hiyori Iki, a sweet and perky high school girl. After the accident, Hiyori's soul has a bad habit of slipping out of her body, and after enlisting Yato's help to get her back to normal, she begins to fall into the world of spirits and gods.<br>\n<br>\nBut Hiyori's not the only one who's keeping tabs on Yato. A god from Yato's past is back, and he's not interested in a friendly reunion.<br>\n<br>\n(Source: Funimation)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20447-nlgQQzcgWbgw.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84677-PFmohzIXD1ud.png",
-          "character": "Yato",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84679-GdMxvYy36M9H.png",
-          "character": "Hiyori Iki",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b84681-vFMPNxeDkoqt.png",
-          "character": "Yukine",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88239-ClhB8m8xWBQf.jpg",
-          "character": "Bishamon",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88241-3NQSKNgaQRNC.png",
-          "character": "Kofuku Ebisu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88240-Q1aOkqfeFQpV.png",
-          "character": "Kazuma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88692-LebZeeQq1cqW.png",
-          "character": "Nora",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88691-3558v8r2PdLj.png",
-          "character": "Daikoku",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89120-MDy3OOROXTUG.png",
-          "character": "Ebisu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/88690-7i53juMPaNjR.png",
-          "character": "Rabo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b121705-mz3J8uWgIG7F.png",
-          "character": "Mayu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b88689-9OTDNG9R1zjC.png",
-          "character": "Tenjin",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89301-1kEosHwb6M5T.png",
-          "character": "Kuraha",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b176886-A8EsLbQUQrpZ.png",
-          "character": "Tsuyu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89304-Em5i0pTwlRCU.png",
-          "character": "Tsuguha",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/3/54465l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1009/98400l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1886/128266l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Supernatural"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 12,
-      "season": "WINTER",
-      "seasonYear": 2014,
-      "startDate": {
-        "year": 2014,
-        "month": 1,
-        "day": 5
-      },
-      "averageScore": 77,
-      "popularity": 492246,
-      "favourites": 13548,
-      "trailer": "IQnnwUXd_0U",
-      "studios": [
-        "bones"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://noragami-anime.net/1/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.hulu.com/noragami"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.amazon.com/Bidden-Calamity-English-Subtitled/dp/B00KTQI9OE/ref=sr_1_1?dchild=1&keywords=noragami&qid=1617827212&s=instant-video&sr=1-1&tag=techblast0f-20"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.crunchyroll.com/noragami"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 19815,
       "title": {
         "english": "No Game, No Life",
@@ -6103,7 +6103,7 @@
         "day": 9
       },
       "averageScore": 77,
-      "popularity": 492049,
+      "popularity": 492183,
       "favourites": 15626,
       "trailer": "TqMCYf1FibU",
       "studios": [
@@ -6389,13 +6389,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
-          "character": "Emile Elman",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
+          "character": "Bill Watkins",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
-          "character": "Bill Watkins",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
+          "character": "Emile Elman",
           "role": "SUPPORTING"
         },
         {
@@ -6478,7 +6478,7 @@
         "day": 9
       },
       "averageScore": 83,
-      "popularity": 487485,
+      "popularity": 487729,
       "favourites": 22338,
       "trailer": "ofXigq9aIpo",
       "studios": [
@@ -7013,7 +7013,7 @@
         "day": 7
       },
       "averageScore": 72,
-      "popularity": 480589,
+      "popularity": 480731,
       "favourites": 11753,
       "trailer": "nsqpjtceIZo",
       "studios": [
@@ -8055,7 +8055,7 @@
         "day": 9
       },
       "averageScore": 81,
-      "popularity": 450148,
+      "popularity": 450272,
       "favourites": 14733,
       "trailer": "2ilVWE9uw88",
       "studios": [
@@ -8142,13 +8142,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196849-xnYBt0Jf5Htf.png",
-          "character": "Kie Kamado",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193379-54MeZxQdvZ9o.jpg",
+          "character": "Shinjurou Rengoku",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b193379-54MeZxQdvZ9o.jpg",
-          "character": "Shinjurou Rengoku",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b196849-xnYBt0Jf5Htf.png",
+          "character": "Kie Kamado",
           "role": "SUPPORTING"
         },
         {
@@ -8412,7 +8412,7 @@
         "day": 13
       },
       "averageScore": 68,
-      "popularity": 442910,
+      "popularity": 443052,
       "favourites": 13832,
       "trailer": "KNIS0mVawhc",
       "studios": [
@@ -8593,8 +8593,8 @@
         "month": 10,
         "day": 5
       },
-      "averageScore": 78,
-      "popularity": 435375,
+      "averageScore": 79,
+      "popularity": 435636,
       "favourites": 23896,
       "trailer": "0c4IoCA5fY0",
       "studios": [
@@ -8981,7 +8981,7 @@
         "day": 3
       },
       "averageScore": 83,
-      "popularity": 431042,
+      "popularity": 431290,
       "favourites": 32947,
       "trailer": "kOH2_8MkgZY",
       "studios": [
@@ -9136,7 +9136,7 @@
         "day": 20
       },
       "averageScore": 86,
-      "popularity": 428346,
+      "popularity": 428530,
       "favourites": 17225,
       "trailer": "ByXuk9QqQkk",
       "studios": [
@@ -10145,7 +10145,7 @@
         "day": 3
       },
       "averageScore": 86,
-      "popularity": 417235,
+      "popularity": 417407,
       "favourites": 25715,
       "trailer": "OhNwckCLzis",
       "studios": [
@@ -10612,7 +10612,7 @@
         "day": 5
       },
       "averageScore": 65,
-      "popularity": 408509,
+      "popularity": 408611,
       "favourites": 5015,
       "trailer": "K0Ghr_rbJmQ",
       "studios": [
@@ -10786,7 +10786,7 @@
         "day": 9
       },
       "averageScore": 76,
-      "popularity": 406490,
+      "popularity": 406616,
       "favourites": 13741,
       "trailer": "VKYmpq-V3Rs",
       "studios": [
@@ -12802,7 +12802,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 377252,
+      "popularity": 377344,
       "favourites": 13854,
       "trailer": "-ClQ7zkHtXY",
       "studios": [
@@ -12964,7 +12964,7 @@
         "day": 10
       },
       "averageScore": 86,
-      "popularity": 375802,
+      "popularity": 375971,
       "favourites": 12230,
       "trailer": "EIVVnLlhzr0",
       "studios": [
@@ -14311,7 +14311,7 @@
         "day": 24
       },
       "averageScore": 83,
-      "popularity": 357971,
+      "popularity": 358180,
       "favourites": 9720,
       "trailer": "2docezZl574",
       "studios": [
@@ -14409,13 +14409,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
-          "character": "Lawine",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
+          "character": "Wirbel",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
-          "character": "Wirbel",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
+          "character": "Lawine",
           "role": "SUPPORTING"
         },
         {
@@ -14922,13 +14922,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210102-R479fvXo78Zn.png",
-          "character": "Sin Sang",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
+          "character": "Song-I Han",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b138793-eijpaPPkcipD.png",
-          "character": "Song-I Han",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b210102-R479fvXo78Zn.png",
+          "character": "Sin Sang",
           "role": "SUPPORTING"
         },
         {
@@ -15300,7 +15300,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 346994,
+      "popularity": 347222,
       "favourites": 15759,
       "trailer": "8oveGY6h6T8",
       "studios": [
@@ -17265,7 +17265,7 @@
         "day": 1
       },
       "averageScore": 84,
-      "popularity": 320918,
+      "popularity": 321056,
       "favourites": 15660,
       "trailer": "MmoBvmJA9XI",
       "studios": [
@@ -17424,7 +17424,7 @@
         "day": 20
       },
       "averageScore": 85,
-      "popularity": 320382,
+      "popularity": 320543,
       "favourites": 17449,
       "trailer": "iwROgK94zcM",
       "studios": [
@@ -19096,7 +19096,7 @@
         "day": 5
       },
       "averageScore": 79,
-      "popularity": 304587,
+      "popularity": 304700,
       "favourites": 10401,
       "trailer": null,
       "studios": [
@@ -20273,7 +20273,7 @@
         "day": 13
       },
       "averageScore": 78,
-      "popularity": 292774,
+      "popularity": 292868,
       "favourites": 9697,
       "trailer": "FnM1TDuG9f4",
       "studios": [
@@ -20572,7 +20572,7 @@
         "day": 7
       },
       "averageScore": 88,
-      "popularity": 290666,
+      "popularity": 290837,
       "favourites": 19402,
       "trailer": null,
       "studios": [
@@ -21273,7 +21273,7 @@
         "day": 6
       },
       "averageScore": 82,
-      "popularity": 282122,
+      "popularity": 282232,
       "favourites": 13190,
       "trailer": "t2kCCDiWlVg",
       "studios": [
@@ -21670,13 +21670,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130878-E6iil2Bh2JIX.png",
-          "character": "Hitomi Tadano",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130874-Q77FIzvZcFz1.png",
+          "character": "Ren Yamai",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130874-Q77FIzvZcFz1.png",
-          "character": "Ren Yamai",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b130878-E6iil2Bh2JIX.png",
+          "character": "Hitomi Tadano",
           "role": "SUPPORTING"
         },
         {
@@ -21728,7 +21728,7 @@
         "day": 7
       },
       "averageScore": 77,
-      "popularity": 279303,
+      "popularity": 279438,
       "favourites": 7644,
       "trailer": "QpyQ_0i2NU8",
       "studios": [
@@ -22519,7 +22519,7 @@
         "day": 3
       },
       "averageScore": 61,
-      "popularity": 276541,
+      "popularity": 276640,
       "favourites": 2724,
       "trailer": "dZ36ToJLHtA",
       "studios": [
@@ -23367,7 +23367,7 @@
         "day": 9
       },
       "averageScore": 80,
-      "popularity": 270785,
+      "popularity": 270905,
       "favourites": 11155,
       "trailer": "IVsII3dLbWc",
       "studios": [
@@ -23695,7 +23695,7 @@
         "day": 7
       },
       "averageScore": 71,
-      "popularity": 270365,
+      "popularity": 270451,
       "favourites": 5696,
       "trailer": "6sdxN30qNrw",
       "studios": [
@@ -23865,7 +23865,7 @@
         "day": 12
       },
       "averageScore": 85,
-      "popularity": 268883,
+      "popularity": 269015,
       "favourites": 11524,
       "trailer": "4OiMOHRDs14",
       "studios": [
@@ -25391,7 +25391,7 @@
         "day": 13
       },
       "averageScore": 73,
-      "popularity": 261058,
+      "popularity": 261133,
       "favourites": 2922,
       "trailer": "ULP_6faadB4",
       "studios": [
@@ -25549,7 +25549,7 @@
         "day": 7
       },
       "averageScore": 75,
-      "popularity": 259298,
+      "popularity": 259386,
       "favourites": 5782,
       "trailer": "wHaHh_sX1IM",
       "studios": [
@@ -26339,7 +26339,7 @@
         "day": 3
       },
       "averageScore": 74,
-      "popularity": 257227,
+      "popularity": 257289,
       "favourites": 5126,
       "trailer": "BnfeVrAAS2k",
       "studios": [
@@ -27108,18 +27108,18 @@
           "role": "BACKGROUND"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279051-JUTBrloZnNAn.jpg",
-          "character": "Nousagyousha ni Notteita Onna",
-          "role": "BACKGROUND"
-        },
-        {
           "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279050-U97C3V4JZDpH.jpg",
           "character": "Honke no Obaa-chan",
           "role": "BACKGROUND"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279052-cQfXCwYWPBKU.jpg",
-          "character": "Nousagyousha wo Unten Shiteita Otoko",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279051-JUTBrloZnNAn.jpg",
+          "character": "Nousagyousha ni Notteita Onna",
+          "role": "BACKGROUND"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b279048-lurklnChwAJC.jpg",
+          "character": "Gakkou no Sensei",
           "role": "BACKGROUND"
         }
       ],
@@ -27694,7 +27694,7 @@
         "day": 20
       },
       "averageScore": 84,
-      "popularity": 249441,
+      "popularity": 249553,
       "favourites": 13157,
       "trailer": null,
       "studios": [
@@ -27854,7 +27854,7 @@
         "day": 25
       },
       "averageScore": 68,
-      "popularity": 246604,
+      "popularity": 246715,
       "favourites": 4544,
       "trailer": "3KgeAos9oNc",
       "studios": [
@@ -28143,7 +28143,7 @@
         "day": 11
       },
       "averageScore": 73,
-      "popularity": 242845,
+      "popularity": 242907,
       "favourites": 4452,
       "trailer": "PuB1VpKbWtE",
       "studios": [
@@ -28197,13 +28197,13 @@
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
-          "character": "Ikumi Mito",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
+          "character": "Satoshi Isshiki",
           "role": "SUPPORTING"
         },
         {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78475-pcxfAMiGe6xf.png",
-          "character": "Satoshi Isshiki",
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b78935-21Ac5ydcrLCj.png",
+          "character": "Ikumi Mito",
           "role": "SUPPORTING"
         },
         {
@@ -28768,7 +28768,7 @@
         "day": 5
       },
       "averageScore": 80,
-      "popularity": 238455,
+      "popularity": 238525,
       "favourites": 7257,
       "trailer": "61RuoLIlCUM",
       "studios": [
@@ -28950,7 +28950,7 @@
         "day": 4
       },
       "averageScore": 79,
-      "popularity": 237205,
+      "popularity": 237301,
       "favourites": 5877,
       "trailer": "35cs5zFr2h8",
       "studios": [
@@ -29909,7 +29909,7 @@
         "day": 4
       },
       "averageScore": 75,
-      "popularity": 233685,
+      "popularity": 233771,
       "favourites": 6010,
       "trailer": "ER8wXRhZW1k",
       "studios": [
@@ -30510,7 +30510,7 @@
         "day": 6
       },
       "averageScore": 70,
-      "popularity": 232009,
+      "popularity": 232065,
       "favourites": 4645,
       "trailer": "U-gkwdGooDU",
       "studios": [
@@ -31777,7 +31777,7 @@
         "day": 8
       },
       "averageScore": 79,
-      "popularity": 227530,
+      "popularity": 227670,
       "favourites": 8771,
       "trailer": "ukO-ZdWS3j8",
       "studios": [
@@ -32038,7 +32038,7 @@
         "day": 31
       },
       "averageScore": 75,
-      "popularity": 225555,
+      "popularity": 225611,
       "favourites": 4398,
       "trailer": "udDIkl6z8X0",
       "studios": [
@@ -32321,7 +32321,7 @@
         "day": 6
       },
       "averageScore": 87,
-      "popularity": 224929,
+      "popularity": 225039,
       "favourites": 9594,
       "trailer": "Ah7lTT-NKMw",
       "studios": [
@@ -32673,7 +32673,7 @@
         "day": 10
       },
       "averageScore": 88,
-      "popularity": 223800,
+      "popularity": 223940,
       "favourites": 12323,
       "trailer": "6pX93dXfH9s",
       "studios": [
@@ -32844,7 +32844,7 @@
         "day": 1
       },
       "averageScore": 82,
-      "popularity": 222974,
+      "popularity": 223124,
       "favourites": 5512,
       "trailer": "WxCJMYbGtzA",
       "studios": [
@@ -32870,6 +32870,168 @@
         {
           "type": "STREAMING",
           "url": "https://www.bilibili.tv/en/media/2068973"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 32,
+      "title": {
+        "english": "Neon Genesis Evangelion: The End of Evangelion",
+        "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+        "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+      },
+      "description": "NERV faces a brutal attack from SEELE, but with Asuka in a coma, and Shinji in a nervous breakdown, things soon turn into the surreal. This movie provides a concurrent ending to the final two episodes of the show <b>Neon Genesis Evangelion</b>.<br>\n<br>\n(Source: IMDb)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx32-5JYsv0wc122I.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n32-BH9yHJBQqeOa.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png",
+          "character": "Asuka Langley Souryuu",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg",
+          "character": "Rei Ayanami",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png",
+          "character": "Shinji Ikari",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png",
+          "character": "Misato Katsuragi",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg",
+          "character": "Kaworu Nagisa",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1260-QCPCuARGDhqK.jpg",
+          "character": "Ryouji Kaji",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png",
+          "character": "Ritsuko Akagi",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png",
+          "character": "Gendou Ikari",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1256-7NjpwB5vSlPZ.png",
+          "character": "Maya Ibuki",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png",
+          "character": "Yui Ikari",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1253-4VmJuD5jUSvJ.png",
+          "character": "Kohzou Fuyutsuki",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1252-gSQPK15PSOl9.png",
+          "character": "Shigeru Aoba",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1255-U6CSCHcOpUpS.png",
+          "character": "Makoto Hyuuga",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40969-CCitRm0yoQZI.png",
+          "character": "Kyouko Zeppelin Souryuu",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17620-ZMMQmEnTNETz.png",
+          "character": "Keel Lorentz",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/23255l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/12/39305l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/13/83080l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1080/97658l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1597/113123l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1543/146865l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "format": "MOVIE",
+      "episodes": 1,
+      "season": "SUMMER",
+      "seasonYear": 1997,
+      "startDate": {
+        "year": 1997,
+        "month": 7,
+        "day": 19
+      },
+      "averageScore": 85,
+      "popularity": 222699,
+      "favourites": 15203,
+      "trailer": "v1pWyWIu8x4",
+      "studios": [
+        "Gainax",
+        "Production I.G"
+      ],
+      "streamingLinks": [
+        {
+          "type": "STREAMING",
+          "url": "https://www.netflix.com/title/60024788"
         }
       ],
       "nextAiring": null
@@ -33050,168 +33212,6 @@
         {
           "type": "STREAMING",
           "url": "https://www.bilibili.tv/en/media/35415"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
-      "id": 32,
-      "title": {
-        "english": "Neon Genesis Evangelion: The End of Evangelion",
-        "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
-        "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
-      },
-      "description": "NERV faces a brutal attack from SEELE, but with Asuka in a coma, and Shinji in a nervous breakdown, things soon turn into the surreal. This movie provides a concurrent ending to the final two episodes of the show <b>Neon Genesis Evangelion</b>.<br>\n<br>\n(Source: IMDb)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx32-5JYsv0wc122I.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n32-BH9yHJBQqeOa.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b94-d631a3Z2KPvd.png",
-          "character": "Asuka Langley Souryuu",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/86-cA1zL7fyls8E.jpg",
-          "character": "Rei Ayanami",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89-ZtZhXkh1rITn.png",
-          "character": "Shinji Ikari",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1259-afTQkZ5SVMOn.png",
-          "character": "Misato Katsuragi",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1261-HYRv3HpsSL92.jpg",
-          "character": "Kaworu Nagisa",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1260-QCPCuARGDhqK.jpg",
-          "character": "Ryouji Kaji",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1251-gLa2Arv5E8a9.png",
-          "character": "Ritsuko Akagi",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1257-qByikcrE8KTG.png",
-          "character": "Gendou Ikari",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1256-7NjpwB5vSlPZ.png",
-          "character": "Maya Ibuki",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1258-FiCAgSWsP2Xz.png",
-          "character": "Yui Ikari",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1253-4VmJuD5jUSvJ.png",
-          "character": "Kohzou Fuyutsuki",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/1252-gSQPK15PSOl9.png",
-          "character": "Shigeru Aoba",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b1255-U6CSCHcOpUpS.png",
-          "character": "Makoto Hyuuga",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b40969-CCitRm0yoQZI.png",
-          "character": "Kyouko Zeppelin Souryuu",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b17620-ZMMQmEnTNETz.png",
-          "character": "Keel Lorentz",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/4/11131l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/12/23255l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/12/39305l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/13/83080l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1080/97658l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1597/113123l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1543/146865l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Drama",
-        "Mecha",
-        "Psychological",
-        "Sci-Fi"
-      ],
-      "status": "FINISHED",
-      "format": "MOVIE",
-      "episodes": 1,
-      "season": "SUMMER",
-      "seasonYear": 1997,
-      "startDate": {
-        "year": 1997,
-        "month": 7,
-        "day": 19
-      },
-      "averageScore": 85,
-      "popularity": 222579,
-      "favourites": 15203,
-      "trailer": "v1pWyWIu8x4",
-      "studios": [
-        "Gainax",
-        "Production I.G"
-      ],
-      "streamingLinks": [
-        {
-          "type": "STREAMING",
-          "url": "https://www.netflix.com/title/60024788"
         }
       ],
       "nextAiring": null
@@ -33688,7 +33688,7 @@
         "day": 9
       },
       "averageScore": 70,
-      "popularity": 220150,
+      "popularity": 220203,
       "favourites": 2034,
       "trailer": "8fCIcho7N4k",
       "studios": [
@@ -33977,7 +33977,7 @@
         "day": 8
       },
       "averageScore": 75,
-      "popularity": 219824,
+      "popularity": 219887,
       "favourites": 5087,
       "trailer": "J_MhrnxDwUA",
       "studios": [
@@ -34503,143 +34503,6 @@
       "nextAiring": null
     },
     {
-      "id": 101474,
-      "title": {
-        "english": "Overlord III",
-        "romaji": "Overlord III",
-        "native": "オーバーロードⅢ"
-      },
-      "description": "The third season of <i>Overlord</i>.<br>\n<br>\nWith his foundations now set in this new world, the first steps of Ains Ooal Gown's master plan apparent begin to come to fruition. The value of Carne village and especially the political value of his alter ego Momon are reaffirmed; the “hidden” genius of his actions is continuously met with shock and awe by Demiurge, Albedo, the rest of his guardians, and even Ains himself at his “great wisdom.” His attempts to act in a way befitting the ruler of Nazarick, continuing to further cement his guardian’s loyalty, push him ever further down the path of not-so-intentional world domination. Without human conscience due to being undead, he is motivated only to continue searching for other players from Yggdrasil and to gain power to better protect the children and home of him and his forty former companions. Lord Ains Ooal Gown maintains his mantle of Overlord and leads the Great Tomb of Nazarick unto the world stage, directly into a vicious power struggle between two great empires.\n<br><br>(Source: Anime News Network)",
-      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101474-tGRyvSAWMjU9.jpg",
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101474-n35NKyt9APDw.jpg",
-      "characterImages": [
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
-          "character": "Momonga",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126869-oKHjOvk80dD6.png",
-          "character": "Gazef Stronoff",
-          "role": "MAIN"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
-          "character": "Albedo",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png",
-          "character": "Shalltear Bloodfallen",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179058-nF33LbBOrHAn.jpg",
-          "character": "Arche Eeb Rile Furt",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
-          "character": "Demiurge",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png",
-          "character": "Sebas Tian",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png",
-          "character": "Narberal Gamma",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png",
-          "character": "Aura Bella Fiora",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126870-DKc1B7cvoUu7.jpg",
-          "character": "Lupusregina Beta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89126-1WY1bWNYPg44.png",
-          "character": "Mare Bello Fiore",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126841-zO8B5EQgj2dj.jpg",
-          "character": "Shizu Delta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89138-HUcvLWduh6Mc.png",
-          "character": "Cocytus",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126281-wjpp9rEaovPJ.jpg",
-          "character": "Entoma Vasilissa Zeta",
-          "role": "SUPPORTING"
-        },
-        {
-          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n125881-G7IbEWaUyCqc.png",
-          "character": "Evileye",
-          "role": "SUPPORTING"
-        }
-      ],
-      "episodeScreenshots": [
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1319/91709l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        },
-        {
-          "url": "https://cdn.myanimelist.net/images/anime/1511/93473l.jpg",
-          "type": "screenshot",
-          "source": "MyAnimeList"
-        }
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "status": "FINISHED",
-      "format": "TV",
-      "episodes": 13,
-      "season": "SUMMER",
-      "seasonYear": 2018,
-      "startDate": {
-        "year": 2018,
-        "month": 7,
-        "day": 10
-      },
-      "averageScore": 77,
-      "popularity": 218868,
-      "favourites": 4760,
-      "trailer": "awYU-9jVZxE",
-      "studios": [
-        "MADHOUSE"
-      ],
-      "streamingLinks": [
-        {
-          "type": "INFO",
-          "url": "http://overlord-anime.com/"
-        },
-        {
-          "type": "STREAMING",
-          "url": "http://www.crunchyroll.com/overlord"
-        },
-        {
-          "type": "STREAMING",
-          "url": "https://www.bilibili.tv/en/media/34444"
-        }
-      ],
-      "nextAiring": null
-    },
-    {
       "id": 339,
       "title": {
         "english": "Serial Experiments Lain",
@@ -34791,7 +34654,7 @@
         "day": 6
       },
       "averageScore": 80,
-      "popularity": 218778,
+      "popularity": 218903,
       "favourites": 12463,
       "trailer": "lpv7Wv-sDAo",
       "studios": [
@@ -34801,6 +34664,143 @@
         {
           "type": "INFO",
           "url": "https://www.nbcuni.co.jp/rondorobe/anime/lain/"
+        }
+      ],
+      "nextAiring": null
+    },
+    {
+      "id": 101474,
+      "title": {
+        "english": "Overlord III",
+        "romaji": "Overlord III",
+        "native": "オーバーロードⅢ"
+      },
+      "description": "The third season of <i>Overlord</i>.<br>\n<br>\nWith his foundations now set in this new world, the first steps of Ains Ooal Gown's master plan apparent begin to come to fruition. The value of Carne village and especially the political value of his alter ego Momon are reaffirmed; the “hidden” genius of his actions is continuously met with shock and awe by Demiurge, Albedo, the rest of his guardians, and even Ains himself at his “great wisdom.” His attempts to act in a way befitting the ruler of Nazarick, continuing to further cement his guardian’s loyalty, push him ever further down the path of not-so-intentional world domination. Without human conscience due to being undead, he is motivated only to continue searching for other players from Yggdrasil and to gain power to better protect the children and home of him and his forty former companions. Lord Ains Ooal Gown maintains his mantle of Overlord and leads the Great Tomb of Nazarick unto the world stage, directly into a vicious power struggle between two great empires.\n<br><br>(Source: Anime News Network)",
+      "coverImage": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101474-tGRyvSAWMjU9.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101474-n35NKyt9APDw.jpg",
+      "characterImages": [
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89103-ZsnA0r77GHsR.png",
+          "character": "Momonga",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126869-oKHjOvk80dD6.png",
+          "character": "Gazef Stronoff",
+          "role": "MAIN"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89122-Gj7MBs7F5cMJ.png",
+          "character": "Albedo",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89121-N8hzLH4nfWna.png",
+          "character": "Shalltear Bloodfallen",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b179058-nF33LbBOrHAn.jpg",
+          "character": "Arche Eeb Rile Furt",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89125-pnLki4r5UyV5.png",
+          "character": "Demiurge",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89155-yVyhseUF82s9.png",
+          "character": "Sebas Tian",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89152-S3WrhOMakSCq.png",
+          "character": "Narberal Gamma",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89129-2Qrm5TnoKYct.png",
+          "character": "Aura Bella Fiora",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126870-DKc1B7cvoUu7.jpg",
+          "character": "Lupusregina Beta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89126-1WY1bWNYPg44.png",
+          "character": "Mare Bello Fiore",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/126841-zO8B5EQgj2dj.jpg",
+          "character": "Shizu Delta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b89138-HUcvLWduh6Mc.png",
+          "character": "Cocytus",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/b126281-wjpp9rEaovPJ.jpg",
+          "character": "Entoma Vasilissa Zeta",
+          "role": "SUPPORTING"
+        },
+        {
+          "url": "https://s4.anilist.co/file/anilistcdn/character/large/n125881-G7IbEWaUyCqc.png",
+          "character": "Evileye",
+          "role": "SUPPORTING"
+        }
+      ],
+      "episodeScreenshots": [
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1319/91709l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        },
+        {
+          "url": "https://cdn.myanimelist.net/images/anime/1511/93473l.jpg",
+          "type": "screenshot",
+          "source": "MyAnimeList"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "format": "TV",
+      "episodes": 13,
+      "season": "SUMMER",
+      "seasonYear": 2018,
+      "startDate": {
+        "year": 2018,
+        "month": 7,
+        "day": 10
+      },
+      "averageScore": 77,
+      "popularity": 218868,
+      "favourites": 4760,
+      "trailer": "awYU-9jVZxE",
+      "studios": [
+        "MADHOUSE"
+      ],
+      "streamingLinks": [
+        {
+          "type": "INFO",
+          "url": "http://overlord-anime.com/"
+        },
+        {
+          "type": "STREAMING",
+          "url": "http://www.crunchyroll.com/overlord"
+        },
+        {
+          "type": "STREAMING",
+          "url": "https://www.bilibili.tv/en/media/34444"
         }
       ],
       "nextAiring": null
@@ -35090,7 +35090,7 @@
         "day": 13
       },
       "averageScore": 71,
-      "popularity": 218069,
+      "popularity": 218138,
       "favourites": 2902,
       "trailer": "SSgtBDgvIzc",
       "studios": [
@@ -36555,7 +36555,7 @@
         "day": 5
       },
       "averageScore": 76,
-      "popularity": 215061,
+      "popularity": 215113,
       "favourites": 4225,
       "trailer": "IG1VhJ75r8k",
       "studios": [
@@ -37897,7 +37897,7 @@
         "day": 4
       },
       "averageScore": 78,
-      "popularity": 209858,
+      "popularity": 209911,
       "favourites": 2484,
       "trailer": "SELSLl0_Gmw",
       "studios": [
@@ -38889,7 +38889,7 @@
         "day": 26
       },
       "averageScore": 78,
-      "popularity": 207066,
+      "popularity": 207153,
       "favourites": 7244,
       "trailer": null,
       "studios": [
@@ -39564,7 +39564,7 @@
         "day": 16
       },
       "averageScore": 79,
-      "popularity": 205621,
+      "popularity": 205738,
       "favourites": 6997,
       "trailer": "SyM8JyyUTjc",
       "studios": [
@@ -39714,7 +39714,7 @@
         "day": 14
       },
       "averageScore": 82,
-      "popularity": 204400,
+      "popularity": 204453,
       "favourites": 11011,
       "trailer": "m-nN3SlHwZk",
       "studios": [
@@ -40047,7 +40047,7 @@
         "day": 3
       },
       "averageScore": 74,
-      "popularity": 201885,
+      "popularity": 201939,
       "favourites": 1949,
       "trailer": "70W0u35wa48",
       "studios": [
@@ -40783,7 +40783,7 @@
         "day": 6
       },
       "averageScore": 67,
-      "popularity": 198268,
+      "popularity": 198322,
       "favourites": 3588,
       "trailer": "vSi7NGZQ-IA",
       "studios": [
