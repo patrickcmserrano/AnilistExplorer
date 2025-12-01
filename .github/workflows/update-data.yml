@@ -5,20 +5,16 @@ on:
     # Run every week (Sunday at 00:00 UTC)
     - cron: '0 0 * * 0'
   workflow_dispatch: # Allow manual trigger
-  push:
-    branches:
-      - main
-    paths:
-      - 'scraper/**'
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repository
+      - name: Checkout data branch
         uses: actions/checkout@v3
         with:
+          ref: data
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Python
@@ -47,22 +43,27 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
       
-      - name: Commit and push if changed
+      - name: Commit to data branch
         if: steps.verify-changed-files.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add src/data/anime.json
-          # Only add cache files if they exist
-          [ -f scraper/anime_cache.json ] && git add scraper/anime_cache.json
-          [ -f scraper/anilist_enriched_data.json ] && git add scraper/anilist_enriched_data.json
-          git commit -m "chore: update anime data - $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
-          git push
+          git commit -m "chore(data): update anime data - $(date +'%Y-%m-%d %H:%M UTC')"
+          git push origin data
+      
+      - name: Merge data to main
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git fetch origin main
+          git checkout main
+          git merge --no-ff data -m "chore: auto-merge data update - $(date +'%Y-%m-%d %H:%M UTC')"
+          git push origin main
       
       - name: Summary
         run: |
           if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
-            echo "✅ Anime data updated successfully!"
+            echo "✅ Anime data updated and merged to main!"
           else
             echo "ℹ️ No changes detected in anime data."
           fi
