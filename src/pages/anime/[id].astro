@@ -22,7 +22,7 @@ const { anime } = Astro.props;
     <div class="max-w-7xl mx-auto">
       <!-- Header with Navigation -->
       <div class="mb-8 flex items-center gap-4">
-        <a href="/" class="text-blue-400 hover:text-blue-300 transition">← Voltar</a>
+        <button onclick="history.back()" class="text-blue-400 hover:text-blue-300 transition cursor-pointer bg-transparent border-none p-0 font-inherit">← Voltar</button>
         <a href="/releases" class="text-blue-400 hover:text-blue-300 transition">Lançamentos</a>
       </div>
 
