@@ -1,4 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
+import AnimeCardQuickActions from './AnimeCardQuickActions';
+
 
 interface Anime {
   id: number | string;
@@ -141,6 +143,88 @@ export default function CoverCarousel({ animes: initialAnimes }: Props) {
     }
   }, []);
 
+  // Touch gesture handlers using native event listeners (not React)
+  // This allows us to use preventDefault() without warnings
+  useEffect(() => {
+    const element = carouselRef.current;
+    if (!element) return;
+
+    let touchStartPos: { x: number; y: number } | null = null;
+    let touchEndPos: { x: number; y: number } | null = null;
+    let isSwipeGesture = false;
+
+    const handleTouchStartNative = (e: TouchEvent) => {
+      touchEndPos = null;
+      isSwipeGesture = false;
+      touchStartPos = {
+        x: e.touches[0].clientX,
+        y: e.touches[0].clientY
+      };
+    };
+
+    const handleTouchMoveNative = (e: TouchEvent) => {
+      if (!touchStartPos) return;
+
+      touchEndPos = {
+        x: e.touches[0].clientX,
+        y: e.touches[0].clientY
+      };
+
+      const deltaX = Math.abs(touchStartPos.x - touchEndPos.x);
+      const deltaY = Math.abs(touchStartPos.y - touchEndPos.y);
+      const minSwipeThreshold = 10; // Detect swipe intent early
+
+      // Only prevent default if we detect a swipe gesture
+      if (deltaX > minSwipeThreshold || deltaY > minSwipeThreshold) {
+        isSwipeGesture = true;
+        e.preventDefault();
+      }
+    };
+
+    const handleTouchEndNative = () => {
+      if (!touchStartPos || !touchEndPos) return;
+
+      const deltaX = touchStartPos.x - touchEndPos.x;
+      const deltaY = touchStartPos.y - touchEndPos.y;
+      const minSwipeDistance = 50;
+
+      const isVerticalSwipe = Math.abs(deltaY) > Math.abs(deltaX);
+      const isHorizontalSwipe = Math.abs(deltaX) > Math.abs(deltaY);
+
+      // Vertical swipe - navigate between animes
+      if (isVerticalSwipe && Math.abs(deltaY) > minSwipeDistance) {
+        if (deltaY > 0) {
+          nextAnime();
+        } else {
+          prevAnime();
+        }
+      }
+      // Horizontal swipe - navigate between images
+      else if (isHorizontalSwipe && Math.abs(deltaX) > minSwipeDistance) {
+        if (deltaX > 0) {
+          nextImage();
+        } else {
+          prevImage();
+        }
+      }
+
+      touchStartPos = null;
+      touchEndPos = null;
+      isSwipeGesture = false;
+    };
+
+    // Add event listeners with { passive: false } to allow preventDefault
+    element.addEventListener('touchstart', handleTouchStartNative, { passive: true });
+    element.addEventListener('touchmove', handleTouchMoveNative, { passive: false });
+    element.addEventListener('touchend', handleTouchEndNative, { passive: true });
+
+    return () => {
+      element.removeEventListener('touchstart', handleTouchStartNative);
+      element.removeEventListener('touchmove', handleTouchMoveNative);
+      element.removeEventListener('touchend', handleTouchEndNative);
+    };
+  }, [nextAnime, prevAnime, nextImage, prevImage]);
+
   // Handle keyboard navigation
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -223,8 +307,9 @@ export default function CoverCarousel({ animes: initialAnimes }: Props) {
       {/* Carousel Container */}
       <div
         ref={carouselRef}
-        className={`relative w-full ${isFullscreen ? 'fixed inset-0 z-50' : 'h-screen md:aspect-video rounded-2xl overflow-hidden'
+        className={`relative w-full ${isFullscreen ? 'fixed inset-0 z-50' : 'h-[80vh] md:aspect-video rounded-2xl overflow-hidden'
           } bg-black shadow-2xl group`}
+        style={{ touchAction: 'none' }}
         onMouseEnter={() => setIsHovering(true)}
         onMouseLeave={() => setIsHovering(false)}
       >
@@ -282,24 +367,34 @@ export default function CoverCarousel({ animes: initialAnimes }: Props) {
         {/* Info Overlay - Bottom with controls hint */}
         {showInfo && (
           <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent p-4 md:p-6">
-            <div className="text-gray-400 text-xs md:text-sm">
-              <div className="mb-2 flex items-center gap-4 flex-wrap">
-                <span>
-                  Anime {currentAnimeIndex + 1} de {initialAnimes.length}
+            {/* Top row - Counters */}
+            <div className="mb-3 flex items-center justify-center gap-4 flex-wrap text-xs md:text-sm text-gray-400">
+              <span>
+                Anime {currentAnimeIndex + 1} de {initialAnimes.length}
+              </span>
+              {availableImages.length > 1 && (
+                <span className="text-purple-400">
+                  Imagem {currentImageIndex + 1} de {availableImages.length}
                 </span>
-                {availableImages.length > 1 && (
-                  <span className="text-purple-400">
-                    Imagem {currentImageIndex + 1} de {availableImages.length}
-                  </span>
-                )}
-              </div>
-              <div className="hidden md:flex gap-3 text-xs flex-wrap">
-                <span>← → : Trocar imagem</span>
-                <span>↑ ↓ : Trocar anime</span>
-                <span>Enter: Abrir</span>
-                <span>F: Tela cheia</span>
-                <span>I: Info</span>
-              </div>
+              )}
+            </div>
+
+            {/* Middle row - Quick Actions */}
+            <div className="mb-3 flex justify-center">
+              <AnimeCardQuickActions
+                animeId={currentAnime.id}
+                animeTitle={title}
+                animeCover={getCover(currentAnime)}
+              />
+            </div>
+
+            {/* Bottom row - Keyboard hints (desktop only) */}
+            <div className="hidden md:flex gap-3 text-xs flex-wrap justify-center text-gray-500">
+              <span>← → : Trocar imagem</span>
+              <span>↑ ↓ : Trocar anime</span>
+              <span>Enter: Abrir</span>
+              <span>F: Tela cheia</span>
+              <span>I: Info</span>
             </div>
           </div>
         )}
@@ -420,7 +515,7 @@ export default function CoverCarousel({ animes: initialAnimes }: Props) {
 
       {/* Mobile-friendly hint below carousel */}
       <div className="mt-2 text-xs text-gray-400 text-center md:hidden">
-        👆 Deslize ou use os botões • ← → : Trocar imagem • ↑ ↓ : Trocar anime
+        👆 Deslize ↔ para trocar imagem • Deslize ↕ para trocar anime
       </div>
 
       {/* Styles for fade animation */}
