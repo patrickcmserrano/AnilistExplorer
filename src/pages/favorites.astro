@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import AnimeListPage from '../components/AnimeListPage';
+import ShareListButton from '../components/ShareListButton';
 import animeData from '../data/anime.json';
 
 export const prerender = true;
@@ -23,6 +24,7 @@ if (Array.isArray(animeData)) {
       <div class="flex items-center gap-4 mb-4">
         <a href="/" class="text-blue-400 hover:text-blue-300 transition">← Voltar</a>
         <a href="/watch-later" class="text-blue-400 hover:text-blue-300 transition">🕒 Watch Later</a>
+        <div id="share-button-container"></div>
       </div>
     </div>
 
@@ -74,6 +76,12 @@ if (Array.isArray(animeData)) {
         window.__CLEAR_FAVORITES__ = clearFavorites;
       });
     </script>
+
+    <ShareListButton 
+      client:load
+      listType="favorites"
+      animes={[]}
+    />
 
     <AnimeListPage 
       client:load 

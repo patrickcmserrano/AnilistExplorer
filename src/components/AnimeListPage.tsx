@@ -42,6 +42,14 @@ export default function AnimeListPage({ animes: initialAnimes, listType, onClear
     // Load animes from window global if available (set by Astro page)
     useEffect(() => {
         if (typeof window !== 'undefined') {
+            // Check if this is a shared list first
+            const sharedAnimes = (window as any).__SHARED_ANIMES__;
+            if (sharedAnimes && Array.isArray(sharedAnimes)) {
+                setAnimes(sharedAnimes);
+                return;
+            }
+
+            // Otherwise load regular list
             const globalKey = listType === 'watch-later' ? '__WATCH_LATER_ANIMES__' : '__FAVORITES_ANIMES__';
             const loadedAnimes = (window as any)[globalKey];
             if (loadedAnimes && Array.isArray(loadedAnimes)) {

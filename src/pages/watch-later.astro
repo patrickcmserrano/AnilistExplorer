@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import AnimeListPage from '../components/AnimeListPage';
+import ShareListButton from '../components/ShareListButton';
 import animeData from '../data/anime.json';
 
 export const prerender = true;
@@ -23,6 +24,7 @@ if (Array.isArray(animeData)) {
       <div class="flex items-center gap-4 mb-4">
         <a href="/" class="text-blue-400 hover:text-blue-300 transition">← Voltar</a>
         <a href="/favorites" class="text-pink-400 hover:text-pink-300 transition">❤️ Favoritos</a>
+        <div id="share-button-container"></div>
       </div>
     </div>
 
@@ -72,8 +74,15 @@ if (Array.isArray(animeData)) {
         // Store globally for React component
         window.__WATCH_LATER_ANIMES__ = sortedAnimes;
         window.__CLEAR_WATCH_LATER__ = clearWatchLater;
+        window.__WATCH_LATER_ANIMES_FOR_SHARE__ = sortedAnimes;
       });
     </script>
+
+    <ShareListButton 
+      client:load
+      listType="watch-later"
+      animes={[]}
+    />
 
     <AnimeListPage 
       client:load 
