@@ -86,7 +86,8 @@ export function isUrlSafe(animeIds: (number | string)[]): boolean {
 export function generateShareableUrl(listType: ListType, animeIds: (number | string)[]): string {
     const encoded = encodeListToUrl(listType, animeIds);
     const origin = typeof window !== 'undefined' ? window.location.origin : '';
-    return `${origin}/shared#${encoded}`;
+    const baseUrl = import.meta.env.BASE_URL;
+    return `${origin}${baseUrl}shared#${encoded}`;
 }
 
 /**
