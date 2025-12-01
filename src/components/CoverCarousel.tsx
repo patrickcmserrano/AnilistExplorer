@@ -258,7 +258,7 @@ export default function CoverCarousel({ animes: initialAnimes }: Props) {
           break;
         case 'Enter':
           e.preventDefault();
-          window.location.href = `/anime/${currentAnime.id}`;
+          window.location.href = `/anime/${currentAnime.id}/`;
           break;
         case 'f':
         case 'F':
@@ -492,7 +492,7 @@ export default function CoverCarousel({ animes: initialAnimes }: Props) {
 
           {/* Open Anime Button */}
           <a
-            href={`/anime/${currentAnime.id}`}
+            href={`/anime/${currentAnime.id}/`}
             className="p-2 rounded-full bg-blue-600 hover:bg-blue-700 text-white transition-colors"
             title="Abrir anime (Enter)"
             aria-label="Abrir página do anime"
