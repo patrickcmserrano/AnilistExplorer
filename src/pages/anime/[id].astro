@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import animeData from '../../data/anime.json';
 import { getStreamingServiceName, getStreamingIcon } from '../../utils/streamingServices';
+import AnimeListActions from '../../components/AnimeListActions';
 
 // Generate static paths for all anime pages
 export function getStaticPaths() {
@@ -22,8 +23,8 @@ const { anime } = Astro.props;
     <div class="max-w-7xl mx-auto">
       <!-- Header with Navigation -->
       <div class="mb-8 flex items-center gap-4">
-        <a href="/" class="text-blue-400 hover:text-blue-300 transition">← Voltar</a>
-        <a href="/releases" class="text-blue-400 hover:text-blue-300 transition">Lançamentos</a>
+        <button onclick="history.back()" class="text-blue-400 hover:text-blue-300 transition cursor-pointer bg-transparent border-none p-0 font-inherit">← Voltar</button>
+        <a href="/releases/" class="text-blue-400 hover:text-blue-300 transition">Lançamentos</a>
       </div>
 
       <!-- Main Content -->
@@ -108,6 +109,16 @@ const { anime } = Astro.props;
             {anime.title?.romaji && anime.title?.romaji !== anime.title?.english && (
               <p class="text-lg text-slate-300">{anime.title.romaji}</p>
             )}
+          </div>
+
+          <!-- Action Buttons -->
+          <div>
+            <AnimeListActions 
+              client:load
+              animeId={anime.id}
+              animeTitle={anime.title?.english || anime.title?.romaji || 'Unknown'}
+              animeCover={anime.coverImage}
+            />
           </div>
 
           <!-- Genres -->

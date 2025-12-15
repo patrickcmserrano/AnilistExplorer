@@ -1,0 +1,145 @@
+---
+import Layout from '../layouts/Layout.astro';
+import AnimeListPage from '../components/AnimeListPage';
+import animeData from '../data/anime.json';
+
+export const prerender = true;
+
+// Handle both old format and new format
+let animeArray: any[] = [];
+if (Array.isArray(animeData)) {
+  animeArray = animeData;
+} else if (animeData?.anime && Array.isArray(animeData.anime)) {
+  animeArray = animeData.anime;
+} else {
+  animeArray = Object.values(animeData || {});
+}
+---
+
+<Layout title="Shared List - Anime Explorer">
+  <main class="container mx-auto px-4 py-6">
+    <!-- Header with Navigation -->
+    <div class="mb-8">
+      <div class="flex items-center gap-4 mb-4">
+        <a href={import.meta.env.BASE_URL} class="text-blue-400 hover:text-blue-300 transition">← Home</a>
+        <a href={`${import.meta.env.BASE_URL}watch-later/`} class="text-blue-400 hover:text-blue-300 transition">🕒 My Watch Later</a>
+        <a href={`${import.meta.env.BASE_URL}favorites/`} class="text-pink-400 hover:text-pink-300 transition">❤️ My Favorites</a>
+      </div>
+      
+      <!-- Shared List Banner -->
+      <div class="bg-purple-900/20 border border-purple-500/50 rounded-lg p-4 mb-4">
+        <p class="text-purple-300 font-medium">
+          🔗 You're viewing a shared list
+        </p>
+        <p class="text-purple-200 text-sm mt-1">
+          Click the quick action buttons to add animes to your own lists
+        </p>
+      </div>
+    </div>
+
+    <!-- Shared List Container -->
+    <div id="shared-list-container"></div>
+
+    <script is:inline define:vars={{ animeArray }}>
+      // Wait for component to mount and decode URL
+      window.addEventListener('DOMContentLoaded', () => {
+        // Decode URL hash
+        function decodeUrlToList(urlHash) {
+          try {
+            const hash = urlHash.startsWith('#') ? urlHash.slice(1) : urlHash;
+            const [listType, encoded] = hash.split(':');
+            
+            if (!listType || !encoded) return null;
+            if (listType !== 'watch-later' && listType !== 'favorites') return null;
+            
+            const idsString = atob(encoded);
+            const animeIds = idsString.split(',').map(id => {
+              const num = Number(id);
+              return isNaN(num) ? id : num;
+            });
+            
+            return { listType, animeIds };
+          } catch (error) {
+            console.error('Failed to decode URL:', error);
+            return null;
+          }
+        }
+
+        // Get URL hash
+        const hash = window.location.hash;
+        
+        if (!hash) {
+          // No hash - show error
+          const container = document.getElementById('shared-list-container');
+          if (container) {
+            container.innerHTML = `
+              <div class="text-center py-16 bg-slate-800/30 rounded-lg border border-slate-700/50">
+                <p class="text-gray-300 text-lg mb-2">❌ Invalid Share Link</p>
+                <p class="text-gray-500 text-sm max-w-md mx-auto">
+                  This doesn't appear to be a valid shared list link. 
+                  Please check the URL and try again.
+                </p>
+              </div>
+            `;
+          }
+          return;
+        }
+
+        // Decode the shared list
+        const decoded = decodeUrlToList(hash);
+        
+        if (!decoded) {
+          // Invalid hash format
+          const container = document.getElementById('shared-list-container');
+          if (container) {
+            container.innerHTML = `
+              <div class="text-center py-16 bg-slate-800/30 rounded-lg border border-slate-700/50">
+                <p class="text-gray-300 text-lg mb-2">❌ Failed to Decode List</p>
+                <p class="text-gray-500 text-sm max-w-md mx-auto">
+                  The shared list could not be decoded. The link may be corrupted.
+                </p>
+              </div>
+            `;
+          }
+          return;
+        }
+
+        // Match anime IDs with anime data
+        const { listType, animeIds } = decoded;
+        const sharedAnimes = animeArray.filter(anime => 
+          animeIds.includes(String(anime.id || anime.anilist_id)) ||
+          animeIds.includes(Number(anime.id || anime.anilist_id))
+        );
+
+        // Sort by the order in the shared list
+        const sortedAnimes = animeIds.map(id => 
+          sharedAnimes.find(a => 
+            String(a.id || a.anilist_id) === String(id) ||
+            Number(a.id || a.anilist_id) === Number(id)
+          )
+        ).filter(Boolean);
+
+        // Store globally for React component
+        window.__SHARED_ANIMES__ = sortedAnimes;
+        window.__SHARED_LIST_TYPE__ = listType;
+      });
+    </script>
+
+    <AnimeListPage 
+      client:load 
+      animes={[]}
+      listType="watch-later"
+    />
+  </main>
+</Layout>
+
+<script>
+  // Update component with shared data
+  if (typeof window !== 'undefined') {
+    const checkAndUpdate = setInterval(() => {
+      if ((window as any).__SHARED_ANIMES__) {
+        clearInterval(checkAndUpdate);
+      }
+    }, 100);
+  }
+</script>

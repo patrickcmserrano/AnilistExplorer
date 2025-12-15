@@ -7,7 +7,7 @@ Busca animes populares do AniList com múltiplas imagens
 import requests
 import json
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 
 class AniListScraper:
@@ -338,6 +338,7 @@ def main():
     
     # Parse arguments
     fetch_screenshots = '--no-screenshots' not in sys.argv
+    force_update = '--force' in sys.argv
     
     # Get total animes from environment or default to 250
     total_animes = int(os.environ.get('TOTAL_ANIMES', '250'))
@@ -345,6 +346,22 @@ def main():
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     print("🎬 AniList Scraper - Anime Explorer")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
+
+    # Check cache
+    data_file = "../src/data/anime.json"
+    if not force_update and os.path.exists(data_file):
+        try:
+            with open(data_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                updated_at_str = data.get('metadata', {}).get('updatedAt')
+                if updated_at_str:
+                    updated_at = datetime.fromisoformat(updated_at_str)
+                    if datetime.now() - updated_at < timedelta(days=7):
+                        print(f"✅ Dados recentes encontrados ({updated_at.strftime('%Y-%m-%d %H:%M')})")
+                        print("⏭️  Pulando atualização (use --force para forçar)")
+                        return 0
+        except Exception as e:
+            print(f"⚠️  Erro ao verificar cache: {e}")
     
     scraper = AniListScraper(fetch_screenshots=fetch_screenshots)
     animes = scraper.scrape_all(total_animes=total_animes, per_page=50, fetch_screenshots=fetch_screenshots)
