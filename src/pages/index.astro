@@ -40,9 +40,13 @@ const lightweightAnimes = animeArray.map(anime => ({
   title: anime.title,
   base_title: anime.base_title || anime.title?.english || anime.title?.romaji,
   cover_image: anime.coverImage || anime.cover_image,
-  score: anime.averageScore || anime.score,
+  averageScore: anime.averageScore || anime.score, // Fixed: map to averageScore as expected by component
+  average_score: anime.averageScore || anime.score, // Fallback
+  episodes: anime.count || anime.episodes || 0, // Fixed: map to episodes as expected by component
   count: anime.count || anime.episodes || 0,
   popularity: anime.popularity || 0,
+  seasonYear: anime.seasonYear, // Added: for Year sorting
+  first_date: anime.first_date || anime.startDate, // Added: for Year sorting fallback
   genres: anime.genres || [],
 }));
 ---
